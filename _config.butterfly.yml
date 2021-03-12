@@ -90,31 +90,31 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img:
+index_img: /img/lynk/58.jpg
 
 # If the banner of page not setting, it will show the top_img
-default_top_img:
+default_top_img: /img/lynk/1.jpg
 
 # The banner image of archive page
-archive_img:
+archive_img: /img/lynk/51.jpg
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
-tag_img:
+tag_img: /img/lynk/10.jpg
 
 # The banner image of tag page
 # format:
 #  - tag name: xxxxx
-tag_per_img:
+tag_per_img: /img/lynk/84.jpg
 
 # If the banner of category page not setting, it will show the top_img
 # note: category page, not categories page (子分類頁面的 top_img)
-category_img:
+category_img: /img/lynk/29.jpg
 
 # The banner image of category page
 # format:
 #  - category name: xxxxx
-category_per_img:
+category_per_img: /img/lynk/47.jpg
 
 cover:
   # display the cover or not (是否顯示文章封面)
@@ -564,14 +564,14 @@ activate_power_mode:
 
 # Mouse click effects: fireworks (鼠標點擊效果: 煙火特效)
 fireworks:
-  enable: true
+  enable: false
   zIndex: 9999 # -1 or 9999
   mobile: false
 
 # Mouse click effects: Heart symbol (鼠標點擊效果: 愛心)
 click_heart:
-  enable: false
-  mobile: false
+  enable: true
+  mobile: true
 
 # Mouse click effects: words (鼠標點擊效果: 文字)
 ClickShowText:
@@ -697,7 +697,7 @@ busuanzi:
 # Time difference between publish date and now (網頁運行時間)
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
-  enable: true
+  enable: false
   publish_date: Year/Month/Day Time
 
 # Aside widget - Newest Comments
@@ -727,7 +727,7 @@ change_font_size: true
 
 # Conversion between Traditional and Simplified Chinese (簡繁轉換)
 translate:
-  enable: false
+  enable: true
   # The text of a button
   default: 繁
   # the language of website (1 - Traditional Chinese/ 2 - Simplified Chinese）

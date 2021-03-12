@@ -1,15 +1,13 @@
 ---
 title: "matplotlib绘图相关"
 date:       2019-02-19
-title: "数据的直观表达-->图形展示"
+subtitle: "数据的直观表达-->图形展示"
 tags:
 	- Python
 	- basis
 	- data_analysis
 ---
   
-
-
 
 
 
