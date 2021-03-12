@@ -41,7 +41,8 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-# fab fa-github: https://github.com/xxxxx || Github
+ fab fa-github: https://github.com/victorfengming || Github
+ fab fa-gitee: https://gitee.com/victorfengming || Gitee
 # fas fa-envelope: mailto:xxxxxx@gmail.com || Email
 
 # search (搜索)
@@ -96,7 +97,7 @@ index_img: /img/lynk/58.jpg
 default_top_img: /img/lynk/1.jpg
 
 # The banner image of archive page
-archive_img: /img/lynk/51.jpg
+archive_img: /img/lynk/29.jpg
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
@@ -120,7 +121,7 @@ cover:
   # display the cover or not (是否顯示文章封面)
   index_enable: true
   aside_enable: true
-  archives_enable: true
+  archives_enable: false
   # the position of cover in home page (封面顯示的位置)
   # left/right/both
   position: both
@@ -653,9 +654,9 @@ aside:
     description:
     button:
       enable: true
-      icon: fab fa-github
+      icon: fab fa-gitee
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://gitee.com/victorfengming
   card_announcement:
     enable: true
     content: This is my Blog
@@ -676,8 +677,8 @@ aside:
     sort_order: # Don't modify the setting unless you know how it works
   card_archives:
     enable: true
-    type: monthly # yearly or monthly
-    format: MMMM YYYY # eg: YYYY年MM月
+    type: yearly # yearly or monthly
+    format: YYYY MMMM  # eg: YYYY年MM月
     order: -1 # Sort of order. 1, asc for ascending; -1, desc for descending
     limit: 8 # if set 0 will show all
     sort_order: # Don't modify the setting unless you know how it works
