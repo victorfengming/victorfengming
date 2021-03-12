@@ -6,8 +6,7 @@ tags:
 	
 ---
 
-* content
-{:toc}
+
 
 
 

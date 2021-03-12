@@ -11,8 +11,7 @@ tags:
 
 
 
-* content
-{:toc}
+
 
 
 本文转载自:[Scoop包管理工具](https://www.thisfaner.com/posts/devops/windows/scoop%E5%8C%85%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/#scoop%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4)

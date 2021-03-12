@@ -13,8 +13,7 @@ tags:
 
 
 
-* content
-{:toc}
+
 
 [Django+xadmin打造在线教育平台（一）](https://www.cnblogs.com/derek1184405959/p/8590360.html)
 

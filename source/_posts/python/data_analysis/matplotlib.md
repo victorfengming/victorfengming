@@ -2,7 +2,6 @@
 title: "matplotlib绘图相关"
 date:       2019-02-19
 title: "数据的直观表达-->图形展示"
-date:       2020-02-19
 tags:
 	- Python
 	- basis
@@ -12,8 +11,7 @@ tags:
 
 
 
-* content
-{:toc}
+
 
 
   

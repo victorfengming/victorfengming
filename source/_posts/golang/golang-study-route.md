@@ -11,8 +11,7 @@ tags:
 
 
 
-* content
-{:toc}
+
 
 
 # ⼀、第1章 初识Go语⾔

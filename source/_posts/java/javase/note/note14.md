@@ -8,8 +8,7 @@ tags:
 ---
 
 
-* content
-{:toc}
+
 
 
 
