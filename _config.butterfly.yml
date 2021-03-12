@@ -7,15 +7,15 @@
 #   name || link || icon
 
 menu:
-  # Home: / || fas fa-home
-  # Archives: /archives/ || fas fa-archive
-  # Tags: /tags/ || fas fa-tags
-  # Categories: /categories/ || fas fa-folder-open
-  # List||fas fa-list:
-  #   Music: /music/ || fas fa-music
-  #   Movie: /movies/ || fas fa-video
-  # Link: /link/ || fas fa-link
-  # About: /about/ || fas fa-heart
+   Home: / || fas fa-home
+   Archives: /archives/ || fas fa-archive
+   Tags: /tags/ || fas fa-tags
+   Categories: /categories/ || fas fa-folder-open
+   List||fas fa-list:
+     Music: /music/ || fas fa-music
+     Movie: /movies/ || fas fa-video
+   Link: /link/ || fas fa-link
+   About: /about/ || fas fa-heart
 
 # Hide the child menu items in mobile sidebar
 hide_sidebar_menu_child: false
@@ -207,7 +207,7 @@ post_edit:
 related_post:
   enable: true
   limit: 6 # Number of posts displayed
-  date_type: created # or created or updated 文章日期顯示創建日或者更新日
+  date_type: updated # or created or updated 文章日期顯示創建日或者更新日
 
 # figcaption (圖片描述文字)
 photofigcaption: false
