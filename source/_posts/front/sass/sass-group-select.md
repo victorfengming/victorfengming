@@ -1,5 +1,6 @@
 ---
 title: 'Sass中群组选择器的嵌套'
+cover: "/img/lynk/45.jpg"
 date:       2019-09-20
 tags:
 	- web

@@ -1,5 +1,6 @@
 ---
 title: "Python有毒"
+cover: "/img/lynk/12.jpg"
 date:       2018-11-27
 subtitle: "IT小白慎重点击"
 tags:

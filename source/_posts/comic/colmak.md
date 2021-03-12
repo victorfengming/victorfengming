@@ -1,5 +1,6 @@
 ---
 title: '基于autohotkey的colmak布局配置'
+cover: "/img/lynk/79.jpg"
 date:       2020-01-10
 subtitle: '一个极客的键盘布局'
 tags:

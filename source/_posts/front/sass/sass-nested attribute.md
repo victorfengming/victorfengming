@@ -1,5 +1,6 @@
 ---
 title: 'Sass中嵌套属性'
+cover: "/img/lynk/87.jpg"
 date:       2019-09-20
 tags:
 	- web

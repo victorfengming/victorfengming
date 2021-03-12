@@ -1,5 +1,6 @@
 ---
 title: "node的第一个程序"
+cover: "/img/lynk/11.jpg"
 date:       2019-08-27
 tags:
 	- node

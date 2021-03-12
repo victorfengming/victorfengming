@@ -1,5 +1,7 @@
 ---  
 title: "第十四周日报"   
+date:       2019-11-11
+cover: "/img/lynk/32.jpg"
 subtitle: "day90、91、92、93、94、95、96"   
 tags: XDH    
 ---  

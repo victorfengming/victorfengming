@@ -1,5 +1,6 @@
 ---
 title: "Python脚本实现图片加水印"
+cover: "/img/lynk/13.jpg"
 date:       2019-11-25
 subtitle: "Pillow库"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Django笔记04-项目搭建"
+cover: "/img/lynk/70.jpg"
 date:       2019-11-26
 subtitle: "Python开发的一个免费开源的Web框架"
 tags:

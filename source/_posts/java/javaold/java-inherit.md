@@ -1,5 +1,6 @@
 ---
 title: 'Java中的继承'
+cover: "/img/lynk/38.jpg"
 date:       2019-10-11
 tags:
 	- Java

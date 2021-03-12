@@ -1,5 +1,6 @@
 ---
 title: "普里姆算法介绍"
+cover: "/img/lynk/7.jpg"
 date:       2011-12-05
 tags:
 	- algorithm

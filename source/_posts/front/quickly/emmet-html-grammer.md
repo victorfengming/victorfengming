@@ -1,5 +1,6 @@
 ---
 title: 'Emmet的html语法'
+cover: "/img/lynk/58.jpg"
 date:       2019-09-11
 tags:
 	- web

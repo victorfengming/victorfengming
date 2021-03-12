@@ -1,5 +1,6 @@
 ---
 title: "tornado学习笔记day02"
+cover: "/img/lynk/59.jpg"
 date:       2019-12-06
 subtitle: "进阶与提升"
 tags:

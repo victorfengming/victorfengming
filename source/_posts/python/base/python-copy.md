@@ -1,5 +1,6 @@
 ---
 title: "Python3中深拷贝与浅拷贝"
+cover: "/img/lynk/51.jpg"
 date:       2019-01-14
 tags:
 	- Python

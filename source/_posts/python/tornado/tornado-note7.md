@@ -1,5 +1,6 @@
 ---
 title: "tornado学习笔记day07"
+cover: "/img/lynk/51.jpg"
 date:       2019-12-09
 subtitle: "同步与异步"
 tags:

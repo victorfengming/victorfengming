@@ -1,5 +1,6 @@
 ---
 title: Python脚本实现爬取哔哩哔哩壁纸
+cover: "/img/lynk/91.jpg"
 date: 2021-03-12 21:25:09
 tags:
 ---

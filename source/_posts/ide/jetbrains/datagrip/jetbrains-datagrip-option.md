@@ -1,5 +1,6 @@
 ---
 title: 'DataGrip 入门操作'  
+cover: "/img/lynk/88.jpg"
 date:       2019-10-05
 tags:
 	- ide

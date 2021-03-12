@@ -1,5 +1,6 @@
 ---
 title: "Linux常用命令"
+cover: "/img/lynk/32.jpg"
 date:       2019-08-24
 tags:
 	- Linux

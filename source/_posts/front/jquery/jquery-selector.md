@@ -1,5 +1,6 @@
 ---
 title: 'jQuery中的选择器'
+cover: "/img/lynk/99.jpg"
 date:       2019-08-31
 tags:
 	- JavaScript

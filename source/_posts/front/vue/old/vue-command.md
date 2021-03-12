@@ -1,5 +1,6 @@
 ---
 title: "Vue指令大全"
+cover: "/img/lynk/87.jpg"
 date:       2019-09-15
 tags:
 	- web

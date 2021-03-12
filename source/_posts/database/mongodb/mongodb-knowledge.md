@@ -1,5 +1,6 @@
 ---
 title: "MongoDB从入门到放弃！"
+cover: "/img/lynk/51.jpg"
 date:       2019-09-28
 tags:
 	- Linux

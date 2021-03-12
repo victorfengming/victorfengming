@@ -1,5 +1,6 @@
 ---
 title: "Python中的yield详解"
+cover: "/img/lynk/10.jpg"
 date:       2019-11-22
 tags:
 	- Python

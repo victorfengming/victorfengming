@@ -1,5 +1,6 @@
 ---
 title: "git版本的回滚"
+cover: "/img/lynk/2.jpg"
 date:       2019-08-17
 tags:
 	- Git

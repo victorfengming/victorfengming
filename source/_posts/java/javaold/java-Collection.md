@@ -1,5 +1,6 @@
 ---
 title: 'Java中Collection类数据'
+cover: "/img/lynk/89.jpg"
 date:       2019-10-20
 subtitle: '增删改查'
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "谈谈对Python和其他语言区别"
+cover: "/img/lynk/14.jpg"
 date:       2019-11-28
 subtitle: "从三个方面看Python"
 tags:

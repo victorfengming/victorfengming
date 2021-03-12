@@ -1,5 +1,6 @@
 ---
 title: 'ES6中的let命令'
+cover: "/img/lynk/68.jpg"
 date:       2019-09-16
 tags:
 	- web

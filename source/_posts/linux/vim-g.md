@@ -1,5 +1,6 @@
 ---
 title: "vim中批量添加注释"
+cover: "/img/lynk/5.jpg"
 date:       2019-08-22
 tags:
 	- vim

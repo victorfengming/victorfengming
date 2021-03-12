@@ -1,5 +1,6 @@
 ---
 title: 'jQuery中的元素方法'
+cover: "/img/lynk/21.jpg"
 date:       2019-09-07
 tags:
 	- JavaScript

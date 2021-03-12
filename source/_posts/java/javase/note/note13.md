@@ -1,5 +1,6 @@
 ---
 title: 'Java笔记13-兄弟连在线考试系统'
+cover: "/img/lynk/79.jpg"
 date:       2019-10-30
 tags:
 	- Java

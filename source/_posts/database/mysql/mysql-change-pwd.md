@@ -1,5 +1,6 @@
 ---
 title: "mysql修改密码方法"
+cover: "/img/lynk/56.jpg"
 date:       2019-10-09
 tags:
 	- database

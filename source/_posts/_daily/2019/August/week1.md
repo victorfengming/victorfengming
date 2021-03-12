@@ -1,5 +1,7 @@
 ---  
 title: "第一周日报"   
+date:       2019-08-14
+cover: "/img/lynk/84.jpg"
 subtitle: "1、2、3、4、5"   
 tags: XDH    
 ---  

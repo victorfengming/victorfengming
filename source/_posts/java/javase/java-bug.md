@@ -1,5 +1,6 @@
 ---
 title: '关于java语法的各种坑'
+cover: "/img/lynk/29.jpg"
 date:       2019-10-15
 tags:
 	- Java

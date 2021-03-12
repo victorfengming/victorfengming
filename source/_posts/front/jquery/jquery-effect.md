@@ -1,5 +1,6 @@
 ---
 title: 'jQuery中的效果'
+cover: "/img/lynk/71.jpg"
 date:       2019-08-31
 tags:
 	- JavaScript

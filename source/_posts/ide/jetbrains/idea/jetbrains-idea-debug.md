@@ -1,5 +1,6 @@
 ---
 title: '在IDEA中调试代码'
+cover: "/img/lynk/72.jpg"
 date:       2019-10-21
 tags:
 	- ide

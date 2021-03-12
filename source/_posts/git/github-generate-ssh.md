@@ -1,5 +1,6 @@
 ---
 title: "git生成SSH并提交"
+cover: "/img/lynk/77.jpg"
 date:       2019-08-19
 subtitle: "在github中配置密钥"
 tags:

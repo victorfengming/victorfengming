@@ -1,5 +1,6 @@
 ---
 title: '宇宙最强数据库编辑器'
+cover: "/img/lynk/87.jpg"
 date:       2019-09-26
 subtitle: 'datagrip 介绍'  
 tags:

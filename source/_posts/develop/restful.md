@@ -1,5 +1,6 @@
 ---
 title: "RESTful架构风格简介"
+cover: "/img/lynk/45.jpg"
 date:       2020-02-17
 subtitle: "表现层状态转化"
 tags:

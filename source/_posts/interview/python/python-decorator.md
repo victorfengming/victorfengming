@@ -1,5 +1,6 @@
 ---
 title: "Python中的装饰器:Decorator"
+cover: "/img/lynk/55.jpg"
 date:       2019-11-28
 subtitle: "别样的方式实现面向切面编程"
 tags:

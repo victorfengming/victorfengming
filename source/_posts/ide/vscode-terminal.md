@@ -1,5 +1,6 @@
 ---
 title: "解决VSCode报错"
+cover: "/img/lynk/19.jpg"
 date:       2020-03-04
 subtitle: "因为在此系统上禁止运行脚本"
 tags:

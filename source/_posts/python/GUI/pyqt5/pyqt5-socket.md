@@ -1,5 +1,6 @@
 ---
 title: "CS架构的建议聊天室"
+cover: "/img/lynk/62.jpg"
 date:       2019-11-02
 subtitle: "通过PyQt5+Socket实现"
 tags:

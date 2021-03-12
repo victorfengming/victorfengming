@@ -1,5 +1,6 @@
 ---
 title: 'sublime Text 正则替换'
+cover: "/img/lynk/50.jpg"
 date:       2019-09-12
 tags:
 	- web

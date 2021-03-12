@@ -1,5 +1,6 @@
 ---
 title: "Python 四大主流 Web 编程框架"
+cover: "/img/lynk/5.jpg"
 date:       2019-01-12
 tags:
 	- Python

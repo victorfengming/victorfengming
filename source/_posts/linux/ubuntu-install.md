@@ -1,5 +1,6 @@
 ---
 title: "Ubuntu系统的安装"
+cover: "/img/lynk/62.jpg"
 date:       2019-08-14
 tags:
 	- Linux

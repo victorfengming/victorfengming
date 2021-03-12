@@ -1,5 +1,6 @@
 ---
 title: 'PyCharm的安装以及破解'
+cover: "/img/lynk/88.jpg"
 date:       2019-08-16
 tags:
 	- Python

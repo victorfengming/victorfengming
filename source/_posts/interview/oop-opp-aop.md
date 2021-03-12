@@ -1,5 +1,6 @@
 ---
 title: "如何理解面向过程、面向对象、面向切面？它们有什么区别"
+cover: "/img/lynk/5.jpg"
 date:       2019-11-28
 subtitle: "OOP 、 OPP 、 AOP"
 tags:

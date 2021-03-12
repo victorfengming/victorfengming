@@ -1,5 +1,6 @@
 ---
 title: "ElasticSearch安装与介绍"
+cover: "/img/lynk/96.jpg"
 date:       2021-03-05
 tags:
 	- base

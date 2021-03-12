@@ -1,5 +1,6 @@
 ---
 title: "ubuntu系统下nodejs的安装"
+cover: "/img/lynk/76.jpg"
 date:       2019-08-27
 tags:
 	- node

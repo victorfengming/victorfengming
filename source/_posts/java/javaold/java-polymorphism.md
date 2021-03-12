@@ -1,5 +1,6 @@
 ---
 title: 'Java中的多态'
+cover: "/img/lynk/59.jpg"
 date:       2019-10-11
 tags:
 	- Java

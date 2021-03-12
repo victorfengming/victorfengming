@@ -1,5 +1,6 @@
 ---
 title: "redis笔记01"
+cover: "/img/lynk/84.jpg"
 date:       2020-02-07
 subtitle: "redis简介"
 tags:

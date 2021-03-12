@@ -1,5 +1,6 @@
 ---
 title: "什么是AOP（面向切面编程）"
+cover: "/img/lynk/89.jpg"
 date:       2018-11-28
 subtitle: "Spring提供的关键特性之一"
 tags:

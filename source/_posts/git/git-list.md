@@ -1,5 +1,6 @@
 ---
 title: "Git常用命令清单(全)"
+cover: "/img/lynk/6.jpg"
 date:       2019-09-05
 tags:
 	- Git

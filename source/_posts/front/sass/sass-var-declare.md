@@ -1,5 +1,6 @@
 ---
 title: 'Sass中变量声明'
+cover: "/img/lynk/26.jpg"
 date:       2019-09-20
 tags:
 	- web

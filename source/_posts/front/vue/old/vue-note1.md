@@ -1,5 +1,6 @@
 ---
 title: "Vue.js+Django 实现前后端分离"
+cover: "/img/lynk/97.jpg"
 date:       2019-12-11
 tags:
 	- JavaScript

@@ -1,5 +1,6 @@
 ---
 title: 'js 原型链的理解'
+cover: "/img/lynk/78.jpg"
 date:       2019-09-11
 tags:
 	- JavaScript

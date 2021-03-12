@@ -1,5 +1,6 @@
 ---
 title: "python中文件变化监控"
+cover: "/img/lynk/90.jpg"
 date:       2019-10-10
 subtitle: "watchdog"
 tags:

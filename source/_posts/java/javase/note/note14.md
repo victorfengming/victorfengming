@@ -1,5 +1,6 @@
 ---
 title: 'Java笔记14-软件开发流程&设计原则'
+cover: "/img/lynk/27.jpg"
 date:       2019-10-28
 tags:
 	- Java

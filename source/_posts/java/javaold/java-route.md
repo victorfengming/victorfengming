@@ -1,5 +1,6 @@
 ---
 title: 'Java学习路线导航,带你走向CTO'
+cover: "/img/lynk/82.jpg"
 date:       2019-10-29
 tags:
 	- Java

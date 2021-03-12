@@ -1,5 +1,6 @@
 ---
 title: "git个人整理总结"
+cover: "/img/lynk/63.jpg"
 date:       2019-08-20
 tags:
 	- Git

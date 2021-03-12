@@ -1,5 +1,6 @@
 ---
 title: "Java笔记03-Constructor & Override"  
+cover: "/img/lynk/3.jpg"
 date:       2019-10-18
 tags:
 	- Java

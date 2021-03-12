@@ -1,5 +1,6 @@
 ---
 title: 'JS之DOM思维导图'
+cover: "/img/lynk/48.jpg"
 date:       2019-09-04
 tags:
 	- JavaScript

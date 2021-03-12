@@ -1,5 +1,6 @@
 ---
 title: 'js、jq获取当前鼠标位置'
+cover: "/img/lynk/61.jpg"
 date:       2019-09-10
 tags:
 	- JavaScript

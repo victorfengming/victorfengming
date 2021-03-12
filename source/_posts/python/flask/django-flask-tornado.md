@@ -1,5 +1,6 @@
 ---
 title: "Django/Flask/Tornado三大web框架性能分析"
+cover: "/img/lynk/53.jpg"
 date:       2019-10-04
 tags:
 	- Python

@@ -1,5 +1,6 @@
 ---
 title: "python3中的反射详解"
+cover: "/img/lynk/20.jpg"
 date:       2019-11-28
 subtitle: "Java中是支持python3中的反射详解的。在高级的Python中当然也是支持"
 tags:

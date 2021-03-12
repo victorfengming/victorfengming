@@ -1,5 +1,6 @@
 ---
 title: "Python实现替换博客文章名中的日期到文件中"
+cover: "/img/lynk/93.jpg"
 date:       2021-03-06
 tags:
 	- Python
@@ -36,6 +37,7 @@ import re
 """
 ---
 title: "Flask 概述"
+cover: "/img/lynk/93.jpg"
 date:       2021-03-06
 tags:
     - Python
@@ -52,6 +54,7 @@ tags:
 ---
 layout:     keynote
 title:      "Example Post using Keynote Layout"
+cover: "/img/lynk/93.jpg"
 date:       2021-03-06
 subtitle:   "Keynote: JavaScript Modularization Journey"
 iframe:     "http://huangxuan.me/js-module-7day/"

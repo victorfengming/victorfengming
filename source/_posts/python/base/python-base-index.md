@@ -1,5 +1,6 @@
 ---
 title: "Python基础部分索引"
+cover: "/img/lynk/31.jpg"
 date:       2018-08-29
 tags:
 	- Python

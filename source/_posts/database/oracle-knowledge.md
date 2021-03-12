@@ -1,5 +1,6 @@
 ---
 title: "Oracle基础知识总结"
+cover: "/img/lynk/25.jpg"
 date:       2019-09-28
 tags:
 	- Linux

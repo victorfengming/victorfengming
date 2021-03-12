@@ -1,5 +1,6 @@
 ---
 title: '送你一些实用的工具,收藏起来留着用'
+cover: "/img/lynk/19.jpg"
 date:       2019-10-12
 tags:
 	- entertainment

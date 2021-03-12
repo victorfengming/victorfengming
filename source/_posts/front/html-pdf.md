@@ -1,5 +1,6 @@
 ---
 title: '如何直接在网页中显示PDF文件'
+cover: "/img/lynk/76.jpg"
 date:       2019-10-19
 tags:
 	- web

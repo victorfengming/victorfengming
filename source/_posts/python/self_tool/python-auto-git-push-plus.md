@@ -1,5 +1,6 @@
 ---
 title: "Python实现自动推本地github博客到远程仓库"
+cover: "/img/lynk/31.jpg"
 date:       2019-09-08
 tags:
 	- Python

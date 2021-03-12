@@ -1,5 +1,6 @@
 ---
 title: "nodejs简介"
+cover: "/img/lynk/18.jpg"
 date:       2019-08-27
 tags:
 	- node

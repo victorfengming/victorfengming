@@ -1,5 +1,6 @@
 ---
 title: 'JavaWeb笔记05'
+cover: "/img/lynk/77.jpg"
 date:       2019-11-15
 subtitle:   "解决线程安全问题"
 tags:

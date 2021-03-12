@@ -1,5 +1,6 @@
 ---
 title: 'JDBC笔记01'
+cover: "/img/lynk/77.jpg"
 date:       2019-11-08
 subtitle: 'JDBC,Connection,Statement,ResultSet,PreparedStatement,Properties' 
 tags:

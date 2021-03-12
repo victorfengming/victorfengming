@@ -1,5 +1,6 @@
 ---
 title: "MySQL ERROR 1698 (28000) 错误"  
+cover: "/img/lynk/86.jpg"
 date:       2019-10-05
 tags:
 	- database

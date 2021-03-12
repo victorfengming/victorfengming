@@ -1,5 +1,6 @@
 ---
 title: "2019 Python 面试 100 问"
+cover: "/img/lynk/34.jpg"
 date:       2019-12-05
 subtitle: "全是干货分享"
 tags:

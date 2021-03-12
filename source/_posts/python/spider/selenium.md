@@ -1,5 +1,6 @@
 ---
 title: "selenium浅析"
+cover: "/img/lynk/26.jpg"
 date:       2019-11-18
 subtitle: "一种python的web自动化测试框架"
 tags:

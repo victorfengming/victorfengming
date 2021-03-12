@@ -1,5 +1,6 @@
 ---
 title: '常用链接汇总'
+cover: "/img/lynk/7.jpg"
 date:       2019-12-27
 tags:
 	- entertainment

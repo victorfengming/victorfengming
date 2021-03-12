@@ -1,5 +1,6 @@
 ---
 title: "Cmder简介"
+cover: "/img/lynk/11.jpg"
 date:       2020-03-04
 subtitle: "Windows上的程序员神器"
 tags:

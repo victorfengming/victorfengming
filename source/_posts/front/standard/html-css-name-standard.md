@@ -1,5 +1,6 @@
 ---
 title: 'HTML，CSS的class与id命名规则'
+cover: "/img/lynk/28.jpg"
 date:       2019-09-12
 tags:
 	- web

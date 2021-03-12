@@ -1,5 +1,6 @@
 ---
 title: "压缩软件"
+cover: "/img/lynk/42.jpg"
 date:       2019-09-23
 subtitle: "基于tkinter的GUI界面"
 tags:

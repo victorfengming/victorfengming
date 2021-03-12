@@ -1,5 +1,6 @@
 ---
 title: "python安装以及版本检测"
+cover: "/img/lynk/65.jpg"
 date:       2018-08-19
 tags:
 	- Python

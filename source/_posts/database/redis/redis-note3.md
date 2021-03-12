@@ -1,5 +1,6 @@
 ---
 title: "redis笔记03"
+cover: "/img/lynk/29.jpg"
 date:       2019-12-18
 subtitle: "redis数据类型"
 tags:

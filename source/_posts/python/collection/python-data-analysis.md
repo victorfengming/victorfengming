@@ -1,5 +1,6 @@
 ---
 title: "Python数据分析"
+cover: "/img/lynk/1.jpg"
 date:       2019-10-02
 subtitle: "Web APIs交互和数据库交互"
 tags:

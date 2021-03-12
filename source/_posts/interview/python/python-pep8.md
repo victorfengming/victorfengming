@@ -1,5 +1,6 @@
 ---
 title: "PEP8 Python 编码规范"
+cover: "/img/lynk/37.jpg"
 date:       2019-11-28
 subtitle: "遵循规范才能写出优美的代码"
 tags:

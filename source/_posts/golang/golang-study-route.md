@@ -1,5 +1,6 @@
 ---
 title: "Golang学习路线"
+cover: "/img/lynk/99.jpg"
 date:       2020-02-26
 subtitle: "Go 知识点目录"
 tags:

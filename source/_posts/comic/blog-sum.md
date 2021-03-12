@@ -1,5 +1,6 @@
 ---
 title: '兄弟会各种技术博文汇总'
+cover: "/img/lynk/32.jpg"
 date:       2018-10-29
 tags:
 	- entertainment

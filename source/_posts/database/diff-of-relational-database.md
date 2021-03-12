@@ -1,5 +1,6 @@
 ---
 title: "关于关系型数据库和非关系型数据库的区别浅析"
+cover: "/img/lynk/37.jpg"
 date:       2019-09-26
 tags:
 	- database

@@ -1,5 +1,6 @@
 ---
 title: "Bootstrap 响应式设计"
+cover: "/img/lynk/24.jpg"
 date:       2019-09-21
 tags:
 	- web

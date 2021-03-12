@@ -1,5 +1,6 @@
 ---
 title: "PHP的特点小结"
+cover: "/img/lynk/62.jpg"
 date:       2019-08-19
 tags:
 	- php

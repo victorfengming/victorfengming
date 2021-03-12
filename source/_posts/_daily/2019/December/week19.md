@@ -1,5 +1,7 @@
 ---  
 title: "第十久周日报"   
+date:       2019-12-16
+cover: "/img/lynk/23.jpg"
 subtitle:  "day125、126、127、128、129、130、131"   
 tags: XDH    
 ---  

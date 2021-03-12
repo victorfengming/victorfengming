@@ -1,5 +1,6 @@
 ---
 title: "mysql中的内置函数"
+cover: "/img/lynk/40.jpg"
 date:       2019-10-03
 tags:
 	- Linux

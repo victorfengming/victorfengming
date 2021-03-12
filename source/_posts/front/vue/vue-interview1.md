@@ -1,5 +1,6 @@
 ---
 title: "Vue面试题合集"
+cover: "/img/lynk/88.jpg"
 date:       2020-02-23
 subtitle: "前端面试题"
 tags:

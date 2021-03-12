@@ -1,5 +1,6 @@
 ---
 title: 'tomcat的配置以及使用'
+cover: "/img/lynk/0.jpg"
 date:       2019-10-21
 tags:
 	- Java

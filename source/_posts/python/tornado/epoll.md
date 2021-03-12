@@ -1,5 +1,6 @@
 ---
 title: "关于Epoll的使用详解"
+cover: "/img/lynk/1.jpg"
 date:       2019-12-05
 subtitle: "Linux内核为处理大批量文件描述符而作了改进的poll"
 tags:

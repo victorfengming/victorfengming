@@ -1,5 +1,6 @@
 ---
 title: "Python3和Python2中int和long区别"
+cover: "/img/lynk/45.jpg"
 date:       2019-11-28
 tags:
 	- Python

@@ -1,5 +1,6 @@
 ---
 title: "了解FastAPI结构"
+cover: "/img/lynk/9.jpg"
 date:       2020-03-05
 subtitle: "python的api框架"
 tags:

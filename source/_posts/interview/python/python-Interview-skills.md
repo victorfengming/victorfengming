@@ -1,5 +1,6 @@
 ---
 title: "Python面试的一些心得"
+cover: "/img/lynk/41.jpg"
 date:       2019-09-23
 subtitle: "与Python练习题分享"
 tags:

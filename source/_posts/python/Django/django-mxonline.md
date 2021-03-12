@@ -1,5 +1,6 @@
 ---
 title: "mooc后台管理系统设计"
+cover: "/img/lynk/41.jpg"
 date:       2020-01-14
 subtitle: "一个完美主义的web框架"
 tags:

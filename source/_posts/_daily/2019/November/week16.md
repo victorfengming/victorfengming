@@ -1,5 +1,7 @@
 ---  
 title: "第十六周日报"   
+date:       2019-11-25
+cover: "/img/lynk/77.jpg"
 subtitle:  "day104、105、106、107、108、109、110"   
 tags: XDH    
 ---  

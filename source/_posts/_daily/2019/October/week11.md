@@ -1,5 +1,7 @@
 ---  
 title: "第十一周日报"   
+date:       2019-10-21
+cover: "/img/lynk/46.jpg"
 subtitle: "day69、70、71、72、73、74、75"   
 tags: XDH    
 ---  

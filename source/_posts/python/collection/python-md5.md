@@ -1,5 +1,6 @@
 ---
 title: "Python之MD5加密"
+cover: "/img/lynk/56.jpg"
 date:       2019-01-13
 subtitle: "带你玩转各种加密"
 tags:

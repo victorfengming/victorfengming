@@ -1,5 +1,6 @@
 ---
 title: "Vue CLI的安装"
+cover: "/img/lynk/13.jpg"
 date:       2019-09-17
 tags:
 	- web

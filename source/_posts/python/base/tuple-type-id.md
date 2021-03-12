@@ -1,5 +1,6 @@
 ---
 title: "关于Python3.7和Python3.6中元组类型数据内存存储问题"
+cover: "/img/lynk/41.jpg"
 date:       2018-08-16
 tags:
 	- Python

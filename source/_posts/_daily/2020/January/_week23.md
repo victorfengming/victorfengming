@@ -1,5 +1,7 @@
 ---  
 title: "第二十周日报"   
+date:       2020-01-13
+cover: "/img/lynk/87.jpg"
 subtitle:  "day153、154、155、156、157、158、159"   
 tags: XDH    
 ---  

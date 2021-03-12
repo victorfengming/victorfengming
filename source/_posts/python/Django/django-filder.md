@@ -1,5 +1,6 @@
 ---
 title: "Django模板（过滤器）"
+cover: "/img/lynk/53.jpg"
 date:       2019-12-03
 subtitle: "django内建的过滤器"
 tags:

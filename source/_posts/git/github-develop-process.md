@@ -1,5 +1,6 @@
 ---
 title: "github开源项目协同开发流程"
+cover: "/img/lynk/26.jpg"
 date:       2019-08-19
 tags:
 	- Git

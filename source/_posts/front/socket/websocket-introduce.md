@@ -1,5 +1,6 @@
 ---
 title: "websocket初识"
+cover: "/img/lynk/46.jpg"
 date:       2019-08-30
 tags:
 	- socket

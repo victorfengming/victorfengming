@@ -1,5 +1,6 @@
 ---
 title: "ELK启动问题解决方案"
+cover: "/img/lynk/77.jpg"
 date:       2021-03-12
 subtitle: ""
 tags:

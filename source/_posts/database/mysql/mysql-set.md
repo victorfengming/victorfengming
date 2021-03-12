@@ -1,5 +1,6 @@
 ---
 title: "MySQL中交集和差集"
+cover: "/img/lynk/82.jpg"
 date:       2019-10-09
 tags:
 	- database

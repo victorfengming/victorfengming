@@ -1,5 +1,7 @@
 ---  
 title: "第五周日报"   
+date:       2019-09-09
+cover: "/img/lynk/96.jpg"
 subtitle: "27、28、29、30、31、32、33"   
 tags: XDH    
 ---  

@@ -1,5 +1,7 @@
 ---  
 title: "第六周日报"   
+date:       2019-09-16
+cover: "/img/lynk/49.jpg"
 subtitle: "34、35、36、37、38、39、40"   
 tags: XDH    
 ---  

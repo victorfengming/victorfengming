@@ -1,5 +1,7 @@
 ---
 title: "兄弟会 - 阶段感悟"
+date:       2019-09-19
+cover: "/img/lynk/51.jpg"
 tags: XDH  
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "关于deepin系统的各种坑"
+cover: "/img/lynk/66.jpg"
 date:       2019-09-24
 tags:
 	- Linux

@@ -1,5 +1,6 @@
 ---
 title: "Git仓库.git文件夹目录介绍"
+cover: "/img/lynk/56.jpg"
 date:       2019-10-17
 tags:
 	- Git

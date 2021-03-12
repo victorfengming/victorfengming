@@ -1,5 +1,6 @@
 ---
 title: '漫话：如何给女朋友解释鸿蒙OS是怎样实现跨平台的？'
+cover: "/img/lynk/72.jpg"
 date:       2019-08-31
 tags:
 	- entertainment

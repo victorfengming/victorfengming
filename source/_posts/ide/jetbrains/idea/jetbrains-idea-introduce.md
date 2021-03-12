@@ -1,5 +1,6 @@
 ---
 title: '宇宙最强Java编辑器'
+cover: "/img/lynk/97.jpg"
 date:       2019-09-26
 subtitle: 'IntelliJ IDEA 介绍'
 tags:

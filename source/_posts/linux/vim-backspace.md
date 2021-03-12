@@ -1,5 +1,6 @@
 ---
 title: "vim编辑器不能使用backspace问题解决方案"
+cover: "/img/lynk/7.jpg"
 date:       2019-08-22
 subtitle: "在ubuntu系统中"
 

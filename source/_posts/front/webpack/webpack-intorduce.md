@@ -1,5 +1,6 @@
 ---
 title: '前端框架之webpack介绍'
+cover: "/img/lynk/57.jpg"
 date:       2019-09-21
 tags:
 	- web

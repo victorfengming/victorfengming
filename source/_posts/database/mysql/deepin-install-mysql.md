@@ -1,5 +1,6 @@
 ---
 title: "一行命令带你安装mysql(deepin系统下)"
+cover: "/img/lynk/81.jpg"
 date:       2019-09-25
 tags:
 	- Linux

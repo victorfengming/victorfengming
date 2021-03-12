@@ -1,5 +1,6 @@
 ---
 title: "从头到尾彻底理解KMP"
+cover: "/img/lynk/6.jpg"
 date:       2011-12-05
 tags:
 	- algorithm

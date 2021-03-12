@@ -1,5 +1,6 @@
 ---
 title: "PyQt5学习笔记6-10"
+cover: "/img/lynk/67.jpg"
 date:       2019-10-31
 tags:
 	- Python

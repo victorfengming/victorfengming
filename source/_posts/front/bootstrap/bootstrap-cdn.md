@@ -1,5 +1,6 @@
 ---
 title: "快速部署Bootstrap环境"
+cover: "/img/lynk/61.jpg"
 date:       2019-09-19
 tags:
 	- web

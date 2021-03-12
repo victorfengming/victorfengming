@@ -1,5 +1,6 @@
 ---
 title: 'jQuery中的事件'
+cover: "/img/lynk/62.jpg"
 date:       2019-08-31
 tags:
 	- JavaScript

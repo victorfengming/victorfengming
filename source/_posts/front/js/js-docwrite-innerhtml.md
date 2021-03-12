@@ -1,5 +1,6 @@
 ---
 title: 'JS中的document.write和innerHTML区别'
+cover: "/img/lynk/18.jpg"
 date:       2019-09-06
 tags:
 	- JavaScript

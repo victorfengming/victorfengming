@@ -1,5 +1,6 @@
 ---
 title: "Notepad++运行python"
+cover: "/img/lynk/6.jpg"
 date:       2019-08-16
 tags:
 	- Python

@@ -1,5 +1,6 @@
 ---
 title: "Django笔记03-模板引擎"
+cover: "/img/lynk/48.jpg"
 date:       2019-11-25
 subtitle: "重量级选手中最有代表性的一位"
 tags:

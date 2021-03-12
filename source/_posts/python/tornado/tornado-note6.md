@@ -1,5 +1,6 @@
 ---
 title: "tornado学习笔记day06"
+cover: "/img/lynk/65.jpg"
 date:       2019-12-08
 subtitle: "应用安全"
 tags:

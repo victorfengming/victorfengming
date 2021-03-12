@@ -1,5 +1,6 @@
 ---
 title: "Python pip 安装与使用"
+cover: "/img/lynk/86.jpg"
 date:       2018-10-12
 tags:
 	- Python

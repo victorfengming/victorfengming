@@ -1,5 +1,6 @@
 ---
 title: "python之禅"
+cover: "/img/lynk/54.jpg"
 date:       2019-11-28
 subtitle: "python的设计哲学：优雅，简洁。。。"
 tags:

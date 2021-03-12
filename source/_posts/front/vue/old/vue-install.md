@@ -1,5 +1,6 @@
 ---
 title: "Vue.js的安装"
+cover: "/img/lynk/61.jpg"
 date:       2019-08-30
 tags:
 	- JavaScript

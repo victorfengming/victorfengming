@@ -1,5 +1,6 @@
 ---
 title: "Golang安装"
+cover: "/img/lynk/13.jpg"
 date:       2020-02-26
 subtitle: "Go 安装以及配置"
 tags:

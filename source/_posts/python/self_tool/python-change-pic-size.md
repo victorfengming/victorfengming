@@ -1,5 +1,6 @@
 ---
 title: "Python实现修改图片尺寸"
+cover: "/img/lynk/16.jpg"
 date:       2019-10-13
 tags:
 	- Python

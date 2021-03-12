@@ -1,5 +1,6 @@
 ---
 title: "Scoop简识"
+cover: "/img/lynk/1.jpg"
 date:       2020-03-04
 subtitle: "Windows下常用的包管理工具"
 tags:

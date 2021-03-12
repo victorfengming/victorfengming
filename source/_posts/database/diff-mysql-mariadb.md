@@ -1,5 +1,6 @@
 ---
 title: "MariaDB mysql 比较区别 选择"  
+cover: "/img/lynk/86.jpg"
 date:       2019-10-03
 tags:
 	- Linux

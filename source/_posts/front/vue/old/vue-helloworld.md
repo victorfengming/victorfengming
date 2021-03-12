@@ -1,5 +1,6 @@
 ---
 title: "我的第一个Vue程序"
+cover: "/img/lynk/71.jpg"
 date:       2019-09-18
 tags:
 	- web

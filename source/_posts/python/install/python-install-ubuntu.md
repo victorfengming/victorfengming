@@ -1,5 +1,6 @@
 ---
 title: "ubuntu下安装python3.7"
+cover: "/img/lynk/15.jpg"
 date:       2018-08-19
 tags:
 	- Python

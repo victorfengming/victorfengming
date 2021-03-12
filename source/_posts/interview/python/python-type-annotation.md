@@ -1,5 +1,6 @@
 ---
 title: "​Python3新特性：类型注解"
+cover: "/img/lynk/46.jpg"
 date:       2019-11-28
 subtitle: "让你的代码具有灵魂"
 tags:

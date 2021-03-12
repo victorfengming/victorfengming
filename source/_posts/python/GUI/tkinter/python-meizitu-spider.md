@@ -1,5 +1,6 @@
 ---
 title: "python爬取妹子图"
+cover: "/img/lynk/51.jpg"
 date:       2019-09-23
 subtitle: "tkinter下载界面"
 tags:

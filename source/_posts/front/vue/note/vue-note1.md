@@ -1,5 +1,6 @@
 ---
 title: "Vue.js笔记01"
+cover: "/img/lynk/36.jpg"
 date:       2020-01-15
 subtitle: "初识Vue.js"
 tags:

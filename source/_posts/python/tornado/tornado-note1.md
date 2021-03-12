@@ -1,5 +1,6 @@
 ---
 title: "tornado学习笔记day01"
+cover: "/img/lynk/3.jpg"
 date:       2019-12-05
 subtitle: "高并发性能web框架"
 tags:

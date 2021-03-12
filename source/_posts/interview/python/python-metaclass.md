@@ -1,5 +1,6 @@
 ---
 title: "python中什么是元类metaclass？"
+cover: "/img/lynk/58.jpg"
 date:       2019-12-01
 subtitle: "万物皆对象"
 tags:

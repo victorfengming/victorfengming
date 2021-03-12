@@ -1,5 +1,6 @@
 ---
 title: "盘点key value在各个编程语言中的类型"
+cover: "/img/lynk/14.jpg"
 date:       2020-04-14
 subtitle: "站在巨人的肩膀上，吸收了同伴的特点"
 tags:

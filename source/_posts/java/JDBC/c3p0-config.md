@@ -1,5 +1,6 @@
 ---
 title: 'c3p0-config.xml文件简单说明与备忘'
+cover: "/img/lynk/8.jpg"
 date:       2019-11-09
 tags:
 	- Java

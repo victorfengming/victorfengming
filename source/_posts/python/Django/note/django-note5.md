@@ -1,5 +1,6 @@
 ---
 title: "Django笔记05-后台展示"
+cover: "/img/lynk/16.jpg"
 date:       2019-11-28
 subtitle: "一个广受欢迎的服务器端框架"
 tags:

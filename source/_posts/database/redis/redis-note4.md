@@ -1,5 +1,6 @@
 ---
 title: "redis笔记04"
+cover: "/img/lynk/93.jpg"
 date:       2019-12-18
 subtitle: "redis高级部分"
 tags:

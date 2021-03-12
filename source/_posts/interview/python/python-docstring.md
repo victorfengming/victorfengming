@@ -1,5 +1,6 @@
 ---
 title: "Python中的docstring"
+cover: "/img/lynk/86.jpg"
 date:       2019-11-28
 subtitle: "养成写文档的好习惯"
 tags:

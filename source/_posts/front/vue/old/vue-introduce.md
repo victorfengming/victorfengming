@@ -1,5 +1,6 @@
 ---
 title: "Vue.js简单介绍"
+cover: "/img/lynk/79.jpg"
 date:       2019-08-30
 tags:
 	- JavaScript

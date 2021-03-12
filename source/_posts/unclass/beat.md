@@ -1,5 +1,6 @@
 ---
 title: "Beats入门简介"
+cover: "/img/lynk/28.jpg"
 date:       2021-03-05
 tags:
 	- base

@@ -1,5 +1,6 @@
 ---
 title: 'JavaWeb笔记03'
+cover: "/img/lynk/94.jpg"
 date:       2019-11-12
 subtitle: 'Servlet'
 tags:

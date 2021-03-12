@@ -1,5 +1,6 @@
 ---
 title: "Flask 蓝图（Blueprint）使用方式解析"
+cover: "/img/lynk/20.jpg"
 date:       2019-11-29
 subtitle: "模块化管理程序路由的功能"
 tags:

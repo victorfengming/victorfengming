@@ -1,5 +1,6 @@
 ---
 title: '宇宙最强python编辑器'
+cover: "/img/lynk/2.jpg"
 date:       2019-09-26
 subtitle: 'pycharm 介绍'  
 tags:

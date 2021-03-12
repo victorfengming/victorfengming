@@ -1,5 +1,7 @@
 ---  
 title: "第七周日报"   
+date:       2019-09-23
+cover: "/img/lynk/8.jpg"
 subtitle: "day41、42、43、44、45、46、47"   
 tags: XDH    
 ---  

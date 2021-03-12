@@ -1,5 +1,6 @@
 ---
 title: 'Spring 概述'
+cover: "/img/lynk/36.jpg"
 date:       2019-10-07
 tags:
 	- Java

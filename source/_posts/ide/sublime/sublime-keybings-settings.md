@@ -1,5 +1,6 @@
 ---
 title: 'sublime快捷键和设置配置'
+cover: "/img/lynk/74.jpg"
 date:       2019-09-17
 subtitle: 'jetbrains习惯'
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Python常见的170道面试题全解析答案"
+cover: "/img/lynk/97.jpg"
 date:       2019-12-05
 subtitle: "全是干货分享"
 tags:

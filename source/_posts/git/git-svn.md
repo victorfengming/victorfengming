@@ -1,5 +1,6 @@
 ---
 title: "浅谈Git 与 SVN 区别"
+cover: "/img/lynk/25.jpg"
 date:       2020-02-28
 subtitle: "带你玩遍版本控制"
 tags:

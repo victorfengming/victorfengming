@@ -1,5 +1,6 @@
 ---
 title: "Scrapy笔记02"
+cover: "/img/lynk/84.jpg"
 date:       2019-11-21
 tags:
 	- Python

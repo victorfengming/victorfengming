@@ -1,5 +1,6 @@
 ---
 title: "python生成requirements.txt的两种方法"
+cover: "/img/lynk/66.jpg"
 date:       2019-01-15
 subtitle: "带你玩转虚拟环境"
 tags:

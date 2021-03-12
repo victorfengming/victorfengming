@@ -1,5 +1,6 @@
 ---
 title: '内存耗尽后Redis会发生什么'
+cover: "/img/lynk/95.jpg"
 date:       2021-02-29
 tags:
 	- interview

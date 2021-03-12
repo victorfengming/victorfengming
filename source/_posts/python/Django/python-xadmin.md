@@ -1,5 +1,6 @@
 ---
 title: "Xadmin添加用户小组件出错"
+cover: "/img/lynk/92.jpg"
 date:       2020-01-16
 subtitle: "render() got an unexpected keyword argument 'renderer"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: 'Sass中嵌套CSS的规则'
+cover: "/img/lynk/6.jpg"
 date:       2019-09-20
 tags:
 	- web

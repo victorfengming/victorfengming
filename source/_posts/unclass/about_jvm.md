@@ -1,5 +1,6 @@
 ---
 title: "Java虚拟机"
+cover: "/img/lynk/86.jpg"
 date:       2021-02-23
 tags:
 	- summer

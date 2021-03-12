@@ -1,5 +1,6 @@
 ---
 title: 'WebStrom实时预览功能--Chrome'
+cover: "/img/lynk/0.jpg"
 date:       2019-09-18
 tags:
 	- ide

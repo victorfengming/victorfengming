@@ -1,5 +1,6 @@
 ---
 title: 'js中的事件委托和事件代理详解'
+cover: "/img/lynk/91.jpg"
 date:       2019-09-10
 tags:
 	- JavaScript

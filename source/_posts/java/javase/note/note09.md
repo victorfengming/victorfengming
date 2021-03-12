@@ -1,5 +1,6 @@
 ---
 title: "Java笔记09-【继承、super、this、抽象类】"
+cover: "/img/lynk/98.jpg"
 date:       2019-10-21
 tags:
 	- Java

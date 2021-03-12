@@ -1,5 +1,6 @@
 ---
 title: "Python自动化测试iOS项目"
+cover: "/img/lynk/84.jpg"
 date:       2016-08-04
 tags:
 	- python

@@ -1,5 +1,6 @@
 ---
 title: "mysql中的RDBMS 术语"  
+cover: "/img/lynk/51.jpg"
 date:       2019-10-02
 tags:
 	- Linux

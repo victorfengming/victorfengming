@@ -1,5 +1,7 @@
 ---  
 title: "第十二周日报"   
+date:       2019-10-28
+cover: "/img/lynk/67.jpg"
 subtitle: "day76、77、78、79、80、81、82"   
 tags: XDH    
 ---  

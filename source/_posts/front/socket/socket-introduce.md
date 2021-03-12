@@ -1,5 +1,6 @@
 ---
 title: "socket简介"
+cover: "/img/lynk/46.jpg"
 date:       2019-08-31
 tags:
 	- socket

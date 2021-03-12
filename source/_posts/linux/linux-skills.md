@@ -1,5 +1,6 @@
 ---
 title: "linux中的技巧和快捷键总结"
+cover: "/img/lynk/92.jpg"
 date:       2019-08-27
 subtitle: "Linux面试宝典"
 tags:

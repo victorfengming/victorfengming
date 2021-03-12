@@ -1,5 +1,6 @@
 ---
 title: "Node.js笔记整理"
+cover: "/img/lynk/53.jpg"
 date:       2019-08-29
 tags:
 	- node

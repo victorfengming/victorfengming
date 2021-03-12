@@ -1,5 +1,6 @@
 ---
 title: "Django的MVT模式与MVC模式"
+cover: "/img/lynk/72.jpg"
 date:       2019-11-27
 subtitle: "一个完美主义的web框架所用的设计模式"
 tags:

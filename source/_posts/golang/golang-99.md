@@ -1,5 +1,6 @@
 ---
 title: "Golang语言写99乘法表"
+cover: "/img/lynk/51.jpg"
 date:       2020-02-28
 subtitle: "双重for循环"
 tags:

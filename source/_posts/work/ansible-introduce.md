@@ -1,5 +1,6 @@
 ---
 title: "ansible简介"
+cover: "/img/lynk/73.jpg"
 date:       2020-04-21
 subtitle: "一款简单的运维自动化工具"
 tags:

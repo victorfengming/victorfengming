@@ -1,5 +1,6 @@
 ---
 title: "python爬取有道詞典"
+cover: "/img/lynk/96.jpg"
 date:       2018-09-23
 tags:
 	- Python

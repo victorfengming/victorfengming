@@ -1,5 +1,6 @@
 ---
 title: 'JavaScript中的map数据类型'
+cover: "/img/lynk/23.jpg"
 date:       2020-04-04
 tags:
 	- JavaScript

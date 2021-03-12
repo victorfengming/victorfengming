@@ -1,5 +1,6 @@
 ---
 title: "redis面试题汇总"
+cover: "/img/lynk/7.jpg"
 date:       2019-12-18
 tags:
 	- Linux

@@ -1,5 +1,7 @@
 ---  
 title: "第八周日报"   
+date:       2019-09-30
+cover: "/img/lynk/34.jpg"
 subtitle: "day48、49、50、51、52、53、54"   
 tags: XDH    
 ---  

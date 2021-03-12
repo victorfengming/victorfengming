@@ -1,5 +1,6 @@
 ---
 title: "面试官：String长度有限制吗？是多少？"
+cover: "/img/lynk/87.jpg"
 date:       2021-03-04
 tags:
 	- base

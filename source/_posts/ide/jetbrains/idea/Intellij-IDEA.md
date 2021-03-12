@@ -1,5 +1,6 @@
 ---
 title: 'jetbrains 系列IDE 使用技巧'  
+cover: "/img/lynk/64.jpg"
 date:       2019-09-18
 tags:
 	- ide

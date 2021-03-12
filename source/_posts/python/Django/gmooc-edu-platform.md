@@ -1,5 +1,6 @@
 ---
 title: "基于django的在线教育平台项目01"
+cover: "/img/lynk/35.jpg"
 date:       2019-12-19
 subtitle: "一个免费开源的Web框架"
 tags:

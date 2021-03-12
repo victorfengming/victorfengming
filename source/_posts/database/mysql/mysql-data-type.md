@@ -1,5 +1,6 @@
 ---
 title: "MySQL的基础数据类型"
+cover: "/img/lynk/77.jpg"
 date:       2019-10-01
 tags:
 	- database

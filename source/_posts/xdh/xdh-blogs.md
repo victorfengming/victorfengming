@@ -1,5 +1,7 @@
 ---
 title: "兄弟会个人博客汇总"
+date:       2018-08-30
+cover: "/img/lynk/56.jpg"
 tags: Index XDH summer
 ---
 ## 分组

@@ -1,5 +1,6 @@
 ---
 title: "npm常用命令"
+cover: "/img/lynk/50.jpg"
 date:       2019-08-27
 tags:
 	- node

@@ -1,5 +1,6 @@
 ---
 title: "Python实现一行代码推本地git到远程仓库"
+cover: "/img/lynk/60.jpg"
 date:       2019-09-08
 tags:
 	- Python

@@ -1,5 +1,6 @@
 ---
 title: 'Java中final关键字的几种用法'
+cover: "/img/lynk/44.jpg"
 date:       2019-10-11
 tags:
 	- Java

@@ -1,5 +1,6 @@
 ---
 title: "Python3生成脚本实现重置键盘键位"
+cover: "/img/lynk/82.jpg"
 date:       2019-12-04
 subtitle: "window系统下bat工具"
 tags:

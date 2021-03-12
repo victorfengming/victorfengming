@@ -1,5 +1,6 @@
 ---
 title: 'DataGrip使用进阶'
+cover: "/img/lynk/43.jpg"
 date:       2019-10-05
 subtitle: '-导航及搜索（一）'
 tags:

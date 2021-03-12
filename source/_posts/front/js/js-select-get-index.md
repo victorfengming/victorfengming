@@ -1,5 +1,6 @@
 ---
 title: 'js和jq选择相关'
+cover: "/img/lynk/90.jpg"
 date:       2019-09-07
 subtitle: '判断select是否选中、获取select选中的值'
 tags:

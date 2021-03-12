@@ -1,5 +1,6 @@
 ---
 title: "pycharm中运行django的相关配置"
+cover: "/img/lynk/72.jpg"
 date:       2019-11-27
 subtitle: "Requested setting CACHES, but settings are not configured. 问题解决"
 tags:

@@ -1,5 +1,7 @@
 ---  
 title: "第久周日报"   
+date:       2019-10-07
+cover: "/img/lynk/72.jpg"
 subtitle: "day55、56、57、58、59、60、61"   
 tags: XDH    
 ---  

@@ -1,5 +1,6 @@
 ---
 title: "tornado学习笔记day08"
+cover: "/img/lynk/17.jpg"
 date:       2019-12-09
 subtitle: "tornado中的异步"
 tags:

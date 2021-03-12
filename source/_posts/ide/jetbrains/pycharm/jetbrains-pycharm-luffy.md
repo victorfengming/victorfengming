@@ -1,5 +1,6 @@
 ---
 title: 'Pycharm使用秘籍'
+cover: "/img/lynk/31.jpg"
 date:       2019-10-04
 tags:
 	- ide

@@ -1,5 +1,6 @@
 ---
 title: 'Sublime弹出更新框解决方案'
+cover: "/img/lynk/79.jpg"
 date:       2019-10-12
 tags:
 	- ide

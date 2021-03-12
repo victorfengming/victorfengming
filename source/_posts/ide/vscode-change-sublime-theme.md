@@ -1,5 +1,6 @@
 ---
 title: '教你将Visual Studio Code打造成更加强大的sublime'
+cover: "/img/lynk/32.jpg"
 date:       2019-09-17
 tags:
 	- ide

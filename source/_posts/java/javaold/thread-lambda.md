@@ -1,5 +1,6 @@
 ---
 title: 'Java中线程池、Lambda表达式'
+cover: "/img/lynk/29.jpg"
 date:       2019-10-22
 tags:
 	- Java

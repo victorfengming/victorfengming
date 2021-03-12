@@ -1,5 +1,6 @@
 ---
 title: '关于WebStrom在Chrome中打开本地js文件解决方案'
+cover: "/img/lynk/21.jpg"
 date:       2019-09-26
 tags:
 	- ide

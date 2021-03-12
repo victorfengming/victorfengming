@@ -1,5 +1,6 @@
 ---
 title: 'Sass中父选择器的标识符&'
+cover: "/img/lynk/89.jpg"
 date:       2019-09-20
 tags:
 	- web

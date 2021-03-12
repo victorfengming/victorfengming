@@ -1,5 +1,6 @@
 ---
 title: "Django笔记"
+cover: "/img/lynk/6.jpg"
 date:       2019-12-03
 subtitle: "多人博客项目"
 tags:

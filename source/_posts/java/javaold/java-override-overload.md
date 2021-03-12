@@ -1,5 +1,6 @@
 ---
 title: 'Java 重写(Override)与重载(Overload)'
+cover: "/img/lynk/11.jpg"
 date:       2019-10-11
 tags:
 	- Java

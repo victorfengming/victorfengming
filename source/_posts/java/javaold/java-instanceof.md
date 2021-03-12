@@ -1,5 +1,6 @@
 ---
 title: 'Java中的instanceof简析'
+cover: "/img/lynk/28.jpg"
 date:       2019-10-16
 tags:
 	- Java

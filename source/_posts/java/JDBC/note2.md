@@ -1,5 +1,6 @@
 ---
 title: 'JDBC笔记02'
+cover: "/img/lynk/63.jpg"
 date:       2019-11-09
 subtitle: '数据库连接池 Spring JDBC'  
 tags:

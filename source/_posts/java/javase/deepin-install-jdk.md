@@ -1,5 +1,6 @@
 ---
 title: 'Deepin下java开发环境部署'
+cover: "/img/lynk/9.jpg"
 date:       2019-09-04
 tags:
 	- Java

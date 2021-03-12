@@ -1,5 +1,6 @@
 ---
 title: "Gitbook安装问题"
+cover: "/img/lynk/84.jpg"
 date:       2021-02-04
 subtitle: "问题解决"
 tags:
@@ -101,6 +102,7 @@ function statFix (orig) {
 =======
 ---
 title: "Gitbook安装问题"
+cover: "/img/lynk/84.jpg"
 date:       2021-02-04
 subtitle: "问题解决"
 tags:

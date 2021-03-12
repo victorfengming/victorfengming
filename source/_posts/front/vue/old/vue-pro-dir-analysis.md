@@ -1,5 +1,6 @@
 ---
 title: "Vue的项目目录解析"
+cover: "/img/lynk/61.jpg"
 date:       2019-09-17
 tags:
 	- web

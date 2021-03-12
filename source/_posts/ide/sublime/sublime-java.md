@@ -1,5 +1,6 @@
 ---
 title: 'sublime text 配置java开发环境'
+cover: "/img/lynk/60.jpg"
 date:       2019-10-18
 tags:
 	- ide

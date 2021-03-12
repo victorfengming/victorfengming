@@ -1,5 +1,6 @@
 ---
 title: "GitBook 从懵逼到入门"
+cover: "/img/lynk/48.jpg"
 date:       2020-03-04
 subtitle: "带你快速制作专业的电子书"
 tags:

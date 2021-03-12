@@ -1,5 +1,6 @@
 ---
 title: "Node.js中事件的循环"
+cover: "/img/lynk/60.jpg"
 date:       2019-08-27
 tags:
 	- node

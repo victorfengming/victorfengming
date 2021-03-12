@@ -1,5 +1,7 @@
 ---  
 title: "第十七周日报"   
+date:       2019-12-02
+cover: "/img/lynk/10.jpg"
 subtitle:  "day111、112、113、114、115、116、117"   
 tags: XDH    
 ---  

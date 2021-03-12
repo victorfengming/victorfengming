@@ -1,5 +1,6 @@
 ---
 title: 'Java中的内存浅析'
+cover: "/img/lynk/1.jpg"
 date:       2019-10-16
 tags:
 	- Java

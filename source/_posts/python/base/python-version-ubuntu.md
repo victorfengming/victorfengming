@@ -1,5 +1,6 @@
 ---
 title: "更改Ubuntu默认Python版本方法"
+cover: "/img/lynk/25.jpg"
 date:       2018-08-19
 tags:
 	- Python

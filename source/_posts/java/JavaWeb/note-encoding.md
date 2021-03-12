@@ -1,5 +1,6 @@
 ---
 title: 'JavaWeb笔记04'
+cover: "/img/lynk/78.jpg"
 date:       2019-11-13
 subtitle:   "解决GET与POST乱码问题"
 tags:

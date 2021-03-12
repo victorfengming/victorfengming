@@ -1,5 +1,6 @@
 ---
 title: "关于curl的使用详解"
+cover: "/img/lynk/87.jpg"
 date:       2019-12-05
 subtitle: "一种发出网络请求的命令行工具"
 tags:

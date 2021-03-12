@@ -1,5 +1,6 @@
 ---
 title: "Java笔记06-Map集合"
+cover: "/img/lynk/28.jpg"
 date:       2019-10-20
 tags:
 	- Java

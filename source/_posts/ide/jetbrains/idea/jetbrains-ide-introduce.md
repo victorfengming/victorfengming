@@ -1,5 +1,6 @@
 ---
 title: '宇宙最强编辑器系列:Jetbrains介绍'
+cover: "/img/lynk/58.jpg"
 date:       2019-09-26
 tags:
 	- ide

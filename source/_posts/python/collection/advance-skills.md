@@ -1,5 +1,6 @@
 ---
 title: "python高级编程技巧"
+cover: "/img/lynk/55.jpg"
 date:       2019-12-05
 subtitle: "MOOC"
 tags:

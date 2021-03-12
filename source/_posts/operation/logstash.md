@@ -1,5 +1,6 @@
 ---
 title: "Logstash入门简介"
+cover: "/img/lynk/1.jpg"
 date:       2021-03-05
 tags:
 	- base

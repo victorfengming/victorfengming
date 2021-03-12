@@ -1,5 +1,6 @@
 ---
 title: 'cucumber自动化测试'
+cover: "/img/lynk/64.jpg"
 date:       2020-07-08
 tags:  
 ---

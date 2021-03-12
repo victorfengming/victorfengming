@@ -1,5 +1,6 @@
 ---
 title: 'ES6中的Set的属性及方法的奇妙故事'
+cover: "/img/lynk/30.jpg"
 date:       2019-09-23
 tags:
 	- web

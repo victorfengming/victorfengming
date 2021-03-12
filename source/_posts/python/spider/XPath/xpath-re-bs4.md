@@ -1,5 +1,6 @@
 ---
 title: "正则表达式、xpath和Beautifulsoup的分析和总结"
+cover: "/img/lynk/61.jpg"
 date:       2018-11-17
 tags:
 	- Python

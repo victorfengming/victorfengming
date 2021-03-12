@@ -1,5 +1,6 @@
 ---
 title: "Django笔记-Luffy"
+cover: "/img/lynk/68.jpg"
 date:       2019-12-02
 subtitle: "Python全栈开发（第三部分）：django基础"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: 'JS中的定时器'
+cover: "/img/lynk/72.jpg"
 date:       2019-08-29
 tags:
 	- JavaScript

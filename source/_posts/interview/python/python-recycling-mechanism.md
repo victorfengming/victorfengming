@@ -1,5 +1,6 @@
 ---
 title: "Python中的垃圾回收机制"
+cover: "/img/lynk/38.jpg"
 date:       2019-11-28
 subtitle: "垃圾分类,从python做起"
 tags:

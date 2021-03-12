@@ -1,5 +1,6 @@
 ---
 title: 'DataGrip使用入门'
+cover: "/img/lynk/42.jpg"
 date:       2019-10-05
 subtitle: '安装及数据源管理（一）'
 tags:

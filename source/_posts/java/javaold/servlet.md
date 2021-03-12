@@ -1,5 +1,6 @@
 ---
 title: 'servlet的配置以及使用'
+cover: "/img/lynk/1.jpg"
 date:       2019-10-22
 tags:
 	- Java

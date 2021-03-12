@@ -1,5 +1,6 @@
 ---
 title: "python中的单例模式"
+cover: "/img/lynk/62.jpg"
 date:       2018-11-10
 tags:
 	- Python

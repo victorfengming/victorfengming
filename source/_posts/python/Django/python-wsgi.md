@@ -1,5 +1,6 @@
 ---
 title: "什么是wsgi？"
+cover: "/img/lynk/48.jpg"
 date:       2019-12-02
 subtitle: "Web服务器网关接口"
 tags:

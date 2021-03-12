@@ -1,5 +1,6 @@
 ---
 title: 'DataGrip使用进阶'
+cover: "/img/lynk/13.jpg"
 date:       2019-10-05
 subtitle: '-文本编辑器（三）'
 tags:

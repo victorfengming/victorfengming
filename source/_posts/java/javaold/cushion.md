@@ -1,5 +1,6 @@
 ---
 title: 'Java中缓冲流、转换流、序列化流'
+cover: "/img/lynk/35.jpg"
 date:       2019-10-25
 tags:
 	- Java

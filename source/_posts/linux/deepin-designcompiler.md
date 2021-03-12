@@ -1,5 +1,6 @@
 ---
 title: "deepin系统安装design compiler"
+cover: "/img/lynk/97.jpg"
 date:       2019-08-29
 tags:
 	- Linux

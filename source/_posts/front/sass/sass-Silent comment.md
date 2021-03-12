@@ -1,5 +1,6 @@
 ---
 title: '啥是静默注释'
+cover: "/img/lynk/91.jpg"
 date:       2019-09-20
 subtitle: '在sass中'
 tags:

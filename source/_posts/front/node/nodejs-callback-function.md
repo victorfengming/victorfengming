@@ -1,5 +1,6 @@
 ---
 title: "Node.js中的回调函数"
+cover: "/img/lynk/33.jpg"
 date:       2019-08-27
 tags:
 	- node

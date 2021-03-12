@@ -1,5 +1,6 @@
 ---
 title: 'JavaWeb笔记02'
+cover: "/img/lynk/2.jpg"
 date:       2019-11-12
 subtitle: 'Tomcat'
 tags:

@@ -1,5 +1,6 @@
 ---
 title: '前端相关优质项目推荐'
+cover: "/img/lynk/85.jpg"
 date:       2019-09-20
 tags:
 	- web

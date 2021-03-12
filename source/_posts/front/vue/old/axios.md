@@ -1,5 +1,6 @@
 ---
 title: "axios浅析"
+cover: "/img/lynk/98.jpg"
 date:       2019-12-12
 tags:
 	- JavaScript

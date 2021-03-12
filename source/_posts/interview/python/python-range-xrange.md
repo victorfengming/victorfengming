@@ -1,5 +1,6 @@
 ---
 title: "python range() 和xrange()的区别"
+cover: "/img/lynk/1.jpg"
 date:       2019-11-28
 tags:
 	- Python

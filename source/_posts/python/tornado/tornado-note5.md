@@ -1,5 +1,6 @@
 ---
 title: "tornado学习笔记day05"
+cover: "/img/lynk/84.jpg"
 date:       2019-12-07
 subtitle: "访问数据库"
 tags:

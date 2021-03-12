@@ -1,5 +1,6 @@
 ---
 title: "Python脚本实现汉字转拼音"
+cover: "/img/lynk/98.jpg"
 date:       2019-11-25
 subtitle: "Python无所不能"
 tags:

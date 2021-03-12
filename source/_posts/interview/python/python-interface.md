@@ -1,5 +1,6 @@
 ---
 title: "python中的接口"
+cover: "/img/lynk/75.jpg"
 date:       2019-11-28
 tags:
 	- Python

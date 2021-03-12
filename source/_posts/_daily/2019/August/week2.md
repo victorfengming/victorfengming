@@ -1,5 +1,7 @@
 ---  
 title: "第二周日报"   
+date:       2019-08-19
+cover: "/img/lynk/33.jpg"
 subtitle: "6、7、8、9、10、11、12"   
 tags: XDH    
 ---  

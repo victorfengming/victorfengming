@@ -1,5 +1,6 @@
 ---
 title: "关于redis，学会这8点就够了"
+cover: "/img/lynk/89.jpg"
 date:       2019-09-28
 tags:
 	- Linux

@@ -1,5 +1,6 @@
 ---
 title: "Bootstrap 编程实战闯关"
+cover: "/img/lynk/77.jpg"
 date:       2019-09-20
 tags:
 	- web

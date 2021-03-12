@@ -1,5 +1,6 @@
 ---
 title: "深入python内存管理"
+cover: "/img/lynk/28.jpg"
 date:       2019-11-28
 subtitle: "属性在运行时的动态替换"
 tags:

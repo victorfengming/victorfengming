@@ -1,5 +1,6 @@
 ---
 title: 'java中最强语法--lambda表达式'
+cover: "/img/lynk/90.jpg"
 date:       2019-11-10
 tags:
 	- Java

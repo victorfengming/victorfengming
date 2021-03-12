@@ -1,5 +1,7 @@
 ---
 title: "兄弟会阶段任务明细"
+date:       2019-11-07
+cover: "/img/lynk/20.jpg"
 tags: XDH  
 ---
 ```

@@ -1,5 +1,6 @@
 ---
 title: "golang 中的map类型详解"
+cover: "/img/lynk/60.jpg"
 date:       2020-04-13
 subtitle: "够浪"
 tags:

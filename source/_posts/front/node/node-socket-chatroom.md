@@ -1,5 +1,6 @@
 ---
 title: "node+socket+jq 实现简易聊天室"
+cover: "/img/lynk/73.jpg"
 date:       2019-09-03
 tags:
 	- node

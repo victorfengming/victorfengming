@@ -1,5 +1,6 @@
 ---
 title: "从头到尾彻底理解贪心算法"
+cover: "/img/lynk/71.jpg"
 date:       2011-12-05
 tags:
 	- algorithm

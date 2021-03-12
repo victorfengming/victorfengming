@@ -1,5 +1,6 @@
 ---
 title: "论ThinkPHP和Django究竟哪个更NB?"
+cover: "/img/lynk/67.jpg"
 date:       2019-11-27
 subtitle: "这是一场世界上最好的语言和最优美的语言之间的战争"
 tags:

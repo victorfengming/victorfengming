@@ -1,5 +1,6 @@
 ---
 title: "Django笔记01-基础"
+cover: "/img/lynk/11.jpg"
 date:       2019-11-23
 subtitle: "一个完美主义的web框架"
 tags:

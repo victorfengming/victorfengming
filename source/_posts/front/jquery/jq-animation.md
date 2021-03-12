@@ -1,5 +1,6 @@
 ---
 title: 'jQ动画效果大全'
+cover: "/img/lynk/11.jpg"
 date:       2019-09-11
 tags:
 	- JavaScript

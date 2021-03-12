@@ -1,5 +1,6 @@
 ---
 title: "Navicat Premium v12.1.22 中文最新破解版"
+cover: "/img/lynk/67.jpg"
 date:       2019-09-25
 subtitle: "（附：激活工具）"
 tags:

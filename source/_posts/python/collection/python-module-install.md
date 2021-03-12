@@ -1,5 +1,6 @@
 ---
 title: "python相关模块安装 "
+cover: "/img/lynk/93.jpg"
 date:       2019-11-03
 subtitle: "国内镜像地址 "
 tags:

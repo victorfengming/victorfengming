@@ -1,5 +1,6 @@
 ---
 title: "可能是全网最好的MySQL重要知识点/面试题总结"
+cover: "/img/lynk/17.jpg"
 date:       2019-09-01
 tags:
 	- basis

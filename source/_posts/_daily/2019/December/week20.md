@@ -1,5 +1,7 @@
 ---  
 title: "第二十周日报"   
+date:       2019-12-23
+cover: "/img/lynk/98.jpg"
 subtitle:  "day132、133、134、135、136、137、138"   
 tags: XDH    
 ---  

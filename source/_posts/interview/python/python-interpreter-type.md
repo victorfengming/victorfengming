@@ -1,5 +1,6 @@
 ---
 title: "Python 的解释器种类以及相关特点"
+cover: "/img/lynk/82.jpg"
 date:       2019-11-28
 subtitle: "Python大法好"
 tags:

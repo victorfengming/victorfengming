@@ -1,5 +1,6 @@
 ---
 title: "python操作数据库笔记1"
+cover: "/img/lynk/62.jpg"
 date:       2019-12-18
 tags:
 	- database

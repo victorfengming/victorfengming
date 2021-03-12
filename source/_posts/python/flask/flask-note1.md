@@ -1,5 +1,6 @@
 ---
 title: "兄弟会_flask笔记01"
+cover: "/img/lynk/86.jpg"
 date:       2019-11-28
 subtitle: "flask项目搭建 基本使用"
 tags:

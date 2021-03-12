@@ -1,5 +1,6 @@
 ---
 title: "Django笔记06-auth认证"
+cover: "/img/lynk/81.jpg"
 date:       2019-12-19
 subtitle: "Python开发的一个免费开源的Web框架"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "django面试题"
+cover: "/img/lynk/44.jpg"
 date:       2020-03-01
 tags:
 	- Python

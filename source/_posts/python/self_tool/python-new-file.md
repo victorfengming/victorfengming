@@ -1,5 +1,6 @@
 ---
 title: "Python实现从文件中读取文件名,并创建文件"
+cover: "/img/lynk/98.jpg"
 date:       2021-03-08
 tags:
 	- Python

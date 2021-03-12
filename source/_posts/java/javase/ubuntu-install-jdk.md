@@ -1,5 +1,6 @@
 ---
 title: 'ubuntu系统下Java环境JDK的安装'
+cover: "/img/lynk/96.jpg"
 date:       2019-09-04
 tags:
 	- Java

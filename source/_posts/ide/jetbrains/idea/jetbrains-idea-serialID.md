@@ -1,5 +1,6 @@
 ---
 title: 'IDEA自动生成序列化ID'
+cover: "/img/lynk/79.jpg"
 date:       2019-10-30
 tags:
 	- ide

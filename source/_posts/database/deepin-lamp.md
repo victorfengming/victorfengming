@@ -1,5 +1,6 @@
 ---
 title: "Deepin 下安装 LAMP"
+cover: "/img/lynk/15.jpg"
 date:       2019-09-25
 tags:
 	- Linux

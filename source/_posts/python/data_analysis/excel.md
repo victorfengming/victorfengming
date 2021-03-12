@@ -1,5 +1,6 @@
 ---
 title: "数据分析之Excel笔记"
+cover: "/img/lynk/22.jpg"
 date:       2019-11-14
 tags:
 	- Python

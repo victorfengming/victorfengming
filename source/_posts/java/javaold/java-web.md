@@ -1,5 +1,6 @@
 ---
 title: 'Java中网络编程'
+cover: "/img/lynk/25.jpg"
 date:       2019-10-28
 tags:
 	- Java

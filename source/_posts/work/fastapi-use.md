@@ -1,5 +1,6 @@
 ---
 title: "FastAPI框架使用"
+cover: "/img/lynk/26.jpg"
 date:       2020-03-05
 subtitle: "快速的构建出一套高性能的api服务"
 tags:

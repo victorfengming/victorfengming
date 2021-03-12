@@ -1,5 +1,6 @@
 ---
 title: "在idea中使用git管理你的项目"
+cover: "/img/lynk/46.jpg"
 date:       2019-10-14
 tags:
 	- Git

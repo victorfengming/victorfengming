@@ -1,5 +1,6 @@
 ---
 title: "Django笔记02-进阶"
+cover: "/img/lynk/30.jpg"
 date:       2019-11-24
 subtitle: "可以使Web开发工作愉快并且高效的Web开发框架"
 tags:

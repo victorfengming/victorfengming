@@ -1,5 +1,6 @@
 ---
 title: "python中装饰器详解"
+cover: "/img/lynk/47.jpg"
 date:       2019-11-28
 subtitle: "面向切面编程的一种特殊写法"
 tags:

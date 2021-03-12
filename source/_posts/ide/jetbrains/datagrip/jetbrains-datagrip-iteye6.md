@@ -1,5 +1,6 @@
 ---
 title: 'DataGrip使用进阶'
+cover: "/img/lynk/32.jpg"
 date:       2019-10-05
 subtitle: '-代码提示及格式化（二）'
 tags:

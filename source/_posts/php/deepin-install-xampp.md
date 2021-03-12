@@ -1,5 +1,6 @@
 ---
 title: 'Deepin 搭建php开发环境'
+cover: "/img/lynk/61.jpg"
 date:       2019-09-04
 tags:
 	- php

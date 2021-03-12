@@ -1,5 +1,6 @@
 ---
 title: "PyQt5案例汇总(简洁版)"
+cover: "/img/lynk/85.jpg"
 date:       2019-10-31
 tags:
 	- Python

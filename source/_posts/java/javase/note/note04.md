@@ -1,5 +1,6 @@
 ---
 title: "Java笔记04-核心类库"
+cover: "/img/lynk/15.jpg"
 date:       2019-10-19
 tags:
 	- Java

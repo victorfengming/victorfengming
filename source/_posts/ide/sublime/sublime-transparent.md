@@ -1,5 +1,6 @@
 ---
 title: 'sublime text 背景半透明设置'
+cover: "/img/lynk/93.jpg"
 date:       2019-10-18
 tags:
 	- ide

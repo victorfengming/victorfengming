@@ -1,5 +1,6 @@
 ---
 title: 'Intelij DataGrip 使用教程'  
+cover: "/img/lynk/49.jpg"
 date:       2019-10-04
 tags:
 	- ide

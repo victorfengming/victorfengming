@@ -1,5 +1,6 @@
 ---
 title: "Vue.js前后端分离2"
+cover: "/img/lynk/97.jpg"
 date:       2019-12-13
 tags:
 	- JavaScript

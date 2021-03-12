@@ -1,5 +1,6 @@
 ---
 title: "linux版navicat安装和破解"
+cover: "/img/lynk/20.jpg"
 date:       2019-9-04
 subtitle: "亲测汗水经验"
 tags:

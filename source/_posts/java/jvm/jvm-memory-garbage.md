@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      "java虚拟机的内存分配和垃圾回收"
+cover: "/img/lynk/59.jpg"
 date:       2021-03-09
 author:     "victor"
 tags:

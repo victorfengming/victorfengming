@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      "使用正则表达式替换博客模板中的tags标签"
+cover: "/img/lynk/86.jpg"
 date:       2021-09-22
 author:     "victor"
-cover: "/img/lynk/53.jpg"
 tags:
     - regex
 ---

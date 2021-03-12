@@ -1,5 +1,6 @@
 ---
 title: "Golang学习笔记01"
+cover: "/img/lynk/42.jpg"
 date:       2020-04-02
 subtitle: "Golang"
 tags:

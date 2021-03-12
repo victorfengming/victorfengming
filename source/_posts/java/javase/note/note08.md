@@ -1,5 +1,6 @@
 ---
 title: "Java笔记08-Map详解"
+cover: "/img/lynk/27.jpg"
 date:       2019-10-21
 tags:
 	- Java

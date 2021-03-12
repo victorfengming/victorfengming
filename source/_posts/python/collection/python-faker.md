@@ -1,5 +1,6 @@
 ---
 title: "Python中的faker"
+cover: "/img/lynk/99.jpg"
 date:       2020-02-24
 subtitle: "(伪装者)创建假数据"
 tags:

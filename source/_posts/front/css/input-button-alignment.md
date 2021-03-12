@@ -1,5 +1,6 @@
 ---
 title: 'CSS中input和button对齐的解决方案'
+cover: "/img/lynk/15.jpg"
 date:       2019-09-03
 tags:
 	- css

@@ -1,5 +1,6 @@
 ---
 title: 'cucumber介绍'
+cover: "/img/lynk/58.jpg"
 date:       2020-07-10
 tags:  
 ---

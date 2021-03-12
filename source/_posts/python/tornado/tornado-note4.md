@@ -1,5 +1,6 @@
 ---
 title: "tornado学习笔记day04"
+cover: "/img/lynk/81.jpg"
 date:       2019-12-07
 subtitle: "执行顺序"
 tags:

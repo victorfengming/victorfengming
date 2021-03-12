@@ -1,5 +1,7 @@
 ---
 title: "我的第一个github博客"
+date:       2018-12-21
+cover: "/img/lynk/5.jpg"
 date: 2018-12-21 
 tags: XDH  
 ---

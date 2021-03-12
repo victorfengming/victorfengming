@@ -1,5 +1,7 @@
 ---
 title: "兄弟会班级每人总结记录"
+date:       2019-08-31
+cover: "/img/lynk/91.jpg"
 tags: XDH  
 ---
   

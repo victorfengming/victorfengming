@@ -1,5 +1,7 @@
 ---  
 title: "第四周日报"   
+date:       2019-09-02
+cover: "/img/lynk/65.jpg"
 subtitle: "20、21、22、23、24、25、26"   
 tags: XDH    
 ---  

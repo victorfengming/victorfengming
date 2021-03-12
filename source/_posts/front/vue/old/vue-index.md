@@ -1,5 +1,6 @@
 ---
 title: "Vue知识点索引"
+cover: "/img/lynk/23.jpg"
 date:       2019-09-18
 tags:
 	- web

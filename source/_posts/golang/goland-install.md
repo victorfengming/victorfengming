@@ -1,5 +1,6 @@
 ---
 title: "Goland安装"
+cover: "/img/lynk/64.jpg"
 date:       2020-02-26
 subtitle: "工欲善其事必先利其器"
 tags:

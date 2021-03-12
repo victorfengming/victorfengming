@@ -1,5 +1,6 @@
 ---
 title: "程序员必须掌握哪些算法？"
+cover: "/img/lynk/3.jpg"
 date:       2019-09-23
 tags:
 	- summer

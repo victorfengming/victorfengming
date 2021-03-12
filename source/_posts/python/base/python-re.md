@@ -1,5 +1,6 @@
 ---
 title: "Python3中的re正则"
+cover: "/img/lynk/63.jpg"
 date:       2018-08-28
 tags:
 	- Python

@@ -1,5 +1,6 @@
 ---
 title: "图解HTTP"
+cover: "/img/lynk/33.jpg"
 date:       2019-09-01
 tags:
 	- web

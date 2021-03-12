@@ -1,5 +1,6 @@
 ---
 title: "vim编辑器简介"
+cover: "/img/lynk/86.jpg"
 date:       2019-08-15
 tags:
 	- vim

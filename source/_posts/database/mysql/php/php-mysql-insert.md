@@ -1,5 +1,6 @@
 ---
 title: "PHP MySQL Insert Into"  
+cover: "/img/lynk/35.jpg"
 date:       2019-10-04
 tags:
 	- database

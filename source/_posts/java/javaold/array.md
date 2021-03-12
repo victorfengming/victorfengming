@@ -1,5 +1,6 @@
 ---
 title: 'java,python,php 中的数组简识'
+cover: "/img/lynk/30.jpg"
 date:       2019-10-13
 tags:
 	- Java

@@ -1,5 +1,6 @@
 ---
 title: "markdown简识"
+cover: "/img/lynk/60.jpg"
 date:       2019-08-17
 tags:
 	- skills

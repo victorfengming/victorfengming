@@ -1,5 +1,6 @@
 ---
 title: "Cmder使用"
+cover: "/img/lynk/71.jpg"
 date:       2020-03-04
 subtitle: "Windows下非常好用的终端模拟器"
 tags:

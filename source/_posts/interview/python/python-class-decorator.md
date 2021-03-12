@@ -1,5 +1,6 @@
 ---
 title: "Python中@classmethod 和@staticmethod用法和区别"
+cover: "/img/lynk/47.jpg"
 date:       2019-11-28
 subtitle: "装饰器的高级用法"
 tags:

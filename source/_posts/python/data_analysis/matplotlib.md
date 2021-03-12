@@ -1,5 +1,6 @@
 ---
 title: "matplotlib绘图相关"
+cover: "/img/lynk/58.jpg"
 date:       2019-02-19
 subtitle: "数据的直观表达-->图形展示"
 tags:

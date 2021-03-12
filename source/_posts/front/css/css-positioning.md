@@ -1,5 +1,6 @@
 ---
 title: 'CSS中的定位'
+cover: "/img/lynk/2.jpg"
 date:       2019-09-05
 tags:
 	- css

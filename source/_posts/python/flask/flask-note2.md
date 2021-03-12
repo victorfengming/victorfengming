@@ -1,5 +1,6 @@
 ---
 title: "兄弟会_flask笔记02"
+cover: "/img/lynk/1.jpg"
 date:       2019-11-29
 subtitle: "flask中蓝图定义和介绍"
 tags:

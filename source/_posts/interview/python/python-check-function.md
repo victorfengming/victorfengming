@@ -1,5 +1,6 @@
 ---
 title: "Python如何判断一个对象是函数还是方法"
+cover: "/img/lynk/32.jpg"
 date:       2019-11-28
 subtitle: "判断对象是否是function的三种方法"
 tags:

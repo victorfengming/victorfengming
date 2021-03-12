@@ -1,5 +1,6 @@
 ---
 title: 'JS中的元素获取'
+cover: "/img/lynk/55.jpg"
 date:       2019-08-29
 tags:
 	- JavaScript

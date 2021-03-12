@@ -1,5 +1,6 @@
 ---
 title: 'druid.properties文件的配置'
+cover: "/img/lynk/16.jpg"
 date:       2019-11-10
 tags:
 	- Java

@@ -1,5 +1,6 @@
 ---
 title: "对python中变量值交换的一些思考"
+cover: "/img/lynk/69.jpg"
 date:       2019-12-01
 subtitle: "哪种方式性能更好"
 tags:

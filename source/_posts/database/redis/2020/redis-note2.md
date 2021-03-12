@@ -1,5 +1,6 @@
 ---
 title: "redis笔记02"
+cover: "/img/lynk/49.jpg"
 date:       2020-02-07
 subtitle: "redis数据类型操作"
 tags:

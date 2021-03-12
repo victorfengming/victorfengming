@@ -1,5 +1,6 @@
 ---
 title: '宇宙最强PHP编辑器:PhpStorm 介绍'  
+cover: "/img/lynk/87.jpg"
 date:       2019-09-26
 tags:
 	- ide

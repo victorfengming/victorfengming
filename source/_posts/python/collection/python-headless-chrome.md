@@ -1,5 +1,6 @@
 ---
 title: "(无头的浏览器)是什么鬼?"
+cover: "/img/lynk/48.jpg"
 date:       2019-12-05
 subtitle: "用Python驱动Headless Chrome"
 tags:

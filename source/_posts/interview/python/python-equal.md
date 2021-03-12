@@ -1,5 +1,6 @@
 ---
 title: "python 中None，is和==的深入探讨"
+cover: "/img/lynk/77.jpg"
 date:       2019-11-28
 subtitle: "简书 - 创作你的创作"
 tags:

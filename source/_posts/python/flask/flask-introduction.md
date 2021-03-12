@@ -1,5 +1,6 @@
 ---
 title: "Flask 概述"
+cover: "/img/lynk/6.jpg"
 date:       2019-10-08
 tags:
 	- Python

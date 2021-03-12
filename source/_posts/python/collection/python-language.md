@@ -1,5 +1,6 @@
 ---
 title: "Python自然语言处理工具小结"
+cover: "/img/lynk/91.jpg"
 date:       2019-08-29
 tags:
 	- Python

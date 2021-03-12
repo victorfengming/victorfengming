@@ -1,5 +1,6 @@
 ---
 title: "nodejs中的npm介绍"
+cover: "/img/lynk/73.jpg"
 date:       2019-08-27
 tags:
 	- node

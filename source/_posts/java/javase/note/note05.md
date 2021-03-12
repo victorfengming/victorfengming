@@ -1,5 +1,6 @@
 ---
 title: "Java笔记05【Object类、常用API】-笔记"
+cover: "/img/lynk/40.jpg"
 date:       2019-10-20
 tags:
 	- Java

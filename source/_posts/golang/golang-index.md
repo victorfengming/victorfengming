@@ -1,5 +1,6 @@
 ---
 title: "Golang课件索引"
+cover: "/img/lynk/37.jpg"
 date:       2020-02-26
 subtitle: "Golang语言基础课件,这里都有"
 tags:

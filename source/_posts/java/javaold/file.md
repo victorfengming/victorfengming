@@ -1,5 +1,6 @@
 ---
 title: 'Java中File类、递归'
+cover: "/img/lynk/66.jpg"
 date:       2019-10-23
 tags:
 	- Java

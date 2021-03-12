@@ -1,5 +1,6 @@
 ---
 title: "删除github上的commit历史记录"
+cover: "/img/lynk/33.jpg"
 date:       2019-10-17
 tags:
 	- Git

@@ -1,5 +1,6 @@
 ---
 title: "MySQL 数据库导出导入操作"
+cover: "/img/lynk/96.jpg"
 date:       2020-01-14
 subtitle: "让你的数据不再丢失"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: 用于测试 
+cover: "/img/lynk/12.jpg"
 date: 2021-03-12 00:00:00
 updated: 2021-03-13 00:00:00
 tags: test
@@ -8,7 +9,6 @@ keywords:
 description:
 top_img: 
 comments:
-cover: QQ截图20210312135122.png
 toc:
 toc_number:
 copyright:

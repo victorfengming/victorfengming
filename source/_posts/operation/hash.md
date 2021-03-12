@@ -1,5 +1,6 @@
 ---
 title: "哈希表思路图解和代码实现"
+cover: "/img/lynk/73.jpg"
 date:       2021-03-05
 tags:
 	- summer

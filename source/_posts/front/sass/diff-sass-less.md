@@ -1,5 +1,6 @@
 ---
 title: '关于Sass和less的奇妙故事'
+cover: "/img/lynk/55.jpg"
 date:       2019-09-23
 tags:
 	- web

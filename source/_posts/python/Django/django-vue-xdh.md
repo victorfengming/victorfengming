@@ -1,5 +1,6 @@
 ---
 title: "基于django和vue的xdh官网设计"
+cover: "/img/lynk/73.jpg"
 date:       2020-01-08
 subtitle: "一个完美主义的web框架"
 tags:

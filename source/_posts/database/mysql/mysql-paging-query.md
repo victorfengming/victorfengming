@@ -1,5 +1,6 @@
 ---
 title: "MySQL分页查询方法及优化"
+cover: "/img/lynk/41.jpg"
 date:       2019-10-09
 tags:
 	- database

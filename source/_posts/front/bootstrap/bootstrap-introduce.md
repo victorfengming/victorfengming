@@ -1,5 +1,6 @@
 ---
 title: "Bootstrap介绍"
+cover: "/img/lynk/13.jpg"
 date:       2019-09-20
 tags:
 	- web

@@ -1,5 +1,6 @@
 ---
 title: "PHP中的魔术常量"
+cover: "/img/lynk/95.jpg"
 date:       2019-08-19
 tags:
 	- php

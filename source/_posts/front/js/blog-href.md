@@ -1,5 +1,6 @@
 ---
 title: '如何在自己博文中自动跳转到其他链接位置'
+cover: "/img/lynk/78.jpg"
 date:       2019-09-27
 tags:
 	- JavaScript

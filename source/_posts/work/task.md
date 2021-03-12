@@ -1,5 +1,6 @@
 ---
 title: '各种解决方案汇总'
+cover: "/img/lynk/60.jpg"
 date:       2020-03-06
 tags:
 	- entertainment

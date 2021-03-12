@@ -1,5 +1,6 @@
 ---
 title: "pip配置"
+cover: "/img/lynk/93.jpg"
 date:       2019-11-20
 subtitle: "默认使用国内镜像地址"
 tags:

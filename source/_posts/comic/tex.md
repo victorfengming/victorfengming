@@ -1,5 +1,6 @@
 ---
 title: '关于TeX排版系统简介'
+cover: "/img/lynk/63.jpg"
 date:       2020-02-18
 subtitle: '概念辨析理解--TEX、LATEX、TEXLive和Lyx的区别和联系'
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "python之可变数据类型和不可变数据类型"
+cover: "/img/lynk/83.jpg"
 date:       2019-11-28
 subtitle: "弱类型"
 tags:

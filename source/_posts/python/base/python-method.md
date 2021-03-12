@@ -1,5 +1,6 @@
 ---
 title: "Python中的魔术方法"
+cover: "/img/lynk/35.jpg"
 date:       2018-08-29
 tags:
 	- Python

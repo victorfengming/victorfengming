@@ -1,5 +1,6 @@
 ---
 title: 'Nginx简介'
+cover: "/img/lynk/7.jpg"
 date:       2020-02-29
 subtitle: '一个轻量级的HTTP服务器'
 tags:

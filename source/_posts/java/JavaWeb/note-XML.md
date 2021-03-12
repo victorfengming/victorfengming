@@ -1,5 +1,6 @@
 ---
 title: 'JavaWeb笔记01'
+cover: "/img/lynk/7.jpg"
 date:       2019-11-11
 subtitle: 'XML'
 tags:

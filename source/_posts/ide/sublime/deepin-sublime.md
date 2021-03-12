@@ -1,5 +1,6 @@
 ---
 title: 'Sublime Text简介'
+cover: "/img/lynk/8.jpg"
 date:       2019-09-04
 tags:
 	- deepin

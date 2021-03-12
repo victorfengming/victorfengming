@@ -1,5 +1,6 @@
 ---
 title: "Java笔记02-OOP"
+cover: "/img/lynk/2.jpg"
 date:       2019-10-17
 tags:
 	- Java

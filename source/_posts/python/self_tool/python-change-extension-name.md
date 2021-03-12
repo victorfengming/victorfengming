@@ -1,5 +1,6 @@
 ---
 title: "Python实现递归修改文件扩展名"
+cover: "/img/lynk/49.jpg"
 date:       2019-11-17
 tags:
 	- Python

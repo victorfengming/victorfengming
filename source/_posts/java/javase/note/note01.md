@@ -1,5 +1,6 @@
 ---
 title: "Java笔记01-数组相关"
+cover: "/img/lynk/71.jpg"
 date:       2019-10-16
 tags:
 	- Java

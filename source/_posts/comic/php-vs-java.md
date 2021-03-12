@@ -1,5 +1,6 @@
 ---
 title: 'Java和Php比较'
+cover: "/img/lynk/64.jpg"
 date:       2021-02-29
 tags:
 	- interview

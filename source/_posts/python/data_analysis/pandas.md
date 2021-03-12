@@ -1,5 +1,6 @@
 ---
 title: "数据分析之pandas笔记"
+cover: "/img/lynk/34.jpg"
 date:       2019-12-10
 tags:
 	- Python

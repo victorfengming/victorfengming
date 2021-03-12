@@ -1,5 +1,6 @@
 ---
 title: "GitBook简介"
+cover: "/img/lynk/57.jpg"
 date:       2020-03-04
 subtitle: "带你制作精美的电子书"
 tags:

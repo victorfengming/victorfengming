@@ -1,5 +1,6 @@
 ---
 title: "思维导图简识"
+cover: "/img/lynk/42.jpg"
 date:       2019-08-27
 tags:
 	- entertainment

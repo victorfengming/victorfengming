@@ -1,5 +1,6 @@
 ---
 title: "Django models中关于blank与null的补充说明"
+cover: "/img/lynk/62.jpg"
 date:       2020-01-06
 subtitle: "简约而不简单"
 tags:

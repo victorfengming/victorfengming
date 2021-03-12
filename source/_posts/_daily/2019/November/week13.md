@@ -1,5 +1,7 @@
 ---  
 title: "第十三周日报"   
+date:       2019-11-04
+cover: "/img/lynk/23.jpg"
 subtitle: "day83、84、85、86、87、88、89"   
 tags: XDH    
 ---  
@@ -37,6 +39,8 @@ window远程登录厉害了! 直接登录你的服务器,管理项目
 
 ---  
 title: "第84天日报"  
+date:       2019-11-04
+cover: "/img/lynk/23.jpg"
 subtitle: "写javaSE阶段项目(兄弟连考试系统)的第1天"  
 tags: XDH    
 ---  

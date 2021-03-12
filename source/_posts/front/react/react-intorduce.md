@@ -1,5 +1,6 @@
 ---
 title: '前端框架之react介绍'
+cover: "/img/lynk/86.jpg"
 date:       2019-09-21
 tags:
 	- web

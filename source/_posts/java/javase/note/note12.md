@@ -1,5 +1,6 @@
 ---
 title: 'Java笔记12-函数式接口'
+cover: "/img/lynk/38.jpg"
 date:       2019-10-29
 tags:
 	- Java

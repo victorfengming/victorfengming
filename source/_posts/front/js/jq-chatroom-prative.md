@@ -1,5 +1,6 @@
 ---
 title: '慕课网轮播图100%还原'
+cover: "/img/lynk/62.jpg"
 date:       2019-09-05
 tags:
 	- JavaScript

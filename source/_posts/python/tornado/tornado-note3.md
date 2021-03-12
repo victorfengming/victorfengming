@@ -1,5 +1,6 @@
 ---
 title: "tornado学习笔记day03"
+cover: "/img/lynk/65.jpg"
 date:       2019-12-07
 subtitle: "响应输出"
 tags:

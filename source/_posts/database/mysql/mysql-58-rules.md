@@ -1,5 +1,6 @@
 ---
 title: "58到家MySQL军规升级版"
+cover: "/img/lynk/76.jpg"
 date:       2019-11-24
 subtitle: "军令如山"
 tags:

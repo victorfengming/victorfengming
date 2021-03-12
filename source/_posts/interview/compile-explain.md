@@ -1,5 +1,6 @@
 ---
 title: "简述编译型与解释型编程语言"
+cover: "/img/lynk/58.jpg"
 date:       2019-11-28
 subtitle: "高级语言的执行方式"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Nosql简介 Redis，Memchche,MongoDb的区别"
+cover: "/img/lynk/0.jpg"
 date:       2019-09-27
 tags:
 	- Linux

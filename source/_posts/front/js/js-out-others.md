@@ -1,5 +1,6 @@
 ---
 title: 'JS中的排他思想'
+cover: "/img/lynk/74.jpg"
 date:       2019-09-06
 tags:
 	- JavaScript

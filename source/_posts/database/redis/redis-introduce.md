@@ -1,5 +1,6 @@
 ---
 title: "Redis数据库简介"
+cover: "/img/lynk/54.jpg"
 date:       2019-09-27
 tags:
 	- Linux

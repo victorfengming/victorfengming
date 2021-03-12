@@ -1,5 +1,6 @@
 ---
 title: 'JDBC笔记-李伟杰版'
+cover: "/img/lynk/68.jpg"
 date:       2019-11-10
 tags:
 	- Java

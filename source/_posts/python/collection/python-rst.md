@@ -1,5 +1,6 @@
 ---
 title: "rst文件是什么鬼?"
+cover: "/img/lynk/90.jpg"
 date:       2019-12-07
 subtitle: "reStructuredText(rst)快速入门语法说明"
 tags:

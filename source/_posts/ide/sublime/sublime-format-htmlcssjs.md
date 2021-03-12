@@ -1,5 +1,6 @@
 ---
 title: 'sublime一键格式化'
+cover: "/img/lynk/23.jpg"
 date:       2019-09-17
 subtitle: 'html/css/js'
 tags:

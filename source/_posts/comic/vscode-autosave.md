@@ -1,5 +1,6 @@
 ---
 title: 'VSCode设置自动保存'
+cover: "/img/lynk/64.jpg"
 date:       2017-03-01
 tags:
 	- ide

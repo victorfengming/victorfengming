@@ -1,5 +1,6 @@
 ---
 title: '漫话：如何给女朋友解释什么是CDN？'
+cover: "/img/lynk/25.jpg"
 date:       2019-08-31
 tags:
 	- entertainment

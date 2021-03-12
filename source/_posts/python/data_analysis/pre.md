@@ -1,5 +1,6 @@
 ---
 title: "数据分析基础-概述"
+cover: "/img/lynk/17.jpg"
 date:       2019-12-10
 tags:
 	- Python

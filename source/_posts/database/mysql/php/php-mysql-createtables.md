@@ -1,5 +1,6 @@
 ---
 title: "PHP MySQL 创建数据库和表"  
+cover: "/img/lynk/39.jpg"
 date:       2019-10-04
 tags:
 	- database

@@ -1,5 +1,6 @@
 ---
 title: "python爬取梨视频"
+cover: "/img/lynk/64.jpg"
 date:       2018-09-23
 tags:
 	- Python

@@ -1,5 +1,6 @@
 ---
 title: 'Sass中变量的引用'
+cover: "/img/lynk/21.jpg"
 date:       2019-09-20
 tags:
 	- web

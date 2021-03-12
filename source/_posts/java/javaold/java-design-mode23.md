@@ -1,5 +1,6 @@
 ---
 title: '23种设计模式汇总整理'
+cover: "/img/lynk/80.jpg"
 date:       2019-10-16
 tags:
 	- Java

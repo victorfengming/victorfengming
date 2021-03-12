@@ -1,5 +1,6 @@
 ---
 title: "数据结构与算法"
+cover: "/img/lynk/59.jpg"
 date:       2021-03-21
 tags:
 	- summer

@@ -1,5 +1,6 @@
 ---
 title: "Go语言的核心特性"
+cover: "/img/lynk/52.jpg"
 date:       2020-03-01
 subtitle: "站在巨人的肩膀上，吸收了同伴的特点"
 tags:

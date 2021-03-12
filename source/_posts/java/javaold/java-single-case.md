@@ -1,5 +1,6 @@
 ---
 title: 'Java设计模式之单例模式'
+cover: "/img/lynk/29.jpg"
 date:       2019-10-16
 tags:
 	- Java

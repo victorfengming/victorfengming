@@ -1,5 +1,6 @@
 ---
 title: 'spring笔记01'
+cover: "/img/lynk/18.jpg"
 date:       2020-07-14
 subtitle: '' 
 tags:

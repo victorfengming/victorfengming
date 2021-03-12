@@ -1,5 +1,7 @@
 ---  
 title: "第二十五周日报"   
+date:       2020-02-10
+cover: "/img/lynk/45.jpg"
 subtitle:  "day160-166"   
 tags: XDH    
 ---  

@@ -1,5 +1,6 @@
 ---
 title: "图片格式详解:PNG、JPEG、GIF、SVG"
+cover: "/img/lynk/69.jpg"
 date:       2019-09-13
 tags:
 	- web

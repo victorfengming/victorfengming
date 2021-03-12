@@ -1,5 +1,6 @@
 ---
 title: "redis笔记02"
+cover: "/img/lynk/99.jpg"
 date:       2019-12-18
 subtitle: "redis安装以及配置"
 tags:

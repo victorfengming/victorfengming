@@ -1,5 +1,6 @@
 ---
 title: "Golang学习笔记01"
+cover: "/img/lynk/78.jpg"
 date:       2020-02-24
 subtitle: "Golang发展背景,历史,生态"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: 'Sublime运行代码'
+cover: "/img/lynk/68.jpg"
 date:       2019-09-18
 subtitle: 'open in browser快捷键设置'
 tags:

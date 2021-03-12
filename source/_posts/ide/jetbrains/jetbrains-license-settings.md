@@ -1,5 +1,6 @@
 ---
 title: 'jetbrains IDE 设置和 license'  
+cover: "/img/lynk/71.jpg"
 date:       2019-10-18
 tags:
 	- ide

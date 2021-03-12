@@ -1,5 +1,6 @@
 ---
 title: "Python中read(),readline(),readlines()区别与用法"
+cover: "/img/lynk/57.jpg"
 date:       2019-12-01
 subtitle: ""
 tags:

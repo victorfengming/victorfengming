@@ -1,5 +1,6 @@
 ---
 title: "Java笔记11-【异常、线程】"
+cover: "/img/lynk/86.jpg"
 date:       2019-10-22
 tags:
 	- Java

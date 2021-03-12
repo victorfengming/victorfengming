@@ -1,5 +1,6 @@
 ---
 title: 'Sass - 变量($)'
+cover: "/img/lynk/21.jpg"
 date:       2019-09-23
 tags:
 	- web

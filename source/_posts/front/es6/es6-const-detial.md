@@ -1,5 +1,6 @@
 ---
 title: 'ES6中的const命令'
+cover: "/img/lynk/82.jpg"
 date:       2019-09-16
 tags:
 	- web

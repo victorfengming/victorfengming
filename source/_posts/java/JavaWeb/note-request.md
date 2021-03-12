@@ -1,5 +1,6 @@
 ---
 title: 'JavaWeb笔记06'
+cover: "/img/lynk/45.jpg"
 date:       2019-11-15
 subtitle:   "请求相关"
 tags:

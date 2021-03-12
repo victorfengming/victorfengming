@@ -1,5 +1,6 @@
 ---
 title: "Django项目-慕学在线平台"
+cover: "/img/lynk/97.jpg"
 date:       2020-01-07
 subtitle: "Web 开发激动人心且富于创造性"
 tags:

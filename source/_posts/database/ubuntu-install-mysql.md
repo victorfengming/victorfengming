@@ -1,5 +1,6 @@
 ---
 title: "在ubuntu下安装mysql数据库"
+cover: "/img/lynk/62.jpg"
 date:       2019-10-09
 tags:
 	- database

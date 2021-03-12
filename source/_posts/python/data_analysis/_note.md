@@ -1,5 +1,6 @@
 ---
 title: "数据分析"
+cover: "/img/lynk/80.jpg"
 date:       2018-02-15
 tags:
 	- solution

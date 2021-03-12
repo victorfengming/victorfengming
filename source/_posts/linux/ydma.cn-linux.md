@@ -1,5 +1,6 @@
 ---
 title: "linux学习笔记"
+cover: "/img/lynk/31.jpg"
 date:       2019-08-23
 tags:
 	- Linux

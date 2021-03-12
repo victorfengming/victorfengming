@@ -1,5 +1,7 @@
 ---  
 title: "第十八周日报"   
+date:       2019-12-09
+cover: "/img/lynk/6.jpg"
 subtitle:  "day118、119、120、121、122、123、124"   
 tags: XDH    
 ---  

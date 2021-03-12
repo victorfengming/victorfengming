@@ -1,5 +1,6 @@
 ---
 title: "Python的编码命名规则"
+cover: "/img/lynk/66.jpg"
 date:       2019-11-28
 subtitle: "总结前人之精华，去其糟粕"
 tags:

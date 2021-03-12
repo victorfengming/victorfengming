@@ -1,5 +1,6 @@
 ---
 title: 'DataGrip使用入门'
+cover: "/img/lynk/33.jpg"
 date:       2019-10-05
 subtitle: '-常用操作（三）'
 tags:

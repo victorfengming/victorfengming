@@ -1,5 +1,6 @@
 ---
 title: '漫话：什么是协程？'
+cover: "/img/lynk/97.jpg"
 date:       2019-11-18
 tags:
 	- entertainment

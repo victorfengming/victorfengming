@@ -1,5 +1,6 @@
 ---
 title: 'Java中字节流、字符流'
+cover: "/img/lynk/37.jpg"
 date:       2019-10-24
 tags:
 	- Java

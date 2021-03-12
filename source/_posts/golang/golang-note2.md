@@ -1,5 +1,6 @@
 ---
 title: "Golang学习笔记02"
+cover: "/img/lynk/69.jpg"
 date:       2020-02-25
 subtitle: "Go 中的变量"
 tags:

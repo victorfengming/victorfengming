@@ -1,5 +1,6 @@
 ---
 title: '一个程序员的个人感悟'
+cover: "/img/lynk/52.jpg"
 date:       2019-09-23
 tags:
 	- entertainment

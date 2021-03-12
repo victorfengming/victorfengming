@@ -1,5 +1,6 @@
 ---
 title: 'jQ实现放大镜特效'
+cover: "/img/lynk/8.jpg"
 date:       2019-09-05
 tags:
 	- JavaScript

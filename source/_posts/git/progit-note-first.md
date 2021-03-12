@@ -1,5 +1,6 @@
 ---
 title: "git工具基础"
+cover: "/img/lynk/19.jpg"
 date:       2019-08-17
 tags:
 	- Git

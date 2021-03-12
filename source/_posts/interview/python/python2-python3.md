@@ -1,5 +1,6 @@
 ---
 title: "Python2版本和python3的区别"
+cover: "/img/lynk/92.jpg"
 date:       2019-11-28
 tags:
 	- Python

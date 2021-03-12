@@ -1,5 +1,6 @@
 ---
 title: "Golang web编程服务端 客户端爬虫"
+cover: "/img/lynk/88.jpg"
 date:       2020-04-03
 subtitle: "Golang并发编程案例"
 tags:

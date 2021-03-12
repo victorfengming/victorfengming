@@ -1,5 +1,6 @@
 ---
 title: "计算器"
+cover: "/img/lynk/13.jpg"
 date:       2019-09-23
 subtitle: "基于tkinter的GUI界面"
 tags:

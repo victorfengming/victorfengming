@@ -1,5 +1,6 @@
 ---
 title: 'Eclipse IDE'
+cover: "/img/lynk/71.jpg"
 date:       2019-09-04
 tags:
 	- deepin

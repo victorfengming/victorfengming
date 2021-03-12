@@ -1,5 +1,6 @@
 ---
 title: "PHP MySQL 连接数据库"  
+cover: "/img/lynk/74.jpg"
 date:       2019-10-04
 tags:
 	- database

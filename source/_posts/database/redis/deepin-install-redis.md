@@ -1,5 +1,6 @@
 ---
 title: "一行命令带你安装redis(deepin系统下)"
+cover: "/img/lynk/30.jpg"
 date:       2019-09-25
 tags:
 	- Linux

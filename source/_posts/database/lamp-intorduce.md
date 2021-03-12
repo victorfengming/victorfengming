@@ -1,5 +1,6 @@
 ---
 title: "关于LAMP架构的简单介绍"
+cover: "/img/lynk/83.jpg"
 date:       2019-09-26
 tags:
 	- Linux

@@ -1,5 +1,6 @@
 ---
 title: "啥是Layui"
+cover: "/img/lynk/4.jpg"
 date:       2019-09-20
 tags:
 	- web

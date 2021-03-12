@@ -1,5 +1,6 @@
 ---
 title: 'Chrome书签栏'
+cover: "/img/lynk/84.jpg"
 date:       2018-03-28
 tags:
 	- entertainment

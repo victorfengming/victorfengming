@@ -1,5 +1,6 @@
 ---
 title: "jupyter浅析"
+cover: "/img/lynk/2.jpg"
 date:       2019-10-27
 tags:
 	- Python

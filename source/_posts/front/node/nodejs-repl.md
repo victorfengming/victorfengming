@@ -1,5 +1,6 @@
 ---
 title: "Node.js REPL(交互式解释器)"
+cover: "/img/lynk/84.jpg"
 date:       2019-08-27
 tags:
 	- node

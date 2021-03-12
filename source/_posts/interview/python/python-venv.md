@@ -1,5 +1,6 @@
 ---
 title: "Python中的虚拟环境-virtualenv"
+cover: "/img/lynk/72.jpg"
 date:       2019-11-18
 tags:
 	- Python

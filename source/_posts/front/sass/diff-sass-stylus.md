@@ -1,5 +1,6 @@
 ---
 title: 'Sass、LESS 和 Stylus区别总结'
+cover: "/img/lynk/62.jpg"
 date:       2019-09-23
 tags:
 	- web

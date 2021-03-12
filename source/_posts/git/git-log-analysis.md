@@ -1,5 +1,6 @@
 ---
 title: "git log解析"
+cover: "/img/lynk/96.jpg"
 date:       2019-09-06
 subtitle: "打log随心所欲！"
 tags:

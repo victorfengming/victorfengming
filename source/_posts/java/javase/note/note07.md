@@ -1,5 +1,6 @@
 ---
 title: "Java笔记07-List、Set、数据结构、Collections"
+cover: "/img/lynk/18.jpg"
 date:       2019-10-21
 tags:
 	- Java

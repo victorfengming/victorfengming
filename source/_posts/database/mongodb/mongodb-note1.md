@@ -1,5 +1,6 @@
 ---
 title: "MongoDB数据库笔记01"
+cover: "/img/lynk/2.jpg"
 date:       2020-02-18
 tags:
 	- Linux
