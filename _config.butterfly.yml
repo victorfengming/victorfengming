@@ -41,8 +41,8 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  fab fa-github: https://github.com/victorfengming || Github
-  fab fa-gitee: https://gitee.com/victorfengming || Gitee
+ fab fa-github: https://github.com/victorfengming || Github
+ fab fa-gitee: https://gitee.com/victorfengming || Gitee
 # fas fa-envelope: mailto:xxxxxx@gmail.com || Email
 
 # search (搜索)
