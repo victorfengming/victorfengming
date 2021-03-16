@@ -94,7 +94,7 @@ newFile("D:\\WebstormProjects\\react\\sgg\\README.md")
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 # Created by victor
-# Created Time: '2021/3/6 21:05'
+# Created Time: '2021/3/16 21:45'
 '''
 
 # coding=utf-8
@@ -130,10 +130,9 @@ if __name__ == '__main__':
     print("生成的文件会和源文件同目录")
     print("注意:原有文件会被替换")
     print("请输入源目录文件路径,window用 \ 来分隔文件夹")
-    print("| 比如: E:\Projects\PycharmProjects\untitled\md2\catlog.md |")
     sourceFile = input(":")
     newFile(repSpilt(sourceFile))
-
+    os.system('pause')
 ```
 
 ## 利用工具 生成 exe 使用
