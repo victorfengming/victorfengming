@@ -1,5 +1,5 @@
 ---
-title: "redis面试题汇总"
+title: "面试必问的Redis,你掌握多少？"
 cover: "/img/lynk/17.jpg"
 date:       2021-03-23
 tags:
