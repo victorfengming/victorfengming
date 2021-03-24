@@ -86,7 +86,7 @@ tags:
 单例分为饿汉式和懒汉式两种写法
 
 java中单例模式是一种常见的设计模式，在实际开发中比较常用
-具体详细内容可以参考:[Java设计模式之单例模式](https://victorfengming.gitee.io/2019/10/16/java-single-case/)
+具体详细内容可以参考:[Java设计模式之单例模式](https://victorfengming.gitee.io/blog/java-single-case/)
 
 ### OOP三大特性之继承
 继承就是子类复用父类的代码

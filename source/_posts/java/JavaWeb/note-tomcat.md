@@ -53,9 +53,9 @@ tags:
     - JBOSS: JBOSS公司的,大型的JavaEE服务器,支持所有JavaEE规范,收费的
     - Tomcat:Apache基金组织,中小型的JavaEE服务器,仅仅支持少量的JavaEE规范servlet/jsp.开源的,免费的
 - JavaEE: Java语言在企业级开发中使用的技术规范的总和,一共规定了13项大的规范
-- Tomcat: [tomcat的配置以及使用](https://victorfengming.gitee.io/2019/10/21/tomcat/)
+- Tomcat: [tomcat的配置以及使用](https://victorfengming.gitee.io/blog/tomcat/)
 
     
 ## serverlet 
- [servlet的配置以及使用](https://victorfengming.gitee.io/2019/10/22/servlet/)        
+ [servlet的配置以及使用](https://victorfengming.gitee.io/blog/servlet/)        
                 

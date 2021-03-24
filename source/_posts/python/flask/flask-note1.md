@@ -51,7 +51,7 @@ VirtualEnv用于在一台机器上创建多个独立的Python虚拟运行环境�
 - 不同应用可以使用不同的套件版本
 - 套件升级不影响其他应用
 
-详情在这里:[Python中的虚拟环境-virtualenv](https://victorfengming.gitee.io/2019/11/18/python-venv/)
+详情在这里:[Python中的虚拟环境-virtualenv](https://victorfengming.gitee.io/blog/python-venv/)
 
 其实这个虚拟环境也有缺点,就是他只能用于python,我们可以在了解一个叫做
 docker这个东东

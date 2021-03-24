@@ -123,14 +123,15 @@ Editor->General->Auto Import->Optimize
 ### 统计代码量
 statistic插件
 ### IDEA中调试代码
-https://victorfengming.gitee.io/2019/10/21/jetbrains-idea-debug/
+https://victorfengming.gitee.io/ide/jetbrains/idea/jetbrains-idea-debug
 ### 强行假装git    
 本地文件的历史记录
 项目右键->Local History ->Show Hisory
 Put Label
 ### IDEA使用git
 https://blog.csdn.net/qq_40223983/article/details/102543484
-https://victorfengming.gitee.io/2019/10/14/git-idea/
+
+https://victorfengming.gitee.io/git/git-idea
 
 
 #第86天日报-写javaSE阶段项目(兄弟连考试系统)的第3天
@@ -144,19 +145,19 @@ https://victorfengming.gitee.io/2019/10/14/git-idea/
 javaSE部分,笔记记得乱码七糟,还是看[ttk](https://ttk1907.gitee.io/)的[JavaSE阶段总结](https://ttk1907.gitee.io/2019/11/01/xiongdihui-javaSE-note-conclusion-%E5%89%AF%E6%9C%AC/)吧!
 
 其实我也写笔记了的:
-- [Java笔记01-数组相关](https://victorfengming.gitee.io/victorfengming_old/2019/10/16/note01/)
-- [Java笔记02-OOP](https://victorfengming.gitee.io/victorfengming_old/2019/10/17/note02/)
-- [Java笔记03-Constructor & Override](https://victorfengming.gitee.io/victorfengming_old/2019/10/18/note03/)
-- [Java笔记04-核心类库](https://victorfengming.gitee.io/victorfengming_old/2019/10/19/note04/)
-- [Java笔记05-Collection、泛型、迭代器](https://victorfengming.gitee.io/victorfengming_old/2019/10/19/note05/)
-- [Java笔记06-Map集合详解](https://victorfengming.gitee.io/victorfengming_old/2019/10/20/note06/)
-- [Java笔记07-List、Set、数据结构、Collections](https://victorfengming.gitee.io/victorfengming_old/2019/10/21/note07/)
-- [Java笔记08-Map详解](https://victorfengming.gitee.io/victorfengming_old/2019/10/21/note08/)
-- [Java笔记09-继承、super、this、抽象类](https://victorfengming.gitee.io/victorfengming_old/2019/10/21/note09/)
-- [Java笔记10-Map集合简识](https://victorfengming.gitee.io/victorfengming_old/2019/10/22/note10/)
-- [Java笔记11-异常、线程](https://victorfengming.gitee.io/victorfengming_old/2019/10/22/note11/)
-- [Java笔记12-函数式接口](https://victorfengming.gitee.io/victorfengming_old/2019/10/29/note12/)
-- [Java笔记13-兄弟连在线考试系统](https://victorfengming.gitee.io/victorfengming_old/2019/10/30/note13/)
+- [Java笔记01-数组相关](https://victorfengming.gitee.io/java/javase/note/note01/)
+- [Java笔记02-OOP](https://victorfengming.gitee.io/java/javase/note/note02/)
+- [Java笔记03-Constructor & Override](https://victorfengming.gitee.io/java/javase/note/note03/)
+- [Java笔记04-核心类库](https://victorfengming.gitee.io/java/javase/note/note04/)
+- [Java笔记05-Collection、泛型、迭代器](https://victorfengming.gitee.io/java/javase/note/note05/)
+- [Java笔记06-Map集合详解](https://victorfengming.gitee.io/java/javase/note/note06/)
+- [Java笔记07-List、Set、数据结构、Collections](https://victorfengming.gitee.io/java/javase/note/note07/)
+- [Java笔记08-Map详解](https://victorfengming.gitee.io/java/javase/note/note08/)
+- [Java笔记09-继承、super、this、抽象类](https://victorfengming.gitee.io/java/javase/note/note09/)
+- [Java笔记10-Map集合简识](https://victorfengming.gitee.io/java/javase/note/note10/)
+- [Java笔记11-异常、线程](https://victorfengming.gitee.io/java/javase/note/note11/)
+- [Java笔记12-函数式接口](https://victorfengming.gitee.io/java/javase/note/note12/)
+- [Java笔记13-兄弟连在线考试系统](https://victorfengming.gitee.io/java/javase/note/note13/)
 
 ### 每日新发现
 ttk乱按我键盘出现了这个:

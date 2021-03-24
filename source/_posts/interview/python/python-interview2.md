@@ -31,14 +31,14 @@ tags:
 
 所以有利的同时也有弊端，毕竟我们的学习成本降低了。
 
-如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/2019/11/28/python-feature/)
+如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/blog/python-feature/)
 
 ### 2.简述解释型和编译型编程语言:
 解释型语言是在运行程序的时候才翻译，每执行一行，要翻译一行，边翻译边执行，效率较低。 
 
 编译型就是直接编译成机型可以执行的，只翻译一次，所以效率相对来说较高。
 
-如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/2019/11/28/compile-explain/)
+如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/blog/compile-explain/)
 
 
 ### 3.Python 的解释器种类以及相关特点？
@@ -52,7 +52,7 @@ JPython 运行在 Java 上的解释器，直接把 Python 代码编译成 Java �
 
 IronPython 运行在微软 .NET 平台上的解释器，把 Python 编译成 . NET 的字节码。
 
-如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/2019/11/28/interpreter-type/)
+如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/blog/interpreter-type/)
 
 ### 4.说说你知道的Python3 和 Python2 之间的区别？
 print 在 Python3 中是函数必须加括号，Python2 中 print 为 class。
@@ -65,23 +65,23 @@ Python2 中/的结果是整型，Python3 中是浮点类型。
 
 Python2 中声明元类：metaclass = MetaClass,Python3 中声明元类：class newclass(metaclass=MetaClass)：pass。
 
-如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/2019/11/28/python2-python3/)
+如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/blog/python2-python3/)
 
 ### 5.Python3 和 Python2 中 int 和 long 区别？
 python2中有int(整数)和long(长整数) 如果你想将int转为long可以在数据末尾加L
 
 在python3中只有int(整数)
  
-如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/2019/11/28/python23-long/)
+如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/blog/python23-long/)
 
 ### 6.xrange 和 range 的区别？
-如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/2019/11/28/python-range-xrange/)
+如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/blog/python-range-xrange/)
 
 
 ## 编码规范
 
 ### 7.什么是 PEP8?
-如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/2019/11/28/python-pep8/)
+如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/blog/python-pep8/)
 
 ### 8.了解 Python 之禅么？
 
@@ -111,7 +111,7 @@ Python之禅 by Tim Peters
  
 命名空间是一种绝妙的理念，我们应当多加利用（倡导与号召）  
 
-如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/2019/11/28/python-chan/)
+如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/blog/python-chan/)
 
 ### 9.了解 dosctring 么？
 
@@ -119,14 +119,14 @@ DocStrings 文档字符串是一个重要工具，用于解释文档程序，帮
 
 我们可以在函数体的第一行使用一对三个单引号 ''' 或者一对三个双引号 """ 来定义文档字符串。
 
-如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/2019/11/28/python-docstring/)
+如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/blog/python-docstring/)
 
 
 
 你可以使用 `__doc__`（注意双下划线）  调用函数中的文档字符串属性
 ### 10.了解类型注解么？
 
-如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/2019/11/28/python-type-annotation/)
+如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/blog/python-type-annotation/)
 
 ### 11.例举你知道 Python 对象的命名规范，例如方法或者类等
 
@@ -134,7 +134,7 @@ DocStrings 文档字符串是一个重要工具，用于解释文档程序，帮
 
 内部类可以使用额外的前导下划线。 变量：小写，由下划线连接各个单词。方法名类似常量：常量名所有字母大写 等
 
-如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/2019/11/28/python-name-rule/)
+如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/blog/python-name-rule/)
 
 ### 12.Python 中的注释有几种？
 
@@ -426,7 +426,7 @@ a[3][0] = 2
 
  装饰器就是一个函数，它可以在不需要做任何代码变动的前提下给一个函数增加额外功能，启动装饰的效果。 它经常用于有切面需求的场景，比如：插入日志、性能测试、事务处理、缓存、权限校验等场景。 下面是一个日志功能的装饰器
  
-如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/2019/11/28/python-decorator/)
+如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/blog/python-decorator/)
 
 
 
@@ -448,25 +448,25 @@ Python 不像 C++，Java 等语言一样，他们可以不用事先声明变量�
 相同之处：@staticmethod 和@classmethod 都可以直接类名.方法名()来调用，不用在示例化一个类。
 @classmethod 我们要写一个只在类中运行而不在实例中运行的方法。
 
-如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/2019/11/28/python-class-decorator/)
+如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/blog/python-class-decorator/)
 
 
 
 ### 75. Python 中的接口如何实现？
 接口只是定义了一些方法，而没有去实现
 
-如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/2019/11/28/python-interface/)
+如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/blog/python-interface/)
 
 
 ### 76. Python 中的反射了解么?
-如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/2019/11/28/python-reflect/)
+如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/blog/python-reflect/)
 ### 77. metaclass 作用？以及应用场景？
 
 ### 78. hasattr() getattr() setattr()的用法
 
 ### 79. 请列举你知道的 Python 的魔法方法及用途。
 
-如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/2019/08/29/python-method/)
+如需了解更多,你还可以去看[详情](https://victorfengming.gitee.io/blog/python-method/)
 
 ### 80. 如何知道一个 Python 对象的类型？
 ### 81. Python 的传参是传值还是传址？

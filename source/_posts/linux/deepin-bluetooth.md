@@ -27,14 +27,14 @@ sudo apt install bluetooth blueman
 ### 1、启用蓝牙支持
 内核中的蓝牙选项位于【Network Settings】 --> 【Bluetooth subsystem support】。先选中【Bluetooth subsystem support】，然后按”Y“，勾选它。
 
-![lanya](/img/posts/deepin/bluetooth.jpg)
+![lanya](bluetooth.jpg)
 <center>启用蓝牙支持</center>
 
 ### 2、启用特定类型蓝牙设备协议支持
 【Bluetooth subsystem support】中有子菜单，按回车进入，如下所示：
 
 
-![lanya2](/img/posts/deepin/bluetooth2.jpg)
+![lanya2](bluetooth2.jpg)
 
 其中有几个选项，控制特定类型蓝牙设备协议的支持，一般全部启用。它们包括：
 
@@ -50,7 +50,7 @@ sudo apt install bluetooth blueman
 最为重要的一步，就是将蓝牙适配器驱动编译入内核当中。进入最下方子菜单【Bluetooth device drivers】，如下所示：
 
 
-![lanya3](/img/posts/deepin/bluetooth3.jpg)
+![lanya3](bluetooth3.jpg)
 
 菜单中根据接口和特定型号设备，列出了相应的支持选项，有些选项在勾选后还会展开新的选项。典型的接口有USB、SDIO、UART，按需要勾选。
 笔者X200笔记本的蓝牙适配器是Broadcom BCM2045B，走的是USB通道，因此先勾选【HCI USB driver】，随后会在该项下面出现三个新的选项，再进一步勾选【Broadcom protocol support】。不过，在得知适配器信息之前，笔者拿捏蓝牙适配器可能也走了UART通道，所以也将【HCI UART driver】勾上，再进一步勾选下面的【Intel AG6XX protocol support】。但实际使用时发现，X200的蓝牙适配器的确走的是USB而非UART。若不能确定自己的蓝牙适配器类型，可以一并选上，也不占用太多空间。
@@ -69,7 +69,7 @@ sudo make install
 Blueman管理器默认开机启动，会在托盘区域出现一个蓝牙图标，在其中可以很方便地管理蓝牙设备。  
 在Blueman管理器中可以搜索到各种蓝牙设备，包括各种手机、电脑，以及笔者的蓝牙耳机。与蓝牙耳机配对后，Deepin即刻将声音通过蓝牙进行播放，无需再进行进一步的配置，尤其方便。此外，Blueman还有其他有趣的玩法，比如文件传输、浏览设备文件，其中对设备文件的浏览功能与当年的MTK功能机类似。
 
-![lanya4](/img/posts/deepin/bluetooth4.jpg)
+![lanya4](bluetooth4.jpg)
 
 以X200为代表的ThinkPad早期机型有一项设计非常出彩，就是它屏幕下的灯条，系统运行状态一目了然。其中正包括了蓝牙指示灯，当有数据传输时（如正使用蓝牙音频），指示灯会闪烁，如此就能知道蓝牙设备是否正常工作。可谓匠心。
 

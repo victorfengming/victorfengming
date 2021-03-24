@@ -27,10 +27,10 @@ tags:
 
 利用python爬虫爬取图片，首先要进行安装python
 
-可以参考:[window下python的安装与版本检测](https://victorfengming.gitee.io/2019/08/19/python-install-window/)
+可以参考:[window下python的安装与版本检测](https://victorfengming.gitee.io/blog/python-install-window/)
 2. IDE的安装
 
-PyCharm 是一种 Python IDE，带有一整套可以帮助用户在使用 Python 语言开发时提高其效率的工具，比如调试、语法高亮、Project 管理、代码跳转、智能提示、自动完成、单元测试、版本控制。此外，该 IDE 提供了一些高级功能，以用于支持 Django 框架下的专业 Web 开发。其中免费的[社区版（点击即下载）](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC&utm_source=so&utm_source=so)已经能够满足我们的需求，它的安装可以参考:[PyCharm的安装以及破解](https://victorfengming.gitee.io/2019/08/16/pycharm-install/),关于它的使用可以参考[Pycharm使用秘籍](https://www.luffycity.com/free/39)
+PyCharm 是一种 Python IDE，带有一整套可以帮助用户在使用 Python 语言开发时提高其效率的工具，比如调试、语法高亮、Project 管理、代码跳转、智能提示、自动完成、单元测试、版本控制。此外，该 IDE 提供了一些高级功能，以用于支持 Django 框架下的专业 Web 开发。其中免费的[社区版（点击即下载）](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC&utm_source=so&utm_source=so)已经能够满足我们的需求，它的安装可以参考:[PyCharm的安装以及破解](https://victorfengming.gitee.io/blog/pycharm-install/),关于它的使用可以参考[Pycharm使用秘籍](https://www.luffycity.com/free/39)
 3. requests的安装  
 这里我们在终端中用pip安装  
 `pip install requests`

@@ -43,4 +43,4 @@ sublimetext3会提示license版本不对,点击取消即可
 ```
 "update_check":false,
 ```
-更多关于sublime的快捷设置和快捷键可以参考:[sublime快捷键和设置配置(jetbrains习惯)](https://victorfengming.gitee.io/2019/09/17/sublime-keybings-settings/)
+更多关于sublime的快捷设置和快捷键可以参考:[sublime快捷键和设置配置(jetbrains习惯)](https://victorfengming.gitee.io/blog/sublime-keybings-settings/)

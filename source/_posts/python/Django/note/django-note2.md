@@ -87,8 +87,8 @@ ob = Goods.objects.filter(Q(id__contains=v)|Q(title__contains=v))
 - 如何实现模型的关系:这就是一对一的关系,有一个学员信息,就有一个详细的信息 一个主表中有一个字段uid,用于存储另一个表的id,这样两个表格就一一对应起来了,这个用于联系两张表格的字段,我们一般称为`外键`,这个外键就是另一张表中的主键ID        - 外键有物理外键,和逻辑外键,我们这个随便写的就是逻辑外键,这个是通过业务逻辑写进去的,使用的时候推荐使用逻辑外键
 - 因为物理外键会,不是物理外键,外键会产生表与表直接的强耦合,可能会在并发时造成死锁,会造成程序的阻塞
 - 在数据库比较复杂的时候,或者一些大型的网站,绝对不允许使用外键
--  在[58到家MySQL军规升级版](https://victorfengming.gitee.io/2019/11/24/mysql-58-rules/)中说过:[禁止使用外键，如果要保证完整性，应由应用程式实现](https://victorfengming.gitee.io/2019/11/24/mysql-58-rules/#%E7%A6%81%E6%AD%A2%E4%BD%BF%E7%94%A8%E5%A4%96%E9%94%AE%E5%A6%82%E6%9E%9C%E8%A6%81%E4%BF%9D%E8%AF%81%E5%AE%8C%E6%95%B4%E6%80%A7%E5%BA%94%E7%94%B1%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BC%8F%E5%AE%9E%E7%8E%B0)
-- 在[58到家MySQL军规升级版](https://victorfengming.gitee.io/2019/11/24/mysql-58-rules/)中提到: [禁止使用select *，只获取必要字段](https://victorfengming.gitee.io/2019/11/24/mysql-58-rules/#%E7%A6%81%E6%AD%A2%E4%BD%BF%E7%94%A8select-%E5%8F%AA%E8%8E%B7%E5%8F%96%E5%BF%85%E8%A6%81%E5%AD%97%E6%AE%B5) 
+-  在[58到家MySQL军规升级版](https://victorfengming.gitee.io/blog/mysql-58-rules/)中说过:[禁止使用外键，如果要保证完整性，应由应用程式实现](https://victorfengming.gitee.io/blog/mysql-58-rules/#%E7%A6%81%E6%AD%A2%E4%BD%BF%E7%94%A8%E5%A4%96%E9%94%AE%E5%A6%82%E6%9E%9C%E8%A6%81%E4%BF%9D%E8%AF%81%E5%AE%8C%E6%95%B4%E6%80%A7%E5%BA%94%E7%94%B1%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BC%8F%E5%AE%9E%E7%8E%B0)
+- 在[58到家MySQL军规升级版](https://victorfengming.gitee.io/blog/mysql-58-rules/)中提到: [禁止使用select *，只获取必要字段](https://victorfengming.gitee.io/blog/mysql-58-rules/#%E7%A6%81%E6%AD%A2%E4%BD%BF%E7%94%A8select-%E5%8F%AA%E8%8E%B7%E5%8F%96%E5%BF%85%E8%A6%81%E5%AD%97%E6%AE%B5) 
 ```python
 # 在用户详情表中，关联用户表，让两个表的数据产生联系
 # 第一个参数：是被关联的模型名称

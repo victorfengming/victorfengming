@@ -2,6 +2,7 @@
 title: 'Mustache简介'
 cover: "/img/lynk/44.jpg"
 subtitle: '前端框架最常用的胡须语法'
+date:       2020-10-19
 tags:
 	- web
 	- front

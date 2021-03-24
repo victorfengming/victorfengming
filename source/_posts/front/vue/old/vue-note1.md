@@ -25,12 +25,12 @@ tags:
 ### 环境的搭建
 - [node.js](https://www.jianshu.com/p/03a76b2e7e00)
 - [vue-cli](https://www.jianshu.com/p/06a9f112867d)
-- [python](https://victorfengming.gitee.io/2019/08/19/python-install-window/)
-- [django](https://victorfengming.gitee.io/2019/11/23/django-note1/)
+- [python](https://victorfengming.gitee.io/blog/python-install-window/)
+- [django](https://victorfengming.gitee.io/blog/django-note1/)
 ### 集成开发环境的搭建
 - webstorm
 - pycharm
-- 安装参考[这里](https://victorfengming.gitee.io/2019/08/16/pycharm-install/),激活破解以及设置,可以在我的[github](https://github.com/victorfengming/jetbrains_settings)/[gitee](https://gitee.com/victorfengming/jetbrains_settings)中clone下来    
+- 安装参考[这里](https://victorfengming.gitee.io/blog/pycharm-install/),激活破解以及设置,可以在我的[github](https://github.com/victorfengming/jetbrains_settings)/[gitee](https://gitee.com/victorfengming/jetbrains_settings)中clone下来    
 ## 起步
 
 ### node.js安装

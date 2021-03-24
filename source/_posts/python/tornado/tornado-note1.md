@@ -17,7 +17,7 @@ tags:
 
 
 ## tornado的安装
-这里我使用的是[虚拟环境](https://victorfengming.gitee.io/2019/11/18/python-venv/)中的[pip](https://victorfengming.gitee.io/2019/10/12/python-install-pip/)安装,配合[清华大学镜像源](https://victorfengming.gitee.io/2019/11/20/pip-conf/)安装的
+这里我使用的是[虚拟环境](https://victorfengming.gitee.io/blog/python-venv/)中的[pip](https://victorfengming.gitee.io/blog/python-install-pip/)安装,配合[清华大学镜像源](https://victorfengming.gitee.io/blog/pip-conf/)安装的
 
 ```shell
 pip install tornado -i https://pypi.tuna.tsinghua.edu.cn/simple

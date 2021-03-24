@@ -39,7 +39,7 @@ hashmap类型
 
 HashMap<K,V>：存储数据采用的哈希表结构，元素的存取顺序不能保证一致。由于要保证键的唯一、不重复，需要重写键的hashCode()方法、equals()方法。
 
-详细信息可以参考[这里](https://victorfengming.gitee.io/2019/10/21/note08/)
+详细信息可以参考[这里](https://victorfengming.gitee.io/blog/note08/)
 
 
 ### php
@@ -64,7 +64,7 @@ $array = [
 
 
 
-详细信息可以参考[这里](https://victorfengming.gitee.io/2019/10/13/array/#php%E6%95%B0%E7%BB%84)
+详细信息可以参考[这里](https://victorfengming.gitee.io/blog/array/#php%E6%95%B0%E7%BB%84)
 
 ### golang
 map是Go中的内置类型，它将一个值与一个键关联起来。可以使用相应的键检索值。
@@ -76,7 +76,7 @@ Map 最重要的一点是通过 key 来快速检索数据，key 类似于索引�
 
 Map 是一种集合，所以我们可以像迭代数组和切片那样迭代它。不过，Map 是无序的，我们无法决定它的返回顺序，这是因为 Map 是使用 hash 表来实现的，也是引用类型
 
-详细信息可以参考[这里](https://victorfengming.gitee.io/2020/04/13/golang-map/)
+详细信息可以参考[这里](https://victorfengming.gitee.io/blog/golang-map/)
 
 ### JavaScript
 Map 对象保存键值对，并且能够记住键的原始插入顺序。任何值(对象或者原始值) 都可以作为一个键或一个值。 Map 在涉及频繁增删键值对的场景下会有些性能优势。 
@@ -86,7 +86,7 @@ Map 对象保存键值对，并且能够记住键的原始插入顺序。任何�
 NaN 是与 NaN 相等的（虽然 NaN !== NaN），剩下所有其它的值是根据 === 运算符的结果判断是否相等。
 在目前的ECMAScript规范中，-0和+0被认为是相等的，尽管这在早期的草案中并不是这样。有关详细信息，请参阅浏览器兼容性表中的“Value equality for -0 and 0”。
 
-详细信息可以参考[这里](https://victorfengming.gitee.io/2020/04/04/js-map/)
+详细信息可以参考[这里](https://victorfengming.gitee.io/blog/js-map/)
 
 
 

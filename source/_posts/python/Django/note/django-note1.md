@@ -344,7 +344,7 @@ url(r'stu/update$',views.stu_update,name='stu_update'),
 class User(models.Model):
     pass
 ```
-在[这里](https://victorfengming.gitee.io/2019/11/20/django-note/#%E5%AE%9A%E4%B9%89%E6%A8%A1%E5%9E%8B)已经说了
+在[这里](https://victorfengming.gitee.io/blog/django-note/#%E5%AE%9A%E4%B9%89%E6%A8%A1%E5%9E%8B)已经说了
 
 ### 模型更改问题
 >如果模型已经创建好了一个表,你再模型中在增加一个字段,在生成迁移文件的时候就会报出

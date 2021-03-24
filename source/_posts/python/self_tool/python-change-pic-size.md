@@ -25,11 +25,11 @@ tags:
 
 今天小编就教大家使用python写一个简单脚本程序实现修改图片的尺寸
 ### 环境准备
-首先我们需要python环境,它的安装可以参考:[python安装以及版本检测](https://victorfengming.gitee.io/2019/08/19/python-install-window/)
+首先我们需要python环境,它的安装可以参考:[python安装以及版本检测](https://victorfengming.gitee.io/blog/python-install-window/)
 
 其次我们还需要安装一个python图形化的库PIL
 
-PIL的安装,这里我们使用pip来进行安装,关于pip可以参考:[Python pip 安装与使用](https://victorfengming.gitee.io/2019/10/12/python-install-pip/)
+PIL的安装,这里我们使用pip来进行安装,关于pip可以参考:[Python pip 安装与使用](https://victorfengming.gitee.io/blog/python-install-pip/)
 
 pip安装好后,在终端中执行
 ```
@@ -39,9 +39,9 @@ pip install PIL
 
 如果安装了pycharm的同学可以在设置中的解释器栏里面直接进行安装
 
-这里小编推荐使用[pycharm](https://victorfengming.gitee.io/2019/09/26/jetbrains-pycharm-introduce/)进行安装
+这里小编推荐使用[pycharm](https://victorfengming.gitee.io/blog/jetbrains-pycharm-introduce/)进行安装
 
-关于它的安装可以参考:[PyCharm的安装以及破解](https://victorfengming.gitee.io/2019/08/16/pycharm-install/)
+关于它的安装可以参考:[PyCharm的安装以及破解](https://victorfengming.gitee.io/blog/pycharm-install/)
 ### 源码参考
 
 ```python
