@@ -25,9 +25,9 @@ tags:
 今天小编就交大家用python写一个脚本,实现图片加水印
 
 ### 环境搭建
-python3.7 环境:[python安装以及版本检测](https://victorfengming.gitee.io/blog/python-install-window/)
+python3.7 环境:[python安装以及版本检测](https://victorfengming.gitee.io/python/install/python-install-window/)
 
-pycharm2019:[PyCharm的安装以及破解](https://victorfengming.gitee.io/blog/pycharm-install/)
+pycharm2019:[PyCharm的安装以及破解](https://victorfengming.gitee.io/ide/jetbrains/pycharm/pycharm-install/)
 
 pillow库的安装
 
@@ -36,8 +36,8 @@ pip install pillow
 ```
 
 
-关于pip的安装,可以参考:[Python pip 安装与使用
-](https://victorfengming.gitee.io/blog/python-install-pip/)和[pip配置](https://victorfengming.gitee.io/blog/pip-conf/)
+关于pip的安装,可以参考:[Python pip 安装与使用](https://victorfengming.gitee.io/python/install/python-install-pip/)
+和[pip配置](https://victorfengming.gitee.io/python/collection/pip-conf/)
 
 
 ### 直接就上代码

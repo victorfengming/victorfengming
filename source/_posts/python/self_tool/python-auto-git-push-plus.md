@@ -22,7 +22,7 @@ tags:
 
 ### 以前的简单版本
 通过python中的os模块操作系统命令  
-详情可参考:[Python实现一行代码推本地git到远程仓库](https://victorfengming.gitee.io/blog/python-auto-git-push/)
+详情可参考:[Python实现一行代码推本地git到远程仓库](https://victorfengming.gitee.io/python/self_tool/python-auto-git-push/)
 
 ### 升级版本
 本次加入了监听文件修改功能  
@@ -33,7 +33,7 @@ tags:
 ### 依赖库的配置
 这里我们需要用到一个库watchdog
 
-关于它的安装和使用可以参考:[python中文件变化监控-watchdog](https://victorfengming.gitee.io/blog/python-listen-dir/)
+关于它的安装和使用可以参考:[python中文件变化监控-watchdog](https://victorfengming.gitee.io/python/self_tool/python-listen-dir/)
 
 ### 代码如下:
 ```python
