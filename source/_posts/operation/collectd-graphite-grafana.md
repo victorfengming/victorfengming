@@ -1,6 +1,6 @@
 ---
 title: collectd+Graphite+Grafana搭建网络质量监控系统
-date: 2016-03-21 15:55:17
+date: 2021-03-24 15:55:17
 tags:
     - collectd
     - graphite
@@ -138,3 +138,7 @@ Grafana 由 Go 和 Node.js 写成，编译结果是一个单文件 Go 程序和�
 ## 五、监控更多的指标
 
 collectd 还可以做[很多事情](https://collectd.org/wiki/index.php/Table_of_Plugins)，只用它的 ping 插件太大材小用了。玩熟了 ping 插件之后，我又用它监控了局域网内各机器（自己的笔记本、Gen8 上运行的其他虚拟机等）的 CPU、内存、磁盘、网络等其他指标。collectd 的客户端也是移植性很强，我甚至在 Raspberry Pi 上也部署了一下。Windows 机器的话，则可以安装 [SSC Serv](https://collectd.org/wiki/index.php/SSC_Serv)，这是一个协议兼容的 collectd agent，免费版本有五分钟上报一次的限制，基本够用了。
+
+
+
+by wzyboy on 2016-03-21
