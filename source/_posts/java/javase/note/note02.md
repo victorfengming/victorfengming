@@ -74,7 +74,7 @@ new 类名();
     返回值类型,多返回值  
 ```
 ### JVM内存结构-方法区
-java的程序运行是需要在内存中开辟空间的,关于java中的内存更多内容,可以参考:[Java中的内存浅析](https://victorfengming.gitee.io/2019/10/16/java-ram/)
+java的程序运行是需要在内存中开辟空间的,关于java中的内存更多内容,可以参考:[Java中的内存浅析](https://victorfengming.gitee.io/blog/java-ram/)
 
 方法区:该空间用于存放类的信息. java程序运行时,首先会通过类装载器载入类文件的字节码信息,经过解析后将其装入方法区.在方法区保存类的各种信息
 ```java

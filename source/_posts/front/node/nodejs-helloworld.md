@@ -11,7 +11,7 @@ tags:
 
 
 ### helloworld
-首先你要保证你的环境中已经安装好node了，关于node的安装可以参考[ubuntu系统下nodejs的安装](https://victorfengming.gitee.io/2019/08/27/nodejs-install/)
+首先你要保证你的环境中已经安装好node了，关于node的安装可以参考[ubuntu系统下nodejs的安装](https://victorfengming.gitee.io/blog/nodejs-install/)
 第一个Node.js程序：Hello World！
 ### 脚本模式(写入js文件)  
 以下是我们的第一个Node.js程序：  

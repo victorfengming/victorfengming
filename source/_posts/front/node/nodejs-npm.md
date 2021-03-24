@@ -20,7 +20,7 @@ tags:
 
 
 
-[nodejs安装](https://victorfengming.gitee.io/2019/08/27/nodejs-install/)后，还需要安装npm，本文中小编会带大家安装它  
+[nodejs安装](https://victorfengming.gitee.io/blog/nodejs-install/)后，还需要安装npm，本文中小编会带大家安装它  
 ### NPM是什么？
 NPM是随同NodeJS一起安装的包管理工具，能解决NodeJS代码部署上的很多问题，常见的使用场景有以下几种：
 

@@ -25,7 +25,7 @@ JS学到位了么:
 [IDEA加序列化](https://1978413822.github.io/2019/10/29/2019-10-29-idea%E4%B8%AD%E5%8A%A0%E5%BA%8F%E5%88%97%E5%8C%96/)
 
 高效的coding:
-[智能的想法](https://victorfengming.gitee.io/2019/10/14/git-idea/)
+[智能的想法](https://victorfengming.gitee.io/blog/git-idea/)
 
 理解好了么:
 [抽象的东西](https://qijian160.github.io/posts/2019-10-23-integer-ultrices-elit-sit-amet)

@@ -43,8 +43,8 @@ IntelliJ IDEA 2019.2.3 (Ultimate Edition)
 [岳阳-丁's blog](https://1978413822.github.io/)的[IDEA加序列化](https://1978413822.github.io/2019/10/29/2019-10-29-idea%E4%B8%AD%E5%8A%A0%E5%BA%8F%E5%88%97%E5%8C%96/)
 
 ### 相关推荐
-[在idea中使用git管理你的项目](https://victorfengming.gitee.io/2019/10/14/git-idea/)
+[在idea中使用git管理你的项目](https://victorfengming.gitee.io/blog/git-idea/)
 
-[关于宇宙最强Java编辑器:IntelliJ IDEA](https://victorfengming.gitee.io/2019/09/26/jetbrains-idea-introduce/)
+[关于宇宙最强Java编辑器:IntelliJ IDEA](https://victorfengming.gitee.io/blog/jetbrains-idea-introduce/)
 
-[在IDEA中调试代码](https://victorfengming.gitee.io/2019/10/21/jetbrains-idea-debug/)
+[在IDEA中调试代码](https://victorfengming.gitee.io/blog/jetbrains-idea-debug/)

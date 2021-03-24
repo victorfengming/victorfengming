@@ -503,7 +503,7 @@ class SetXsrfCookieHandler(RequestHandler):
 ###### 问题
 其实帅的人是不会用第一种方式写的
 
-需要手动[设置token](https://victorfengming.gitee.io/2019/12/08/tornado-note6/#%E6%89%8B%E5%8A%A8%E8%AE%BE%E7%BD%AE_xsrf%E7%9A%84cookie)  
+需要手动[设置token](https://victorfengming.gitee.io/blog/tornado-note6/#%E6%89%8B%E5%8A%A8%E8%AE%BE%E7%BD%AE_xsrf%E7%9A%84cookie)  
 解决:其实一般我们进入一个网站的时候,通常是不是都先进入主页啊,你进入主页的时候就把这个`xsrf`写进去了
 
 首先我们添加一个进入主页的静态默认页面

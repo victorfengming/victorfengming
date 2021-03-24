@@ -123,14 +123,14 @@ Editor->General->Auto Import->Optimize
 ### 统计代码量
 statistic插件
 ### IDEA中调试代码
-https://victorfengming.gitee.io/2019/10/21/jetbrains-idea-debug/
+https://victorfengming.gitee.io/blog/jetbrains-idea-debug/
 ### 强行假装git    
 本地文件的历史记录
 项目右键->Local History ->Show Hisory
 Put Label
 ### IDEA使用git
 https://blog.csdn.net/qq_40223983/article/details/102543484
-https://victorfengming.gitee.io/2019/10/14/git-idea/
+https://victorfengming.gitee.io/blog/git-idea/
 
 
 #第86天日报-写javaSE阶段项目(兄弟连考试系统)的第3天

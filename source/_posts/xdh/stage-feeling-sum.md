@@ -16,7 +16,7 @@ tags: XDH summer
 
 ### 凤明组：
   <ul>
-    <li>于凤明：<a href="https://victorfengming.gitee.io/2019/09/19/stage-feeling/" target="_blank">https://victorfengming.gitee.io/2019/09/stage-feeling/</a></li>
+    <li>于凤明：<a href="https://victorfengming.gitee.io/blog/stage-feeling/" target="_blank">https://victorfengming.gitee.io/2019/09/stage-feeling/</a></li>
     <li>郑宇鹏：<a href="https://zhengyupengzz.github.io/2019/09/ganwu/" target="_blank">https://zhengyupengzz.github.io/2019/09/ganwu/</a></li>
     <li>岳&nbsp;&nbsp;&nbsp;&nbsp;阳：<a href="https://1978413822.github.io/2019/09/19/thrty-five-ganwu.html" target="_blank">https://1978413822.github.io/2019/09/19/thrty-five-ganwu.html</a></li>
     <li>张&nbsp;&nbsp;&nbsp;&nbsp;杰：<a href="https://awa-jiesang.github.io/2019/09/19/ganwu.html" target="_blank">https://awa-jiesang.github.io/2019/09/19/ganwu.html</a></li>

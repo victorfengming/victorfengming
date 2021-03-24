@@ -1,5 +1,5 @@
 ---
-title: java-dup-inheritance.md
+title: "Java中接口的多继承"
 date: 2021-03-24 10:51:05
 tags:
     - java
