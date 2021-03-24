@@ -1,5 +1,5 @@
 ---
-title: 如何安装和配置“Collectd”和“Collectd-Web”以监控Linux中的服务器资源
+title: "如何安装和配置“Collectd”和“Collectd-Web”以监控Linux中的服务器资源"
 date: 2021-03-24 19:46:24
 cover: "/img/lynk/77.jpg"
 tags:
