@@ -131,7 +131,8 @@ Grafana 由 Go 和 Node.js 写成，编译结果是一个单文件 Go 程序和�
 
 以下是我用 Grafana 绘制的网络质量监控的页面，其中用到 [Templating](http://docs.grafana.org/reference/templating/)、[Singlestat Panel](http://docs.grafana.org/reference/singlestat/) 等功能：
 
-[![grafana-dashboard-network-fullscreen-20160319-2-blurred](grafana-dashboard-network-fullscreen-20160319-2-blurred.png)](https://wzyboy.im/uploads/2016/03/grafana-dashboard-network-fullscreen-20160319-2-blurred.png)
+![](grafana-dashboard-network-fullscreen-20160319-2-blurred.png)
+
 
 请原谅那一段 100% 丢包率的部分，是我的一台 VPS 所在的机房出了问题……
 
