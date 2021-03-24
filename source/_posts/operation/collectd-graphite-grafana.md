@@ -1,6 +1,7 @@
 ---
 title: collectd+Graphite+Grafana搭建网络质量监控系统
 date: 2021-03-24 15:55:17
+cover: "/img/lynk/71.jpg"
 tags:
     - collectd
     - graphite
@@ -59,9 +60,11 @@ write_graphite 插件的配置项中，填写 carbon-cache.py 监听的地址和
 
 collectd 发出去的数据是很简单的 TCP 消息，如：
 
+
 ```
 foo.bar.baz 123 1458372405
 ```
+
 
 以空格分隔，第一段是指标名字，第二段是数值，第三段是时间戳。
 
@@ -81,6 +84,7 @@ Carbon 可以直接从 PyPI 安装，注意它只支持 Legacy Python。它是�
 
 Carbon 使用 Whisper 存储数据点，这一格式的文件大小是预分配的，并且是固定的。旧的数据可以设置自动降低精度，非常旧的数据可以设置丢弃。在 `storage-schemas.conf` 中可以这么设置：
 
+
 ```
 [ping]
 pattern = \.ping\.
@@ -91,14 +95,17 @@ pattern = .*
 retentions = 1m:1d,5m:30d,30m:180d,1h:1y
 ```
 
+
 其中 pattern 匹配指标的名字，retentions 指定这个指标应该保留多久。以 `[default]` 为例，这个指标的数据，1 分钟精度的会保留 1 天，之后自动降为 5 分钟精度，保留 30 天，之后自动降为 30 分钟精度，保留 180 天，之后自动降为 1 小时精度，保留 1 年。而对于 `[ping]` 一节的数据，我希望能更精确一些，因此 1 天内的数据是 10 秒精度的。这样的设置可以使不同的指标按需自动降低精度以节省存储空间，既能查到近期的高精度数据，也能反观远期的大致趋势。
 
 注意这些政策仅对新创建的 `.wsp` 文件有效，已有的文件的存储策略需要通过 whisper-resize.py 进行更改。
+
 Graphite-API 因为带有非 Python 的图形库依赖，编译安装时较为麻烦。Ubuntu / Debian 用户可以用官方提供的 [.deb](https://github.com/brutasse/graphite-api/releases) 安装。Arch Linux 用户可以使用我打包的 [aur/graphite-api](https://aur.archlinux.org/packages/graphite-api/) 安装。
 
 安装之后打开 `graphite-api.yaml` 文件。根据安装方式的不同，Carbon 和 Graphite-API 的存储路径、配置文件路径会有一些差别，请按照自己的情况将 whisper – directories 一节的路径填写正确。
 
-另外推荐配置 carbonlink，查询那些在 carbon-cache.py 内存中还未写入磁盘的数据。最终我使用的 `graphite-api.yaml` 内容如下：
+另外推荐配置 carbonlink，查询那些在 `carbon-cache.py` 内存中还未写入磁盘的数据。最终我使用的 `graphite-api.yaml` 内容如下：
+
 
 ```
 finders:
@@ -114,6 +121,7 @@ carbon:
   carbon_prefix: carbon
   replication_factor: 1
 ```
+
 
 配置完成后，可以启动 carbon-cache.py 和 graphite-api。上节配置的 collectd 也可以启动了。
 
