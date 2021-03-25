@@ -653,9 +653,9 @@ aside:
     description:
     button:
       enable: true
-      icon: fab fa-github
+      icon: fab fa-gitee
       text: Follow Me
-      link: https://github.com/victorfengming
+      link: https://gitee.com/victorfengming
   card_announcement:
     enable: true
     content: This is my Blog
