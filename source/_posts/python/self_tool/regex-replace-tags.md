@@ -2,7 +2,7 @@
 layout:     post
 title:      "使用正则表达式替换博客模板中的tags标签"
 cover: "/img/lynk/86.jpg"
-date:       2021-09-22
+date:       2021-03-12
 author:     "victor"
 tags:
     - regex
@@ -17,15 +17,11 @@ tags:
 
 ![](QQ截图20210305231310.png)
 
-
-
 而新的hexo的格式要求是这样的
 
 ![](QQ截图20210305231321.png)
 
-
 正则表达式如下
-
 
 ```
 (\ntags:.*) (\w+)\n

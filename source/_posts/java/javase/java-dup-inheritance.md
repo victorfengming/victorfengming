@@ -1,6 +1,7 @@
 ---
 title: "Java中接口的多继承"
 date: 2021-03-24 10:51:05
+cover: "/img/lynk/12.jpg"
 tags:
     - java
 ---

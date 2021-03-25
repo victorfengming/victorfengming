@@ -1,6 +1,7 @@
 ---
 title: 玩转Obsidian-基础设置篇
 date: 2021-03-23 22:11:51
+cover: "/img/lynk/32.jpg"
 tags:
 
 ---
