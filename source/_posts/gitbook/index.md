@@ -13,7 +13,7 @@ tags:
 
 ## 前端
 - [html](https://victorfengming.gitee.io/course/front_page/index.html)
-- [network](https://victorfengming.gitee.io/network/)
+- [network](https://victorfengming.gitee.io/course/network/index.html)
 - [typescript](https://victorfengming.gitee.io/typescript/)
 - [axios](https://victorfengming.gitee.io/axios/)
 - [webpack](https://victorfengming.gitee.io/webpack/)
