@@ -1,7 +1,7 @@
 ---
 title: "gitbook添加valine评论功能"
 date: 2021-03-26 06:07:08
-cover: "/img/lynk/03.jpg"
+cover: "/img/lynk/3.jpg"
 author: "victor"
 tags:
     - valine
