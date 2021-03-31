@@ -144,3 +144,7 @@ collectd 还可以做[很多事情](https://collectd.org/wiki/index.php/Table_of
 
 
 by wzyboy on 2016-03-21
+
+---
+
+# graphite
