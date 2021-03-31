@@ -2,6 +2,7 @@
 title: "deepin系统开机自动切换colemak键盘布局"
 cover: "/img/lynk/16.jpg"
 date:       2021-03-31
+author: "victor"
 tags:
 	- Linux
 	- deepin
@@ -38,3 +39,5 @@ reboot
 https://blog.csdn.net/BenSYZ/article/details/104520678
 
 http://www.voidcn.com/article/p-bplopzoo-bwq.html
+
+https://baijiahao.baidu.com/s?id=1666002986214880905&wfr=spider&for=pc
