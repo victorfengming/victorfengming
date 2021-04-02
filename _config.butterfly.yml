@@ -136,7 +136,7 @@ error_img:
 
 # A simple 404 page
 error_404:
-  enable: false
+  enable: true
   subtitle: 'Page Not Found'
   background: https://i.loli.net/2020/05/19/aKOcLiyPl2JQdFD.png
 
@@ -321,10 +321,10 @@ valine:
   recordIP: true # Record reviewer IP
   serverURLs: # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
   bg: # valine background
-  emojiCDN: # emoji CDN
+  emojiCDN: //i0.hdslb.com/bfs/emote/ # emoji CDN
   enableQQ: true # enable the Nickname box to automatically get QQ Nickname and QQ Avatar
   requiredFields: nick,mail # required fields (nick/mail)
-  visitor: false
+  visitor: true
   option:
 
 # waline - A simple comment system with backend support fork from Valine
@@ -681,7 +681,7 @@ aside:
     type: yearly # yearly or monthly
     format: YYYY MMMM  # eg: YYYY年MM月
     order: -1 # Sort of order. 1, asc for ascending; -1, desc for descending
-    limit: 8 # if set 0 will show all
+    limit: 0 # if set 0 will show all
     sort_order: # Don't modify the setting unless you know how it works
   card_webinfo:
     enable: true
