@@ -36,14 +36,14 @@ tags:
 
 |||||
 |---|---|---|---|
-|[mysql](https://victorfengming.gitee.io/course/mysql/index.html)|[mybatis](https://victorfengming.gitee.io/course/mybatis/index.html)|[nosql](https://victorfengming.gitee.io/course/nosql/index.html)|[redis](https://victorfengming.gitee.io/course/redis/index.html)|
+|[mysql](https://victorfengming.gitee.io/course/mysql/index.html)|[mybatis](https://victorfengming.gitee.io/course/mybatis/index.html)|[nosql](https://victorfengming.gitee.io/course/nosql/index.html)|[redis](https://victorfengming.gitee.io/redis/)|
 
 ## 大数据运维
 
 
 |||||
 |---|---|---|---|
-|[shell](https://victorfengming.gitee.io/shell/)|[docker](https://victorfengming.gitee.io/docker/)|[elasticsearch](https://victorfengming.gitee.io/course/elasticsearch/index.html)|[elk](https://victorfengming.gitee.io/elk/)|
+|[shell](https://victorfengming.gitee.io/shell/)|[docker](https://victorfengming.gitee.io/docker/)|[elk](https://victorfengming.gitee.io/elk/)|
 |[flink](https://victorfengming.gitee.io/flink/)|[hadoop](https://victorfengming.gitee.io/hadoop/)|[hive](https://victorfengming.gitee.io/hive/)|[jenkins](https://victorfengming.gitee.io/course/jenkins/index.html)|
 |[kubernetes](https://victorfengming.gitee.io/kubernetes/)|[zookeeper](https://victorfengming.gitee.io/zookeeper/)
 
