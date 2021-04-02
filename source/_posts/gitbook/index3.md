@@ -4,7 +4,7 @@ date: 2021-12-21 06:07:08
 cover: "/img/lynk/11.jpg"
 author: "victor"
 tags:
-    - index
+    - index 
     - gitbook
 ---
 
@@ -13,7 +13,7 @@ tags:
 >
 ## 前端
 
-<div class="table-wrap">
+<div>
     <table>
         <thead>
         <tr>
@@ -66,7 +66,7 @@ tags:
 </div>
 
 ## 后端
-<div class="table-wrap">
+<div>
     <table>
         <thead>
         <tr>
@@ -92,7 +92,7 @@ tags:
 </div>
 
 ## 框架
-<div class="table-wrap">
+<div>
     <table>
         <thead>
         <tr>
@@ -127,7 +127,7 @@ tags:
 </div>
 
 ## 数据库
-<div class="table-wrap">
+<div>
     <table>
         <thead>
         <tr>
@@ -157,7 +157,7 @@ tags:
 </div>
 
 ## 大数据运维
-<div class="table-wrap">
+<div>
     <table>
         <thead>
         <tr>
@@ -211,7 +211,7 @@ tags:
 </div>
 
 ## 其他
-<div class="table-wrap">
+<div>
     <table>
         <thead>
         <tr>
@@ -253,13 +253,3 @@ tags:
 </div>
 
 
-<style>
-    a {
-        display: block;
-        margin-top: 0.7rem;
-        background-color: var(--btn-bg);
-        color: var(--btn-color);
-        text-align: center;
-        line-height: 2.4;
-    }
-</style>

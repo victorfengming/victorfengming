@@ -4,7 +4,7 @@ date: 2021-12-21 06:07:08
 cover: "/img/lynk/11.jpg"
 author: "victor"
 tags:
-    - index
+    - index 
     - gitbook
 ---
 
@@ -253,13 +253,3 @@ tags:
 </div>
 
 
-<style>
-    a {
-        display: block;
-        margin-top: 0.7rem;
-        background-color: var(--btn-bg);
-        color: var(--btn-color);
-        text-align: center;
-        line-height: 2.4;
-    }
-</style>
