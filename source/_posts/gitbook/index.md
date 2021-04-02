@@ -15,7 +15,7 @@ tags:
 
 ||||
 |---|---|---|
-|[html](https://victorfengming.gitee.io/course/front_page/index.html)|[network](https://victorfengming.gitee.io/course/network/index.html)|[typescript](https://victorfengming.gitee.io/typescript/)|
+|[html](https://victorfengming.gitee.io/course/front_page/index.html)|[network](https://victorfengming.gitee.io/network/)|[typescript](https://victorfengming.gitee.io/typescript/)|
 |[axios](https://victorfengming.gitee.io/axios/)|[webpack](https://victorfengming.gitee.io/webpack/)
 |[vue](https://victorfengming.gitee.io/vue/)|[react](https://victorfengming.gitee.io/react/)|[promise](https://victorfengming.gitee.io/promise/)
 |[pyqt5](https://victorfengming.gitee.io/course/pyqt5/index.html)
@@ -36,7 +36,7 @@ tags:
 
 |||||
 |---|---|---|---|
-|[mysql](https://victorfengming.gitee.io/course/mysql/index.html)|[mybatis](https://victorfengming.gitee.io/course/mybatis/index.html)|[nosql](https://victorfengming.gitee.io/course/nosql/index.html)|[redis](https://victorfengming.gitee.io/redis/)|
+|[mysql](https://victorfengming.gitee.io/course/mysql/index.html)|[mybatis](https://victorfengming.gitee.io/mybatis/)|[nosql](https://victorfengming.gitee.io/course/nosql/index.html)|[redis](https://victorfengming.gitee.io/redis/)|
 
 ## 大数据运维
 
@@ -54,7 +54,6 @@ tags:
 |---|---|---|---|
 |[jvm](https://victorfengming.gitee.io/jvm/)|[data_algorithm](https://victorfengming.gitee.io/data_algorithm/)|[data_science](https://victorfengming.gitee.io/course/data_science/index.html)|
 |[design_pattern](https://victorfengming.gitee.io/design_pattern/)|[git](https://victorfengming.gitee.io/course/git/index.html)|[svn](https://victorfengming.gitee.io/course/svn/index.html)|[interview](https://victorfengming.gitee.io/interview/)
-
 
 
 
