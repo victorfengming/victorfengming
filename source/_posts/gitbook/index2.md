@@ -7,12 +7,9 @@ tags:
     - index 
     - gitbook
 ---
-
-
 > Created by [gitbook](https://www.gitbook.com/)
 >
 ## 前端
-
 <div class="table-wrap">
     <table>
         <thead>
@@ -24,47 +21,46 @@ tags:
         </thead>
         <tbody>
         <tr>
-            <td>
-                <a href="https://victorfengming.gitee.io/course/front_page/index.html">html</a>
-            </td>
-            <td>
-                <a href="https://victorfengming.gitee.io/course/network/index.html">network</a>
-            </td>
-            <td>
-                <a href="https://victorfengming.gitee.io/typescript/">typescript</a>
-            </td>
+            <a href="https://victorfengming.gitee.io/course/front_page/index.html">
+                <td>html</td>
+            </a>
+            <a href="https://victorfengming.gitee.io/course/network/index.html">
+                <td>network</td>
+            </a>
+            <a href="https://victorfengming.gitee.io/typescript/">
+                <td>typescript</td>
+            </a>
         </tr>
         <tr>
-            <td>
-                <a href="https://victorfengming.gitee.io/axios/">axios</a>
-            </td>
-            <td>
-                <a href="https://victorfengming.gitee.io/webpack/">webpack</a>
-            </td>
+            <a href="https://victorfengming.gitee.io/axios/">
+                <td>axios</td>
+            </a>
+            <a href="https://victorfengming.gitee.io/webpack/">
+                <td>webpack</td>
+            </a>
             <td></td>
         </tr>
         <tr>
-            <td>
-                <a href="https://victorfengming.gitee.io/vue/">vue</a>
-            </td>
-            <td>
-                <a href="https://victorfengming.gitee.io/react/">react</a>
-            </td>
-            <td>
-                <a href="https://victorfengming.gitee.io/promise/">promise</a>
-            </td>
+            <a href="https://victorfengming.gitee.io/vue/">
+                <td>vue</td>
+            </a>
+            <a href="https://victorfengming.gitee.io/react/">
+                <td>react</td>
+            </a>
+            <a href="https://victorfengming.gitee.io/promise/">
+                <td>promise</td>
+            </a>
         </tr>
         <tr>
-            <td>
-                <a href="https://victorfengming.gitee.io/course/pyqt5/index.html">pyqt5</a>
-            </td>
+            <a href="https://victorfengming.gitee.io/course/pyqt5/index.html">
+                <td>pyqt5</td>
+            </a>
             <td></td>
             <td></td>
         </tr>
         </tbody>
     </table>
 </div>
-
 ## 后端
 <div class="table-wrap">
     <table>
@@ -77,20 +73,19 @@ tags:
         </thead>
         <tbody>
         <tr>
-            <td>
-                <a href="https://victorfengming.gitee.io/scala/">scala</a>
-            </td>
-            <td>
-                <a href="https://victorfengming.gitee.io/course/python_book/index.html">python</a>
-            </td>
-            <td>
-                <a href="https://victorfengming.gitee.io/course/go/index.html">golang</a>
-            </td>
+            <a href="https://victorfengming.gitee.io/scala/">
+                <td>scala</td>
+            </a>
+            <a href="https://victorfengming.gitee.io/course/python_book/index.html">
+                <td>python</td>
+            </a>
+            <a href="https://victorfengming.gitee.io/course/go/index.html">
+                <td>golang</td>
+            </a>
         </tr>
         </tbody>
     </table>
 </div>
-
 ## 框架
 <div class="table-wrap">
     <table>
@@ -103,29 +98,28 @@ tags:
         </thead>
         <tbody>
         <tr>
-            <td>
-                <a href="https://victorfengming.gitee.io/course/beego/index.html">beego</a>
-            </td>
-            <td>
-                <a href="https://victorfengming.gitee.io/course/django/index.html">django</a>
-            </td>
-            <td>
-                <a href="https://victorfengming.gitee.io/course/flask/index.html">flask</a>
-            </td>
+            <a href="https://victorfengming.gitee.io/course/beego/index.html">
+                <td>beego</td>
+            </a>
+            <a href="https://victorfengming.gitee.io/course/django/index.html">
+                <td>django</td>
+            </a>
+            <a href="https://victorfengming.gitee.io/course/flask/index.html">
+                <td>flask</td>
+            </a>
         </tr>
         <tr>
-            <td>
-                <a href="https://victorfengming.gitee.io/springboot/">springboot</a>
-            </td>
-            <td>
-                <a href="https://victorfengming.gitee.io/springcloud/">springcloud</a>
-            </td>
+            <a href="https://victorfengming.gitee.io/springboot/">
+                <td>springboot</td>
+            </a>
+            <a href="https://victorfengming.gitee.io/springcloud/">
+                <td>springcloud</td>
+            </a>
             <td></td>
         </tr>
         </tbody>
     </table>
 </div>
-
 ## 数据库
 <div class="table-wrap">
     <table>
@@ -139,23 +133,22 @@ tags:
         </thead>
         <tbody>
         <tr>
-            <td>
-                <a href="https://victorfengming.gitee.io/course/mysql/index.html">mysql</a>
-            </td>
-            <td>
-                <a href="https://victorfengming.gitee.io/course/mybatis/index.html">mybatis</a>
-            </td>
-            <td>
-                <a href="https://victorfengming.gitee.io/course/nosql/index.html">nosql</a>
-            </td>
-            <td>
-                <a href="https://victorfengming.gitee.io/course/redis/index.html">redis</a>
-            </td>
+            <a href="https://victorfengming.gitee.io/course/mysql/index.html">
+                <td>mysql</td>
+            </a>
+            <a href="https://victorfengming.gitee.io/course/mybatis/index.html">
+                <td>mybatis</td>
+            </a>
+            <a href="https://victorfengming.gitee.io/course/nosql/index.html">
+                <td>nosql</td>
+            </a>
+            <a href="https://victorfengming.gitee.io/course/redis/index.html">
+                <td>redis</td>
+            </a>
         </tr>
         </tbody>
     </table>
 </div>
-
 ## 大数据运维
 <div class="table-wrap">
     <table>
@@ -169,47 +162,46 @@ tags:
         </thead>
         <tbody>
         <tr>
-            <td>
-                <a href="https://victorfengming.gitee.io/shell/">shell</a>
-            </td>
-            <td>
-                <a href="https://victorfengming.gitee.io/docker/">docker</a>
-            </td>
-            <td>
-                <a href="https://victorfengming.gitee.io/course/elasticsearch/index.html">elasticsearch</a>
-            </td>
-            <td>
-                <a href="https://victorfengming.gitee.io/elk/">elk</a>
-            </td>
+            <a href="https://victorfengming.gitee.io/shell/">
+                <td>shell</td>
+            </a>
+            <a href="https://victorfengming.gitee.io/docker/">
+                <td>docker</td>
+            </a>
+            <a href="https://victorfengming.gitee.io/course/elasticsearch/index.html">
+                <td>elasticsearch</td>
+            </a>
+            <a href="https://victorfengming.gitee.io/elk/">
+                <td>elk</td>
+            </a>
         </tr>
         <tr>
-            <td>
-                <a href="https://victorfengming.gitee.io/flink/">flink</a>
-            </td>
-            <td>
-                <a href="https://victorfengming.gitee.io/hadoop/">hadoop</a>
-            </td>
-            <td>
-                <a href="https://victorfengming.gitee.io/hive/">hive</a>
-            </td>
-            <td>
-                <a href="https://victorfengming.gitee.io/course/jenkins/index.html">jenkins</a>
-            </td>
+            <a href="https://victorfengming.gitee.io/flink/">
+                <td>flink</td>
+            </a>
+            <a href="https://victorfengming.gitee.io/hadoop/">
+                <td>hadoop</td>
+            </a>
+            <a href="https://victorfengming.gitee.io/hive/">
+                <td>hive</td>
+            </a>
+            <a href="https://victorfengming.gitee.io/course/jenkins/index.html">
+                <td>jenkins</td>
+            </a>
         </tr>
         <tr>
-            <td>
-                <a href="https://victorfengming.gitee.io/kubernetes/">kubernetes</a>
-            </td>
-            <td>
-                <a href="https://victorfengming.gitee.io/zookeeper/">zookeeper</a>
-            </td>
+            <a href="https://victorfengming.gitee.io/kubernetes/">
+                <td>kubernetes</td>
+            </a>
+            <a href="https://victorfengming.gitee.io/zookeeper/">
+                <td>zookeeper</td>
+            </a>
             <td></td>
             <td></td>
         </tr>
         </tbody>
     </table>
 </div>
-
 ## 其他
 <div class="table-wrap">
     <table>
@@ -223,33 +215,31 @@ tags:
         </thead>
         <tbody>
         <tr>
-            <td>
-                <a href="https://victorfengming.gitee.io/jvm/">jvm</a>
-            </td>
-            <td>
-                <a href="https://victorfengming.gitee.io/data_algorithm/">data_algorithm</a>
-            </td>
-            <td>
-                <a href="https://victorfengming.gitee.io/course/data_science/index.html">data_science</a>
-            </td>
+            <a href="https://victorfengming.gitee.io/jvm/">
+                <td>jvm</td>
+            </a>
+            <a href="https://victorfengming.gitee.io/data_algorithm/">
+                <td>data_algorithm</td>
+            </a>
+            <a href="https://victorfengming.gitee.io/course/data_science/index.html">
+                <td>data_science</td>
+            </a>
             <td></td>
         </tr>
         <tr>
-            <td>
-                <a href="https://victorfengming.gitee.io/design_pattern/">design_pattern</a>
-            </td>
-            <td>
-                <a href="https://victorfengming.gitee.io/course/git/index.html">git</a>
-            </td>
-            <td>
-                <a href="https://victorfengming.gitee.io/course/svn/index.html">svn</a>
-            </td>
-            <td>
-                <a href="https://victorfengming.gitee.io/interview/">interview</a>
-            </td>
+            <a href="https://victorfengming.gitee.io/design_pattern/">
+                <td>design_pattern</td>
+            </a>
+            <a href="https://victorfengming.gitee.io/course/git/index.html">
+                <td>git</td>
+            </a>
+            <a href="https://victorfengming.gitee.io/course/svn/index.html">
+                <td>svn</td>
+            </a>
+            <a href="https://victorfengming.gitee.io/interview/">
+                <td>interview</td>
+            </a>
         </tr>
         </tbody>
     </table>
 </div>
-
-

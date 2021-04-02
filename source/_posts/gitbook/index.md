@@ -252,14 +252,3 @@ tags:
     </table>
 </div>
 
-
-<style>
-    a {
-        display: block;
-        margin-top: 0.7rem;
-        background-color: var(--btn-bg);
-        color: var(--btn-color);
-        text-align: center;
-        line-height: 2.4;
-    }
-</style>
