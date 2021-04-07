@@ -47,12 +47,22 @@ social:
 
 # search (搜索)
 # --------------------------------------
+search:
+  path: search.xml
+  field: post
+  content: true
+
 
 # Algolia search
 algolia_search:
   enable: false
   hits:
     per_page: 6
+
+algolia:
+  applicationID: 'KHTEYFERFC'
+  apiKey: 'fc4a1e5e0f36e9f34c75024f142a48c4'
+  indexName: 'blog'
 
 # Local search
 local_search:
@@ -470,7 +480,7 @@ bing_site_verification:
 
 # Baidu Webmaster tools verification setting
 # See: https://ziyuan.baidu.com/site/
-baidu_site_verification:
+baidu_site_verification: 050fb675d62d1e28ba844b2419cb63f1
 
 # 360 Webmaster tools verification setting
 # see http://zhanzhang.so.com/
@@ -559,7 +569,7 @@ canvas_nest:
 # Typewriter Effect (打字效果)
 # https://github.com/disjukr/activate-power-mode
 activate_power_mode:
-  enable: false
+  enable: true
   colorful: true # open particle animation (冒光特效)
   shake: true #  open shake (抖動特效)
   mobile: false
@@ -588,7 +598,7 @@ ClickShowText:
 
 # Default display mode (網站默認的顯示模式)
 # light (default) / dark
-display_mode: dark
+display_mode: light
 
 # Beautify (美化頁面顯示)
 beautify:
@@ -746,7 +756,7 @@ readmode: true
 
 # dark mode
 darkmode:
-  enable: true
+  enable: false
   # Toggle Button to switch dark/light mode
   button: true
   # Switch dark/light mode automatically (自動切換 dark mode和 light mode)
