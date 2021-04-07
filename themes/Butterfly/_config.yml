@@ -50,13 +50,18 @@ social:
 
 # Algolia search
 algolia_search:
-  enable: false
+  enable: true
   hits:
     per_page: 6
 
+algolia:
+  applicationID: 'KHTEYFERFC'
+  apiKey: 'fc4a1e5e0f36e9f34c75024f142a48c4'
+  indexName: 'blog'
+
 # Local search
 local_search:
-  enable: false
+  enable: true
 
 # Math (數學)
 # --------------------------------------
@@ -746,7 +751,7 @@ readmode: true
 
 # dark mode
 darkmode:
-  enable: true
+  enable: false
   # Toggle Button to switch dark/light mode
   button: true
   # Switch dark/light mode automatically (自動切換 dark mode和 light mode)
