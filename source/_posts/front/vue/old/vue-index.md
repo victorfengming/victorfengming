@@ -6,7 +6,7 @@ tags:
 	- web
 	- vue
 	- basis
-	- Index
+	- index
 ---
 
 

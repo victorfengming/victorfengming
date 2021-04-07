@@ -5,7 +5,7 @@ date:       2019-09-01
 tags:
 	- basis
 	- mysql
-	- Index
+	- index
 	- database
 	- summer
 ---

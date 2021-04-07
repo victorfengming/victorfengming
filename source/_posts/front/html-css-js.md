@@ -3,7 +3,7 @@ title: '前端相关知识索引'
 cover: "/img/lynk/22.jpg"
 date:       2019-08-20
 tags:
-	- Index
+	- index
 	- web
 ---
 

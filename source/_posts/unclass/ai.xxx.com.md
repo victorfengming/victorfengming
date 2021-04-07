@@ -3,7 +3,7 @@ title: "各大AI开放平台一览"
 cover: "/img/lynk/2.jpg"
 date:       2019-09-01
 tags:
-	- Index
+	- index
 	- entertainment
 ---
 
