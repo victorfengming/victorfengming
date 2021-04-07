@@ -47,10 +47,15 @@ social:
 
 # search (搜索)
 # --------------------------------------
+search:
+  path: search.xml
+  field: post
+  content: true
+
 
 # Algolia search
 algolia_search:
-  enable: true
+  enable: false
   hits:
     per_page: 6
 
@@ -61,7 +66,7 @@ algolia:
 
 # Local search
 local_search:
-  enable: true
+  enable: false
 
 # Math (數學)
 # --------------------------------------
@@ -564,7 +569,7 @@ canvas_nest:
 # Typewriter Effect (打字效果)
 # https://github.com/disjukr/activate-power-mode
 activate_power_mode:
-  enable: false
+  enable: true
   colorful: true # open particle animation (冒光特效)
   shake: true #  open shake (抖動特效)
   mobile: false
@@ -593,7 +598,7 @@ ClickShowText:
 
 # Default display mode (網站默認的顯示模式)
 # light (default) / dark
-display_mode: dark
+display_mode: light
 
 # Beautify (美化頁面顯示)
 beautify:
