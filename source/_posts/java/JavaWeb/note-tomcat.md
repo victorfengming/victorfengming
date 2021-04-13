@@ -11,8 +11,7 @@ tags:
 ---
   
   
-* content  
-{:toc}  
+
   
   
   

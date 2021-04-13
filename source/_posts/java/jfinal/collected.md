@@ -1,12 +1,11 @@
 ---
-title: 'JDBC笔记-李伟杰版'
+title: 'jFinal配置自动生成'
 cover: "/img/lynk/68.jpg"
-date:       2019-11-10
+date:       2021-04-10
 tags:
 	- Java
-	- basis
+	- jFinal
 	
-	- JDBC
 ---
   
   

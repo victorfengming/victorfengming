@@ -10,8 +10,7 @@ tags:
 ---
   
   
-* content  
-{:toc}  
+
   
   
   
