@@ -11,7 +11,6 @@ tags:
 <section>
                 <div class="before">
                     <div class="other">
-
                     </div>
                 </div>
                 <div class="new-box">
@@ -54,4 +53,4 @@ Transclusion expansion time report (%,ms,calls,template)
 <!-- Saved in parser cache with key mediawiki:pcache:idhash:224-0!*!*!!zh-cn!*!* and timestamp 20190903044709 and revision id 428
  -->
 </div>                </div>
-            </section>
+</section>
