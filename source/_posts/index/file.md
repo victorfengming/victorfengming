@@ -37,3 +37,4 @@ tags:
 
 - [Linux命令行与shell脚本编程大全_第3版_布鲁姆_P606](Linux命令行与shell脚本编程大全_第3版_布鲁姆_P606.pdf)
 - [alibaba_architecture_design](alibaba_architecture_design.pdf)
+  -[high_performanc_mysql](https://victorfengming.gitee.io/file/pdf/mysql/high_performanc_mysql.pdf)
