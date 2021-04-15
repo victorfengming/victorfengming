@@ -214,3 +214,25 @@ if __name__ == "__main__":
 
 
 ```
+
+
+
+Typing by 自然码+colemak
+
+```aidl
+重叠: 
+gg 更
+ll 来
+uu 数
+yy 应
+rr 软
+ss 送
+hh 行
+nn 您
+ii 吃
+zz 贼
+xx 写
+vv 追
+kk 考
+mm 面
+```
