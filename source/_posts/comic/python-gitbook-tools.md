@@ -1,0 +1,459 @@
+---
+title: 'Python实现GitBook工具'
+cover: "/img/lynk/34.jpg"
+date:       2021-04-17
+author:     "victor"
+tags:
+	- gitbook
+	- Python
+	- node
+---
+
+## 写在前面
+本工具是通过Python脚本实现 GitBook 自动 生成 执行 编译 发布的功能
+
+你可以[下载exe](https://victorfengming.gitee.io/file/exe/gitbook-tools/gitbook-tools-21.4.18.exe) 并,阅读[readme](https://victorfengming.gitee.io/file/exe/gitbook-tools/readme.md)
+
+## 使用
+
+### 1. exe下载,并移动位置
+>将exe文件放在你的gitbook文件夹中,或者放在空文件夹中
+
+### 2. file.md
+创建 名为`file.md`的文件,在你要写book的目录下
+
+> 注意: 这里file.md文件名不可更改
+
+### 3. 编辑文件内容
+类似这样
+```markdown
+01_JVM内存与垃概述.md
+02_如何看术与JVM.md
+03_为什学习JVM.md
+04_面课程特点.md
+```
+
+### 4. 运行 gitbook-tools-21.4.18.exe
+
+![1618599141367](1618599141367.png)
+
+### 5. 执行
+#### 1：生成md
+
+运行这条选项会根据`file.md`每行的文本生成对应文件
+
+![1618599290568](1618599290568.png)
+
+并且在每个文件中自动加入 一级标题
+
+![1618599404144](1618599404144.png)
+
+现在就可以编写主要内容了
+
+#### 2: 转换SUMMARY
+
+执行这条命令会根据`file.md`每行的文本生成
+
+目录格式的 `SUMMARY.md`
+
+生成后的文件如下
+
+![1618599578828](1618599578828.png)
+
+如果你可以自己写SUMMARY，这步可以忽略
+
+#### 3. 编译build
+
+这步相当于
+
+在终端直接敲
+
+```shell
+gitbook build
+```
+
+不同的是,如果你没有README文件,会自动创建
+
+![1618599701544](1618599701544.png)
+
+编译后,会在当前目录生成`_book`
+文件夹,里面为编译后的HTML,可供发布或部署
+
+#### 4. git 指令
+
+```shell
+git add _book
+git commit -m\"Commit by gitbook tool!!!\"
+git push
+```
+
+这里 add 只是add了 _book 文件夹
+
+commit的信息的固定的
+
+push时,如果是已经clone下来自己的库,能够直接push
+
+否则要先登录
+
+#### 5. gitee pages
+
+gitee pages 部署,这个update
+
+只有gitee pro 会员才能够 支持自动 更新
+
+但是这里可以通过py提供了一些代码参考
+
+先 tag一个 TODO
+
+
+
+## 环境
+Python: 3.7 
+
+GitBook CLI version: 2.3.2
+
+GitBook version: 3.2.3
+
+Node.js v15.8.0
+
+npm@7.10.0
+
+Pycharm 2021.3
+
+Pyinstaller
+
+Gitee Pages
+
+## Gitbook 介绍
+GitBook 是一个基于 Node.js 的命令行工具，可使用 Github/Git 和 Markdown 来制作精美的电子书，GitBook 并非关于 Git 的教程。
+
+[Gitbook教程](https://www.jianshu.com/p/0388d8bb49a7)
+
+
+安装遇到的[问题](https://victorfengming.gitee.io/git/gitbook/)
+
+## 实现功能
+
+
+1. 生成md文件列表,通过读取文件,创建md文件
+
+2. 生成SUMMARY.md 替换文件名 为 Gitbook的SUMMARY格式
+
+3. build 编译gitbook ,html格式以便发布
+
+4. git 自动 push `_book`文件夹
+
+5. gitee pages 自动update(dev)
+
+
+
+## 代码
+
+```python
+'''
+#!/usr/bin/env python
+# -*- coding:utf-8 -*-
+# Created by victor
+# Created Time: '2021/4/17 0:42'
+'''
+
+'''
+version: 21.4.18
+TODO :         gitee pages auto sync!!!
+'''
+import os
+# import sys
+# import re
+
+
+# dir 是全路径
+# 比如: E:\Projects\PycharmProjects\untitled\test\database\redis\2019-09-25-deepin-install-redis.md
+# :param dir:
+# :return:
+class GitbookTool:
+def __init__(self):
+self.sum_file_name = "file.md"
+# 当前脚本目录
+# self.pypath = sys.path[0]
+self.pypath = os.getcwd()
+# self.pypath = input("please input the root path(windows split symbol is \\)\n:")
+# self.root_path = self.pypath
+# sour_path source 源 路径
+self.sour_path = self.pypath + "\\" + self.sum_file_name
+# SUMMARY.md 路径
+self.summary_path = self.pypath + "\\" + "SUMMARY.md"
+print("| self.pypath >>> ",self.pypath)
+def repSpilt(self, path):
+"""
+替换路径分隔符
+:param path:
+:return:
+"""
+return path.replace("\\", "\\\\")
+
+    def newFile(self, line, dirname):
+        '''
+        创建文件
+        :param line:
+        :param dirname:
+        :return:
+        '''
+        print("| gen file >>>")
+        # 新建文件的文件名,最后的\n去掉
+        newName = dirname + "\\" + line[:-1]
+        print("| \t", line[:-1])
+        with open(newName, "w", encoding="utf-8") as f2:
+            f2.write("# " + line[:-4])
+
+    def for_line(self, file):
+        '''
+        读取 sm文件,并遍历行
+        :param file:
+        :return:
+        '''
+        # 获取目录
+        dirname = os.path.dirname(file)
+        with open(file, "r", encoding="utf-8") as f1:
+            i = 0
+            for line in f1:
+
+                if line == "\n":
+                    # line 是空行
+                    pass
+                else:
+                    # 判断line是不是最后一行
+                    if line[-1] != "\n":
+                        # 加上换行
+                        line += "\n"
+
+                    i += 1
+                    self.newFile(line, dirname)
+
+        print("| gen ", i, "file success!!!")
+        print("| path:", dirname)
+
+    def gen_md(self):
+        """
+        生成md文件
+        :return:
+        """
+        # 获取输入
+        print("| -----------------------------------------------------")
+        print("| md文件生成器")
+        print("| 通过读取file.md文件中的行数来创建文件")
+        print("| 生成的文件会和源文件同目录")
+        print("| 注意:原有文件会被替换")
+        # print("| 请输入源目录文件路径,window用 \ 来分隔文件夹")
+        # sourceFile = input(":")
+
+        # E:\Projects\PycharmProjects\untitled\newFile
+        # sourceFile = self.pypath + "\\" + "SUMMARY.md"
+        self.for_line(self.repSpilt(self.sour_path))
+        os.system('pause')
+
+    def gitbook_build(self):
+        '''
+        编译gitbook
+
+        :return:
+        '''
+        # fname = self.pypath + +"\\"+"SUMMARY.md"
+        # os.path.isfile(fname)
+        rname = self.pypath + "\\" + "README.md"
+        if os.path.isfile(rname):
+            # 文件存在
+            pass
+        else:
+            with open(rname, "w", encoding="utf-8") as f2:
+                f2.write("This file is generated by py script!!!\n")
+                f2.write("Please write the contents of the README.md")
+        print("| building...")
+        os.system("gitbook build")
+        os.system('pause')
+
+    def replace_sum(self):
+        with open(self.sour_path, "r", encoding="utf-8") as f1, open(self.summary_path, "w", encoding="utf-8") as f2:
+            i = 0
+            for line in f1:
+                if line == "\n":
+                    # line 是空行
+                    pass
+                else:
+                    # 判断line是不是最后一行
+                    i += 1
+                    if line[-1] != "\n":
+                        # 加上换行
+                        line += "\n"
+                    f2.write("- [")
+                    f2.write(line[:-4])
+                    f2.write("](")
+                    f2.write(line[:-1])
+                    f2.write(")")
+                    f2.write("\n")
+        print("| gen summary success!!!")
+        print("| total effect line:",i)
+        os.system('pause')
+    def qucik_git(self):
+
+        os.system("git add _book")
+        os.system("git commit -m\"Commit by gitbook tool!!!\"")
+        os.system("git push")
+        os.system('pause')
+
+    def menu(self):
+        # 获取输入
+        # print("| =========================================")
+        # print("| ================ gitbook tools ================")
+        print("| --------------------------- gitbook tools ---------------------------")
+        print("| 1：生成md")
+        print("| 2: 转换SUMMARY")
+        print("| 3: 编译>HTML")
+        print("| 4: 发布Git")
+        print("| 0: exit()")
+        print("| --------------------------- gitbook tools ---------------------------")
+
+        return input("| choose operation you need：")
+
+
+
+if __name__ == '__main__':
+yt = '''
+┌─┐       ┌─┐ + +
+┌──┘ ┴───────┘ ┴──┐++
+│                 │
+│       ───       │++ + + +
+███████───███████ │+
+│                 │+
+│       ─┴─       │
+│                 │
+└───┐         ┌───┘
+│         │
+│         │   + +
+│         │
+│         └──────────────┐
+│                        │
+│                        ├─┐
+│                        ┌─┘
+│                        │
+└─┐  ┐  ┌───────┬──┐  ┌──┘  + + + +
+│ ─┤ ─┤       │ ─┤ ─┤
+└──┴──┘       └──┴──┘  + + + +
+神兽保佑
+代码无BUG!
+
+    '''
+    print(yt)
+    print("| --------------------------- gitbook tools ---------------------------")
+    print("| @version: 21.4.18")
+    print("| @description: gitbook tools auto gen file & build & sync to git")
+    print("| @author: victor")
+    print("| @site: https://victorfengming.gitee.io/")
+    print("| @introduce: https://victorfengming.gitee.io/comic/")
+    print("| @readme: https://victorfengming.gitee.io/file/exe/gitbook-tools/readme.md")
+    print("| @download: https://victorfengming.gitee.io/file/exe/gitbook-tools/gitbook-tools-21.4.18.exe")
+    print("| --------------------------- gitbook tools ---------------------------")
+    print("| 注意：使用前请将exe文件放到file.md同级目录下")
+    # print("| ========================================")
+    # print(os.path.isfile("E:\\Projects\\PycharmProjects\\untitled\\newFiletest\\12.md"))
+    gt = GitbookTool()
+    while True:
+        cho = gt.menu()
+        if cho == "1":
+            print(1)
+            gt.gen_md()
+        elif cho == "2":
+            print(2)
+            gt.replace_sum()
+        elif cho == "3":
+            print(3)
+            gt.gitbook_build()
+        elif cho == "4":
+            print(4)
+            gt.qucik_git()
+        elif cho == "0":
+            # print("| bye~")
+            exit(0)
+
+```
+
+
+## gitee page 代码(dev)
+
+
+```python
+
+
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait as Wait
+
+print("start refresh gitee pages...")
+
+repo_user_name = "victorfengming"
+repo_name = "shell"
+login_user = "victorfengming"
+login_pwd = "xxxx"
+
+url = "https://gitee.com/"+repo_user_name+"/"+repo_name+"/pages"
+
+driver = "E:\\chrome\\chromedriver.exe"
+chrome_options = Options()
+chrome_options.add_argument("--window-size=1920,1080")
+chrome_options.add_argument("--start-maximized")
+chrome_options.add_argument("--headless")
+browser=webdriver.Chrome(executable_path=driver, options=chrome_options)
+
+browser.get(url)
+
+Wait(browser, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "item.git-nav-user__login-item")))
+print("load finish. url=" + url)
+login_btn = browser.find_element_by_class_name("item.git-nav-user__login-item")
+login_btn.click()
+
+Wait(browser, 10).until(EC.presence_of_element_located((By.ID, "user_login")))
+Wait(browser, 10).until(EC.presence_of_element_located((By.ID, "user_password")))
+print("login page load finish.")
+user_input = browser.find_element_by_id("user_login")
+pwd_input = browser.find_element_by_id("user_password")
+login_btn = browser.find_element_by_name("commit")
+user_input.send_keys(login_user)
+pwd_input.send_keys(login_pwd)
+login_btn.click()
+
+Wait(browser, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "button.orange.redeploy-button.ui.update_deploy")))
+print("login finish.")
+deploy_btn = browser.find_element_by_class_name('button.orange.redeploy-button.ui.update_deploy')
+
+browser.execute_script("window.scrollTo(100, document.body.scrollHeight);")
+deploy_btn.click()
+dialog = browser.switch_to.alert
+dialog.accept()
+print("refresh gitee pages finish.")
+browser.close()
+
+```
+
+参考: https://www.jianshu.com/p/6460df84a099
+
+https://blog.csdn.net/weixin_29981095/article/details/113987875
+## Pyinstaller
+
+![1618600264685](1618600264685.png)
+
+
+设置 运行参数
+
+```
+-F $FileNameWithoutExtension$.py
+```
+
+## TODO
+
+
+gitee pages 自动update(dev)
+
+
+tkinter界面
+
