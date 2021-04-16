@@ -1,6 +1,6 @@
 ---
 title: 'Python实现GitBook工具'
-cover: "/img/lynk/34.jpg"
+cover: "/img/lynk/84.jpg"
 date:       2021-04-17
 author:     "victor"
 tags:
@@ -12,7 +12,7 @@ tags:
 ## 写在前面
 本工具是通过Python脚本实现 GitBook 自动 生成 执行 编译 发布的功能
 
-你可以[下载exe](https://victorfengming.gitee.io/file/exe/gitbook-tools/gitbook-tools-21.4.18.exe) 并,阅读[readme](https://victorfengming.gitee.io/file/exe/gitbook-tools/readme.md)
+你可以[下载exe](https://victorfengming.gitee.io/file/exe/gitbook-tools/gitbook-tools-21.4.18.exe) 并,阅读[readme](https://victorfengming.gitee.io/file/exe/gitbook-tools/readme.html)
 
 ## 使用
 
