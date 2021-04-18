@@ -259,9 +259,6 @@ tags:
                 </a>
             </td>
             <td>
-                <a href="https://victorfengming.gitee.io/course/elasticsearch/index.html">
-                    <span>elasticsearch</span>
-                </a>
             </td>
             <td>
                 <a href="https://victorfengming.gitee.io/elk/">
@@ -286,7 +283,7 @@ tags:
                 </a>
             </td>
             <td>
-                <a href="https://victorfengming.gitee.io/course/jenkins/index.html">
+                <a href="http://victorfengming.gitee.io/jenkins/">
                     <span>jenkins</span>
                 </a>
             </td>
