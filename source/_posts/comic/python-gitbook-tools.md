@@ -1,7 +1,7 @@
 ---
 title: 'Python实现GitBook工具'
-cover: "/img/lynk/84.jpg"
-date:       2021-04-17
+cover: "/img/lynk/67.jpg"
+date:       2021-04-16
 author:     "victor"
 tags:
 	- gitbook

@@ -4,7 +4,7 @@ cover: "/img/lynk/84.jpg"
 date:       2021-04-17
 author:     "victor"
 tags:
-	- gitbook
+	- hexo
 	- Python
 	- node
 ---
@@ -400,18 +400,18 @@ from hexo_tools import HexoTool
 
 | --------------------------- HexoTool tools ---------------------------
 | @version: 21.4.23
-| @description: gitbook tools auto gen file & build & sync to git
+| @description: hexo tools auto gen file & build & sync to git
 | @author: victor
 | @site: https://victorfengming.gitee.io/
-| @introduce: https://victorfengming.gitee.io/comic/python-gitbook-tools/
-| @readme: https://victorfengming.gitee.io/file/exe/gitbook-tools/readme.md
-| @download: https://victorfengming.gitee.io/file/exe/gitbook-tools/gitbook-tools-21.4.21.exe
-| --------------------------- gitbook tools ---------------------------
+| @introduce: https://victorfengming.gitee.io/comic/python-hexo-tools/
+| @readme: https://victorfengming.gitee.io/file/exe/hexo-tools/readme.md
+| @download: https://victorfengming.gitee.io/file/exe/hexo-tools/hexo-tools-21.4.21.exe
+| --------------------------- hexo tools ---------------------------
 | TODO : 
 |     1. 递归扫描md文件,根据相对路径 生成`SUMMARY.md`
 |     2. cmd 日志 放入 tk页面 
 |     5. gitee pages auto update by chrome tools 
-| --------------------------- gitbook tools ---------------------------
+| --------------------------- hexo tools ---------------------------
 
 '''
 class Tk_gui():
@@ -541,7 +541,7 @@ print("| @site: https://victorfengming.gitee.io/")
 print("| @introduce: https://victorfengming.gitee.io/comic/python-hexo-tools/")
 print("| @readme: https://victorfengming.gitee.io/file/exe/hexo-tools/readme.md")
 print("| @download: https://victorfengming.gitee.io/file/exe/hexo-tools/hexo-tools-21.4.21.exe")
-print("| --------------------------- gitbook tools ---------------------------")
+print("| --------------------------- hexo tools ---------------------------")
 print("| 注意：使用前请将exe文件放到file.md同级目录下")
 # print("| ========================================")
 # print(os.path.isfile("E:\\Projects\\PycharmProjects\\untitled\\newFiletest\\12.md"))
