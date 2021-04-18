@@ -1,19 +1,14 @@
 ---
 title: "Gitbook文档索引"
-date: 2021-12-21 06:07:08 
-cover: "/img/lynk/11.jpg"
+date: 2021-12-21 06:07:08 cover: "/img/lynk/11.jpg"
 author: "victor"
 tags:
-    - index
-    - gitbook
+- index - gitbook
 ---
 
 
 > Created by [gitbook](https://www.gitbook.com/)
 >
-
-
-
 
 ## 脚本
 
@@ -356,6 +351,18 @@ tags:
             <td>
                 <a href="https://victorfengming.gitee.io/interview/">
                     <span>interview</span>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://victorfengming.gitee.io/rabbit_mq/">
+                    <span>rabbit_mq</span>
+                </a>
+            </td>
+            <td>
+                <a href="https://victorfengming.gitee.io/leetcode/">
+                    <span>leetcode</span>
                 </a>
             </td>
         </tr>
