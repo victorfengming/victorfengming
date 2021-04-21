@@ -12,9 +12,6 @@ tags:
 > Created by [gitbook](https://www.gitbook.com/)
 >
 
-
-
-
 ## 脚本
 
 <div>
@@ -259,9 +256,6 @@ tags:
                 </a>
             </td>
             <td>
-                <a href="https://victorfengming.gitee.io/course/elasticsearch/index.html">
-                    <span>elasticsearch</span>
-                </a>
             </td>
             <td>
                 <a href="https://victorfengming.gitee.io/elk/">
@@ -286,7 +280,7 @@ tags:
                 </a>
             </td>
             <td>
-                <a href="https://victorfengming.gitee.io/course/jenkins/index.html">
+                <a href="http://victorfengming.gitee.io/jenkins/">
                     <span>jenkins</span>
                 </a>
             </td>
@@ -359,6 +353,18 @@ tags:
             <td>
                 <a href="https://victorfengming.gitee.io/interview/">
                     <span>interview</span>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://victorfengming.gitee.io/rabbit_mq/">
+                    <span>rabbit_mq</span>
+                </a>
+            </td>
+            <td>
+                <a href="https://victorfengming.gitee.io/leetcode/">
+                    <span>leetcode</span>
                 </a>
             </td>
         </tr>

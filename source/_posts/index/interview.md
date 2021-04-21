@@ -13,15 +13,12 @@ tags:
 
 - [MySQL索引原理以及查询优化](https://www.cnblogs.com/bypp/p/7755307.html)
 - [MySQL索引的理解](https://www.cnblogs.com/curedfisher/p/12529670.html)
+- [栈中的方法peek()和pop()的比较](https://blog.csdn.net/xdc17824032252/article/details/94118980)
+ 
+ 
+ 
+ 
 
-
-
- 
- 
- 
- 
- 
- 
  
  
  
