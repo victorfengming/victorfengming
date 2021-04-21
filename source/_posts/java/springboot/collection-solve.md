@@ -1,7 +1,7 @@
 ---
 title: 'SpringBoot解决方案'
-cover: "/img/lynk/18.jpg"
-date:       2020-07-14
+cover: "/img/lynk/48.jpg"
+date:       2021-04-21
 subtitle: '各种问题' 
 author: "victor"
 tags:
