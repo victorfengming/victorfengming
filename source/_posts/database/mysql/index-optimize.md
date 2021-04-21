@@ -2,6 +2,7 @@
 title: "MySQL的索引与优化"
 cover: "/img/lynk/37.jpg"
 date:       2021-04-15
+author:       "victor"
 tags:
 	- database
 	- mysql
