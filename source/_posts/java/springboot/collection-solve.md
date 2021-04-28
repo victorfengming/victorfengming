@@ -164,3 +164,62 @@ public class EncryptorGenerator {
 
 
 原文:[使用ulisesbocchio对spring-boot项目properties配置文件信息加密](https://blog.csdn.net/weixin_34241036/article/details/92575297)
+
+
+---
+
+```xml
+<dependency>
+			<groupId>com.github.ulisesbocchio</groupId>
+			<artifactId>jasypt-spring-boot-starter</artifactId>
+			<version>2.1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.github.ulisesbocchio</groupId>
+			<artifactId>jasypt-spring-boot</artifactId>
+			<version>2.1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>org.jasypt</groupId>
+			<artifactId>jasypt</artifactId>
+			<version>1.9.2</version>
+		</dependency>
+```
+
+>问题分析: 因为考虑是内网，我们用的是自己的maven私服，光配置jasypt-spring-boot-starter 无法级联引入，需要单独去引入jasypt-spring-boot的jar 
+
+
+原文链接：[执笔记忆的空白](https://blog.csdn.net/moneyshi/article/details/108628693)
+
+# 创建SpringBoot项目出现Java：程序包org.springframework.stereotype 不存在——解决办法
+
+
+
+前言：在出现问题是查了很多相关的资料，都说的是缺少依赖，需要导包之类的，但是没有说在创建项目后没有选择JRE和Delegate IDE build/run actions to Maven,需要将项目交给Maven管理，希望能对大家有所帮助吧。
+
+## 一、问题
+
+**Java：程序包org.springframework.stereotype 不存在**
+
+**Java：程序包org.springframework.beans.factory.annotation不存在**
+
+![img](20200714111912938.png)
+
+## 二、解决方法
+
+1.File——Settings
+
+![img](20200714111923702.png)
+
+ 2.Setting——Build，Execution，Deployment——Maven——Runner—选择Delegate IDE，选择自己安装的JRE的路径——OK
+
+![img](20200714111930652.png)
+
+成功启动
+
+![img](20200714111944812.png)
+
+选好之后运行能成功，因为自己出现好几次这样的问题了，所以记录一下，以免下次出现还不会解决。
+
+
+from [here](https://blog.csdn.net/yyp0304Devin/article/details/107334656)
