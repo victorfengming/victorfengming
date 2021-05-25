@@ -8,3 +8,9 @@ tags:
 ---
 
 - [PyTorch官方教程中文版](https://pytorch123.com/)
+
+- [Go语言圣经](https://books.studygolang.com/gopl-zh/)
+
+
+
+
