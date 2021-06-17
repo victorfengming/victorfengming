@@ -40,3 +40,16 @@ https://gitee.com/gober/go.uuid?_from=gitee_search
 
 - [vue-markdown-editor](http://ckang1229.gitee.io/vue-markdown-editor/)
 
+
+## tree
+window 下的 tree 垃圾一个
+npm 可以安装 tree 和 treer
+
+```shell
+npm install treer -g
+```
+
+使用
+```shell
+treer -i "node_modules"
+```
