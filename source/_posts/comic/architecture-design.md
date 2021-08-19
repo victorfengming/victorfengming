@@ -1,7 +1,7 @@
 ---
 title: 'DDD领域驱动设计实战'
 cover: "/img/lynk/79.jpg"
-date:       2020-01-10
+date:       2021-08-18
 subtitle: 'Domain-Driven Design'
 tags:
 	- DDD
