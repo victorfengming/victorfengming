@@ -1,7 +1,7 @@
 ---
 title: "Gitee笔记索引"
-date: 2021-12-21 06:07:09 
-cover: "/img/lynk/71.jpg"
+date: 2020-12-21 06:07:09 
+cover: "/img/lynk/79.jpg"
 author: "victor"
 tags:
     - index
