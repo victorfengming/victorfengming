@@ -119,6 +119,8 @@ tags:
 - [设计高并发系统的时候_数据库层面该如何设计](http://victorfengming.gitee.io/file/pdf/inter/MySQL_adv/设计高并发系统的时候_数据库层面该如何设计.pdf)
 ### Mysql_base
 - [关于mysql的三范式_ACID_索引的实现](http://victorfengming.gitee.io/file/pdf/inter/Mysql_base/关于mysql的三范式_ACID_索引的实现.pdf)
+- [MySQL_Study_Log](http://victorfengming.gitee.io/file/pdf/mysql/MySQL_Study_Log.pdf)
+
 ### net
 - [TCP&UDP区别_TCP三次握手目的_OSI七层模型_get和post区别](http://victorfengming.gitee.io/file/pdf/inter/net/TCP&UDP区别_TCP三次握手目的_OSI七层模型_get和post区别.pdf)
 ### Netty
