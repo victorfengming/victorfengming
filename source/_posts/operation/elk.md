@@ -37,6 +37,7 @@ kibana
 
 
 
+
 版本
 
 
@@ -176,6 +177,8 @@ xpack.security.transport.ssl.truststore.path: /opt/app/elk6.8.0/elasticsearch-6.
 
 ## 启动es
 
+>ps -ef|grep ela
+
 
 ```
 cd /opt/app/elk6.8.0/elasticsearch-6.8.0
@@ -186,7 +189,7 @@ nohup ./bin/elasticsearch >> output.log 2>&1 &
 
 ps -ef|grep ela
 
-tail output.log
+tail -f output.log
 ```
 
 ## 解决方案
@@ -284,7 +287,7 @@ setup.kibana:
 ```shell
 cd /opt/app/elk6.8.0/filebeat-6.8.0-linux-x86_64
 
-rm output.log
+rm output1.log
 
 nohup ./filebeat -e -c ./f2l2e-log.yml  >> output1.log 2>&1 &
 # -e 标准启动 -c 指定配置文件
@@ -297,7 +300,7 @@ ps -ef|grep filebeat
 ```shell
 cd /opt/applog/
 
-echo "victor990" >> a.log
+echo "victor279" >> q.log
 ```
 
 
@@ -338,7 +341,7 @@ output.elasticsearch:
 ```shell
 cd /opt/app/elk6.8.0/filebeat-6.8.0-linux-x86_64
 
-rm output.log
+rm output2.log
 
 nohup ./filebeat -e -c ./f2e-log.yml  >> output2.log 2>&1 &
 # -e 标准启动 -c 指定配置文件
@@ -383,20 +386,18 @@ https://blog.csdn.net/beyond_qjm/article/details/81945527
 
 
 ```shell
-cd /opt/app/elk6.8.0/logstash-6.8.0/bin
-
 
 # ./logstash -f ../config/logstash-sample.conf 
 
-cd /opt/app/elk6.8.0/logstash-6.8.0/bin
+cd /opt/app/elk6.8.0/logstash-6.8.0/
 
 rm output.log
 
-nohup ./logstash -f ../config/logstash-sample.conf   >> output.log 2>&1 &
+nohup ./bin/logstash -f ./config/f2l2e-pipelines.yml   >> output.log 2>&1 &
 
 ps -ef|grep logstash
 
-tail output.log
+tail -f output.log
 ```
 
 
@@ -484,6 +485,8 @@ rm output.log
 nohup ./bin/logstash -f ./config/f2l2e-pipelines.yml  >> output.log 2>&1 &
 
 ps -ef|grep logstash
+
+tail -f output.log
 ```
 
 
@@ -499,4 +502,68 @@ echo "victor991" >> f.log
 单独测试 
 
 filebeat 连 logstash
+
+ ```
+touch f2l-pipelines.yml
+ ```
+
+```yml
+input {
+   beats {
+     port => 5044   #要监听的端口
+   }
+}
+output {
+    stdout { codec => rubydebug }
+}
+```
+
+```shell
+cd /opt/app/elk6.8.0/logstash-6.8.0
+
+rm output.log
+
+nohup ./bin/logstash -f ./config/f2l-pipelines.yml  >> output.log 2>&1 &
+
+ps -ef|grep logstash
+```
+
+
+
+---
+
+
+
+
+
+
+
+```yml
+filebeat.inputs:
+- type: log
+  enabled: true
+  paths:
+    - /opt/applog/*.log
+  tags: ["web", "test"]
+  fields:
+    from: test-web
+  fields_under_root: false
+setup.template.settings:
+  index.number_of_shards: 1
+output.logstash:
+  hosts: ["10.221.154.186:5044"]
+```
+
+```shell
+cd /opt/app/elk6.8.0/filebeat-6.8.0-linux-x86_64
+
+rm output.log
+
+nohup ./filebeat -e -c ./f2l-log.yml  >> output1.log 2>&1 &
+# -e 标准启动 -c 指定配置文件
+ps -ef|grep filebeat
+
+
+
+```
 
