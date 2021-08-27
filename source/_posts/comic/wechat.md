@@ -21,4 +21,4 @@ tags:
 觉得有用可以请作者喝杯咖啡
 
 
-<img src="pay.jpg" height="200" width="200" />
+<img src="pay.png" height="200" width="200" />
