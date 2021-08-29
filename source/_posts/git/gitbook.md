@@ -1,7 +1,7 @@
 ---
 title: "Gitbook安装问题"
 cover: "/img/lynk/84.jpg"
-date:       2021-02-04
+date:       2021-08-29
 subtitle: "问题解决"
 tags:
 	- gitbook
