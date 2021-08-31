@@ -63,7 +63,6 @@ https://blog.csdn.net/yehongzhi1994/article/details/109459225
 官网下载
 
 
-
 > filebeat-6.8.0-linux-x86_64.tar.gz
 >
 > logstash-6.8.0.tar.gz
@@ -71,7 +70,6 @@ https://blog.csdn.net/yehongzhi1994/article/details/109459225
 > elasticsearch-6.8.0.tar.gz
 >
 > kibana-6.8.0-linux-x86_64.tar.gz
-
 
 
  找到config目录下的elasticsearch.yml文件，修改配置： 
@@ -89,8 +87,6 @@ node.master: false
 node.data: true
 node.ingest: false
 ```
-
-
 
 
 
@@ -112,8 +108,6 @@ xpack.security.transport.ssl.verification_mode: certificate
 xpack.security.transport.ssl.keystore.path: /opt/app/elk6.8.0/elasticsearch-6.8.0/elastic-certificates.p12
 xpack.security.transport.ssl.truststore.path: /opt/app/elk6.8.0/elasticsearch-6.8.0/elastic-certificates.p12
 ```
-
-
 
 
 
@@ -168,7 +162,6 @@ xpack.security.transport.ssl.verification_mode: certificate
 xpack.security.transport.ssl.keystore.path: /opt/app/elk6.8.0/elasticsearch-6.8.0/elastic-certificates.p12
 xpack.security.transport.ssl.truststore.path: /opt/app/elk6.8.0/elasticsearch-6.8.0/elastic-certificates.p12
 ```
-
 
 
 
