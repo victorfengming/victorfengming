@@ -1,6 +1,6 @@
 ---
 title: '微信号路边摊在线版'
-cover: "/img/lynk/84.jpg"
+cover: "/img/lynk/34.jpg"
 date:       2021-08-24
 tags:
 	- entertainment

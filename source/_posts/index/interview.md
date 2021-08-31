@@ -1,7 +1,7 @@
 ---
 title: "面试题大全"
 date: 2021-04-21 05:07:08 
-cover: "/img/lynk/28.jpg"
+cover: "/img/lynk/68.jpg"
 author: "victor"
 tags:
     - index
