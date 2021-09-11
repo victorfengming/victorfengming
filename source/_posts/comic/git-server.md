@@ -44,6 +44,8 @@ $ chmod 644 .ssh/authorized_keys
 ```
 
 
+![image.png](5.png)
+
 
 ### 3、初始化Git仓库
 
