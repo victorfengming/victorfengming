@@ -336,3 +336,22 @@ DDD中对这个Business是有说道的
 https://www.bilibili.com/video/BV1Y341167Xp?from=search&seid=8938952084618205028
 
 2小时掌握宇宙最强DDD（Data Display Debugger）DDD领域驱动设计实战
+
+
+
+---
+
+
+
+![1631600715895](1631600715895.png)
+
+
+
+![1631600712581](1631600712581.png)
+
+
+
+
+
+
+
