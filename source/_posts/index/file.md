@@ -235,6 +235,6 @@ tags:
 
 # Book
 
-- [DDD_领域驱动设计_精简版](https://victorfengming.gitee.io/file/book/DDD_领域驱动设计_精简版.pdf)
-- [实现领域驱动设计](https://victorfengming.gitee.io/file/book/实现领域驱动设计.pdf)
-- [领域驱动设计软件复杂性之道](https://victorfengming.gitee.io/file/book/领域驱动设计软件复杂性之道.pdf)
+- [DDD_领域驱动设计_精简版](https://victorfengming.gitee.io/file/book/ddd/DDD_领域驱动设计_精简版.pdf)
+- [实现领域驱动设计](https://victorfengming.gitee.io/file/book/ddd/实现领域驱动设计.pdf)
+- [领域驱动设计软件复杂性之道](https://victorfengming.gitee.io/file/book/ddd/领域驱动设计软件复杂性之道.pdf)
