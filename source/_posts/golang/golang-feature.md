@@ -205,3 +205,10 @@ golang不支持try...catch这样的结构化的异常解决方式，因为觉得
 > 最大牌的当属B和C语言设计者、Unix和Plan 9创始人、1983年图灵奖获得者Ken Thompson，这份名单中还包括了Unix核心成员Rob Pike（go语言之父）、java HotSpot虚拟机和js v8引擎的开发者Robert Griesemer、Memcached作者Brad Fitzpatrick，等等。
 
 
+
+
+
+# Go1.16新特性
+
+## 1. 泛型
+

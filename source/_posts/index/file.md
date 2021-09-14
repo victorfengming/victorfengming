@@ -231,3 +231,10 @@ tags:
 - [多线程面试59题（含答案）](https://victorfengming.gitee.io/file/pdf/tuling/多线程面试59题（含答案）.pdf)
 - [大数据面试题 100道](https://victorfengming.gitee.io/file/pdf/tuling/大数据面试题100道.pdf)
 - [设计模式面试题 14道](https://victorfengming.gitee.io/file/pdf/tuling/设计模式面试题14道.pdf)
+
+
+# Book
+
+- [DDD_领域驱动设计_精简版](https://victorfengming.gitee.io/file/book/DDD_领域驱动设计_精简版.pdf)
+- [实现领域驱动设计](https://victorfengming.gitee.io/file/book/实现领域驱动设计.pdf)
+- [领域驱动设计软件复杂性之道](https://victorfengming.gitee.io/file/book/领域驱动设计软件复杂性之道.pdf)
