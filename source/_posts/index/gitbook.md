@@ -60,7 +60,7 @@ tags:
                 </a>
             </td>
             <td>
-                <a href="https://victorfengming.gitee.io/course/network/index.html">
+                <a href="https://victorfengming.gitee.io/network/">
                     <span>network</span>
                 </a>
             </td>
