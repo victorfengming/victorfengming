@@ -20,6 +20,7 @@ tags:
 - [sgg_Nginx](https://victorfengming.gitee.io/file/pdf/sgg_Nginx.pdf)
 - [sgg_Redis](https://victorfengming.gitee.io/file/pdf/sgg_Redis.pdf)
 - [sgg_regex](https://victorfengming.gitee.io/file/pdf/sgg_regex.pdf)
+- [sgg_rabbitmq](https://victorfengming.gitee.io/file/pdf/rabbitmq/sgg_rabbitmq.pdf)
 - [sgg_shell](https://victorfengming.gitee.io/file/pdf/sgg_shell.pdf)
 - [sgg_Spring](https://victorfengming.gitee.io/file/pdf/sgg_Spring.pdf)
 - [sgg_SpringMVC](https://victorfengming.gitee.io/file/pdf/sgg_SpringMVC.pdf)
