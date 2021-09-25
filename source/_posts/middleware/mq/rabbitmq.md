@@ -1,7 +1,7 @@
 ---
 title: 'RabbitMQ面试题'
 cover: "/img/lynk/97.jpg"
-date:       2021-06-24
+date:       2021-09-25
 subtitle: 'Erlang语言编写的面向消息的中间件'
 tags:
   - base
