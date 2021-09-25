@@ -223,3 +223,13 @@ mandatory: false 直接丢弃。
 
 <p><strong>镜像集群模式</strong>：这种模式，才是所谓的 RabbitMQ 的高可用模式，跟普通集群模式不一样的是，你创建的 queue，无论元数据 (元数据指 RabbitMQ 的配置数据) 还是 queue 里的消息都会存在于多个实例上，然后每次你写消息到 queue 的时候，都会自动把消息到多个实例的 queue 里进行消息同步。</p>
 
+
+
+# 原文链接:
+
+[zhangc233](https://zhangc233.github.io/2021/07/30/RabbitMQ%E9%9D%A2%E8%AF%95%E9%A2%98/#%E9%98%9F%E5%88%97%E7%BB%93%E6%9E%84%EF%BC%9F)
+
+
+# 参考文档
+
+[sgg_rabbitmq](https://victorfengming.gitee.io/file/pdf/rabbitmq/sgg_rabbitmq.pdf)
