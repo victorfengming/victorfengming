@@ -22,6 +22,20 @@ tags:
 setxkbmap us -variant colemak
 ```
 
+
+在创建一个colemak.desktop
+
+```shell
+[Desktop Entry]
+
+Type=Application
+
+Exec=/home/victor/Desktop/qidong.sh
+
+```
+
+
+
 将脚本文件粘贴到 `~/.config/autostart`目录下面
 
 ![1617188993398](1617188993398.png)
