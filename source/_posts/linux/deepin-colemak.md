@@ -30,6 +30,8 @@ xmodmap -pke > ~/.Xmodmap
 修改文件内容如下:
 
 ```shell
+clear lock
+
 keycode  10 = 1 exclam 1 exclam
 keycode  11 = 2 at 2 at
 keycode  12 = 3 numbersign 3 numbersign
