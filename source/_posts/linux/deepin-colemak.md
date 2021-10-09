@@ -1,7 +1,7 @@
 ---
 title: "deepin系统开机自动切换colemak键盘布局"
 cover: "/img/lynk/16.jpg"
-date:       2021-03-31
+date:       2021-10-08
 author: "victor"
 tags:
 	- Linux
@@ -10,53 +10,24 @@ tags:
 ---
 
 
->
-> 首先 需要 准备一个启动脚本
-> 
 
-比如创建一个名为`qidong.sh`的文件
+## 1. xmodmap文件准备
 
-内容如下
+可以参考
 
-```shell
-setxkbmap us -variant colemak
-```
+https://wiki.archlinux.org/title/Xmodmap_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)
 
+我们需要一个colemak的映射文件,命名为` .Xmodmap `
 
-在创建一个colemak.desktop
+即 创建一个键映射表（即文件 `~/.Xmodmap`）： 
 
 ```shell
-[Desktop Entry]
-
-Type=Application
-
-Exec=/home/victor/Desktop/qidong.sh
-
+xmodmap -pke > ~/.Xmodmap
 ```
 
+![1633613241160](1633613241160.png)
 
-
-将脚本文件粘贴到 `~/.config/autostart`目录下面
-
-![1617188993398](1617188993398.png)
-
-重新启动即可
-
-```shell
-reboot
-```
-
-
-
-参考:
-
-https://blog.csdn.net/BenSYZ/article/details/104520678
-
-http://www.voidcn.com/article/p-bplopzoo-bwq.html
-
-https://baijiahao.baidu.com/s?id=1666002986214880905&wfr=spider&for=pc
-
-
+修改文件内容如下:
 
 ```shell
 clear lock
@@ -124,3 +95,72 @@ keycode 134 = Super_R NoSymbol Super_R
 keycode 135 = Menu NoSymbol Menu
 
 ```
+
+
+## 2. 测试是否生效
+
+```shell
+xmodmap ~/.Xmodmap
+```
+
+## 3. 配置开机启动
+
+
+>
+> 首先 需要 准备一个启动脚本
+> 
+
+比如创建一个名为`colemak.sh`的文件
+
+内容如下
+
+```shell
+xmodmap ~/.Xmodmap
+```
+
+将脚本文件粘贴到 `~/.config/autostart`目录下面
+
+生成启动快捷方式,也粘贴到 `~/.config/autostart`目录下面
+
+及`colemak.desktop`
+
+```shell
+[Desktop Entry]
+
+Type=Application
+
+Exec=/home/victor/.config/autostart/colemak.sh
+
+```
+
+
+
+![1633613256359](1633613256359.png)
+
+
+
+重新启动即可
+
+```shell
+reboot
+```
+
+
+
+# 参考:
+
+## 上个版本参考
+
+https://blog.csdn.net/BenSYZ/article/details/104520678
+
+http://www.voidcn.com/article/p-bplopzoo-bwq.html
+
+https://baijiahao.baidu.com/s?id=1666002986214880905&wfr=spider&for=pc
+
+## xmodmap参考: 
+
+https://wiki.archlinux.org/title/Xmodmap_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)
+
+colemak替换文件来自: 
+
+https://download.csdn.net/download/weixin_42176827/19824153
