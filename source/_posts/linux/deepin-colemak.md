@@ -94,6 +94,7 @@ keycode 135 = Menu NoSymbol Menu
 
 ```
 
+
 ## 2. 测试是否生效
 
 ```shell
@@ -144,7 +145,9 @@ reboot
 
 
 
-参考:
+# 参考:
+
+## 上个版本参考
 
 https://blog.csdn.net/BenSYZ/article/details/104520678
 
@@ -152,7 +155,7 @@ http://www.voidcn.com/article/p-bplopzoo-bwq.html
 
 https://baijiahao.baidu.com/s?id=1666002986214880905&wfr=spider&for=pc
 
-xmodmap参考: 
+## xmodmap参考: 
 
 https://wiki.archlinux.org/title/Xmodmap_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)
 
