@@ -1,11 +1,11 @@
 ---
 title: "Gitbook文档索引"
-date: 2022-12-21 06:07:08 
-cover: "/img/lynk/11.jpg"
+date: 2022-12-21 06:07:08 cover: "/img/lynk/11.jpg"
 author: "victor"
 tags:
-    - index
-    - gitbook
+
+- index - gitbook
+
 ---
 
 
@@ -139,6 +139,13 @@ tags:
             <td>
                 <a href="https://victorfengming.gitee.io/course/go/index.html">
                     <span>golang</span>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://victorfengming.gitee.io/go-camp/">
+                    <span>go-camp</span>
                 </a>
             </td>
         </tr>
