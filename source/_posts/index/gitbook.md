@@ -376,7 +376,7 @@ tags:
                 </a>
             </td>
             <td>
-                <a href="https://gitee.com/victorfengming/javase/">
+                <a href="https://victorfengming.gitee.io/javase/">
                     <span>javase</span>
                 </a>
             </td>
