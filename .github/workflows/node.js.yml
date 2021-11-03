@@ -34,6 +34,7 @@ jobs:
             nvm install v16.11.1;
             nvm use v16.11.1;
             cd /home/play/blog/victorfengming;
+            npm install hexo;
             git pull;
             hexo g
             "
