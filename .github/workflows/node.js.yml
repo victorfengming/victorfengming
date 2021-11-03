@@ -30,7 +30,7 @@ jobs:
           
     - name: 编译hexo
       run: |
-          ssh root@101.42.100.111 "
+          ssh play@101.42.100.111 "
             cd /home/play/blog/victorfengming;
             git pull;
             hexo g
