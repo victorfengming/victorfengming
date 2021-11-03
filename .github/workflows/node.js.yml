@@ -31,7 +31,8 @@ jobs:
     - name: 编译hexo
       run: |
           ssh root@101.42.100.111 "
-            nvm use 16.11.1;
+            nvm install v16.11.1;
+            nvm use v16.11.1;
             cd /home/play/blog/victorfengming;
             git pull;
             hexo g
