@@ -31,9 +31,9 @@ jobs:
     - name: 编译hexo
       run: |
           ssh root@101.42.100.111 "
+            nvm use 16.11.1;
             cd /home/play/blog/victorfengming;
             git pull;
-            nvm use 16.11.1;
             hexo g
             "
     - name: delete ssh key # 删除 ssh key
