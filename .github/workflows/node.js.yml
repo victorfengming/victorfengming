@@ -36,7 +36,7 @@ jobs:
             cd /home/play/blog/victorfengming;
             npm install hexo;
             git pull;
-            hexo g
+            npx hexo g;
             "
     - name: delete ssh key # 删除 ssh key
       run: rm -rf ~/.ssh/id_rsa
